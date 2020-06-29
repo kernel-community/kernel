@@ -1,11 +1,8 @@
 # Project information
 site_name: KERNEL
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://kernel.community
 site_author: Andy Tudhope
-site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project – customizable,
-  searchable, mobile-friendly, 40+ languages
+site_description: Learn how to take part in building a better web
 
 # Repository
 repo_name: andytudhope/kernel

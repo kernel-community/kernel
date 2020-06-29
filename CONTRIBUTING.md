@@ -1,6 +1,6 @@
 # Contributing
 
-Interested in contributing to the Material for MkDocs? Want to report a bug?
+Interested in contributing to KERNEL? Want to report a bug?
 Before you do, please read the following guidelines.
 
 ## Submission context
@@ -27,7 +27,7 @@ a Pull Request with a fix. However, before doing so, please read the
 You can request a new feature by submitting an issue to our GitHub Repository.
 If you would like to implement a new feature, please submit an issue with a
 proposal for your work first, to be sure that it is of use for everyone, as
-the Material for MkDocs is highly opinionated. Please consider what kind of
+KERNEL is highly opinionated. Please consider what kind of
 change it is:
 
 * For a **major feature**, first open an issue and outline your proposal so
@@ -71,12 +71,9 @@ go ahead.
   all times be installable through GitHub.
 
 3. **Pull Request**: After building the theme, commit the compiled output, push
-  your branch to GitHub and send a PR to `mkdocs-material:master`. If we
+  your branch to GitHub and send a PR to `kernel:master`. If we
   suggest changes, make the required updates, rebase your branch and push the
   changes to your GitHub repository, which will automatically update your PR.
 
 After your PR is merged, you can safely delete your branch and pull the changes
 from the main (upstream) repository.
-
-  [4]: https://squidfunk.github.io/mkdocs-material/customization/#environment-setup
-  [5]: https://squidfunk.github.io/mkdocs-material/customization/#build-process
