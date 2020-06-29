@@ -1,1 +1,7 @@
+docs/
+material/
+src/
+typings/
+CONTRIBUTING.md
+mkdocs.yml
 site/
