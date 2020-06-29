@@ -1,0 +1,103 @@
+# Project information
+site_name: KERNEL
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Andy Tudhope
+site_description: >-
+  Create a branded static site from a set of Markdown files to host the
+  documentation of your Open Source or commercial project – customizable,
+  searchable, mobile-friendly, 40+ languages
+
+# Repository
+repo_name: andytudhope/kernel
+repo_url: https://github.com/andytudhope/kernel
+edit_uri: ""
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    scheme: default
+    primary: white
+    accent: black
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.gif
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/andytudhope
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/cryptowanderer
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.extra
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Module 1:
+    - Intro to KERNEL: module-1/index.md
+    - Crafted Reading:
+      - The Play of Pattern: module-1/play-of-pattern.md
+      - Trust: module-1/trust.md
+    - Curated Material:
+      - Money Talks: module-1/money-language.md
+      - Conversation: module-1/conversation.md
+      - Purpose: module-1/purpose.md
