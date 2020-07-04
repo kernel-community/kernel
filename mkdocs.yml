@@ -98,3 +98,5 @@ nav:
       - Money Talks: module-1/money-language.md
       - Conversation: module-1/conversation.md
       - Purpose: module-1/purpose.md
+  - Tools: 
+    - Create & Connect: tools.md

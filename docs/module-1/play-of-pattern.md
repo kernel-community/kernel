@@ -33,8 +33,12 @@ Those who have **positively** changed the world were able to do so because they 
 
 Playing with pattern recognition as a framework for thought, and training ourselves to become conscious of the constant interplay of complementary opposites as a means of cultivating  presence, leads us to one very simple query:
 
-💡 **What is the question to which you are the universe's answer?**
+<div class="lightbulb">
+💡 What is the question to which you are the universe's answer?
+</div>
 
 and it's equally direct corollary:
 
-💡 **How can you respond most honestly, accurately, and lovingly?**
+<div class="lightbulb">
+💡 How can you respond most honestly, accurately, and lovingly?
+</div>

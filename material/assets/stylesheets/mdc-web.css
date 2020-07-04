@@ -361,7 +361,15 @@ img[align="right"]{ padding-left:10px }
 
 .card.half {
   float: left;
-  width: 44%;
+  width: 42%;
+}
+.card.third {
+  float: left;
+  width: 30%;
+}
+.card.tool {
+  height: 560px;
+  position: relative;
 }
 .clear {
   clear: both;
@@ -369,12 +377,18 @@ img[align="right"]{ padding-left:10px }
 .center {
   margin-left: 27%;
 }
+.curated-link {
+  position: absolute;
+  bottom: 10px;
+  width: 85%;
+}
 .curated-link p {
     background:#fff;
     width: 70%;
     margin: 0 auto;
     border: 1px solid #E5BB98;
     padding: 5px;
+    text-align: center;
 }
 .curated-link p:hover {
   background: #74C9AC;
@@ -391,12 +405,27 @@ img[align="right"]{ padding-left:10px }
   height: 400px;
   margin-left: 30px;
 }
+.lightbulb {
+  background-color: #F9F9FA;
+  padding: 8px;
+  border:1px solid #F9F9FA;
+  border-radius: 4px;
+  font-weight: bold;
+}
 
 /* Media Queries for cards */
 
 @media (max-width: 761px) {
   .card.half {
-    width: 100%
+    width: 100%;
+    margin: 10px auto !important;
+  }
+  .card.third {
+    width: 100%;
+    margin: 10px auto !important;
+  }
+  .card.tool {
+    height: 550px;
   }
   .center {
     margin-left: 0;

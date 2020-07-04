@@ -11,17 +11,33 @@ What is trust, and why is it first on the list of Core Learning Objectives?
 
 ## Liars and cheats
 
-Bitcoin began with maxim **"Don't trust, verify"**. That is, trust can only begin where verification ends. Trust is only *meaningful* once we have fully understood the ways in which we can be lied to. Because we can now codify the ways in which it is possible to cheat, we can also write executable software rules, with deterministic results, that prevent cheating in the protocols we use to define and transfer value. 
+Bitcoin began with maxim **"Don't trust, verify"**. 
 
-This demonstrates how to use complementary opposites as a mode of thought to identify patterns of meaning. We can build protocols with strong trust guarantees by defining clearly, **and encoding**, what it means to lie. To understand trust, you must know the details of all possible deceptions.
+That is, trust can only begin where verification ends. Trust is only *meaningful* once we have fully understood how people can lie. 
 
-This highlights that such rules do not mean we need no longer trust at all. It means that there is an *implicit shift* from trusting those who own the media by which we transfer value, to those with whom we are actually transacting. Take a moment to reflect on this statement.
+Because we can codify the ways in which it is possible to cheat, we can also write executable software rules, with deterministic results, that prevent cheating in the protocols we use to define and transfer value. 
+
+This demonstrates how to use [complementary opposites](../play-of-pattern) as a mode of thought to identify patterns of meaning. We can build protocols with strong trust guarantees by defining clearly, **and encoding**, what it means to lie. To understand trust, you must know the details of all possible deceptions.
+
+Such rules **do not** mean we need no longer trust at all. It means that there is an *implicit shift* from trusting those who own the media by which we transfer value, to those with whom we are actually transacting.
+
+<div class="lightbulb">
+💡 Take a moment to reflect on this statement
+</div>
 
 ## Vires in numeris
 
-The above is another early Bitcoin maxim which means "Truth in numbers". It goes back to Pythagoras, for whom "All things are number". The implicit shift towards trusting those we're actually transacting with is enabled due to a fundamental change in the language by which value is defined. Instead of regulatory fiat, enforced by legal prose and human courts backed by the threat of violence; Bitcoin enables a network of peers to create the conditions required for a functional currency through mathematics alone, enforced by deterministic computation.
+The above is another early Bitcoin maxim which means "Truth in numbers". 
 
-The saying also implies that trust has something to do with truth. The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. Publicly verifiable truth means more humans can reach consensus on the basic state of their shared realities and get on transacting in increasingly valuable ways based on new kinds of trust. 
+It goes back to Pythagoras, for whom "All things are number". The implicit shift towards trusting those we're actually transacting with is enabled due to a fundamental change in the language by which value is defined. Instead of regulatory fiat, enforced by legal prose and human courts backed by the threat of violence; Bitcoin enables a network of peers to create the conditions required for a functional currency through mathematics alone, enforced by deterministic computation.
+
+The saying also implies that
+
+<div class="lightbulb">
+💡 Trust has something to do with truth. 
+</div>
+
+The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. Publicly verifiable truth means more humans can reach consensus on the basic state of their shared realities and get on transacting in increasingly valuable ways based on new kinds of trust. 
 
 It's a **profound feedback loop**: use a universal language (math) to define succinctly what it means to cheat, enforce penalties in a deterministic and executable way based on your definitions (code), which allows more humans to experiment with interpersonal trust in ways previously unimaginable.
 
@@ -60,3 +76,11 @@ about game theory. Enjoy!
 </div>
 
 <div markdown="1" class="clear"></div>
+
+*We aim for KERNEL to be a high trust, give first community among highly talented, like-minded peers. Some of the key learnings from the game define how we think about the program, as well as the Web 3 space more generally.*
+
+![Trust 1](../img/trust1.png)
+
+![Trust 2](../img/trust2.png)
+
+![Trust 3](../img/trust3.png)
