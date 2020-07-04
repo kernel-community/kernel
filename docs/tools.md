@@ -18,7 +18,7 @@ description: An overview of both the technical and social tools we'ree be using 
 A bespoke Notion page that will help you get to know your cohort 
 and navigate all the different facets of the next 8 weeks. Find people to team up with, learn more about the structure and get access to yet more tools.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Explore](#)
 </div>
 
@@ -36,7 +36,7 @@ Our communal fireplace. This is a space for reflective and meditative
 conversations and connections - not instant gratification. We want to 
 build better conversations into Web 3, and that starts with using existing tools in more conscious ways.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Chat](#)
 </div>
 
@@ -58,7 +58,7 @@ The point of this course is very specifically NOT to overwhelm you with links we
 
 The best place to learn how to write a smart contract for beginners. There are some great new tutorials which will extend your skills.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Learn](https://cryptozombies.io/)
 </div>
 
@@ -74,7 +74,7 @@ The best place to learn how to write a smart contract for beginners. There are s
 
 An amazing set of tutorials by OpenZeppelin to improve your defensive coding. There is no better place to learn safe patterns for writing solid, secure code.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Go Deeper](https://ethernaut.openzeppelin.com/)
 </div>
 
@@ -90,7 +90,7 @@ An amazing set of tutorials by OpenZeppelin to improve your defensive coding. Th
 
 Austin Griffith's amazing educational sandbox. Just check it out for yourself...
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Play](https://eth.build/)
 </div>
 
@@ -110,7 +110,7 @@ Austin Griffith's amazing educational sandbox. Just check it out for yourself...
 
 An open-source library of React components and guides to help you make dApps everyone can use. 
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Create](https://rimble.consensys.design/)
 </div>
 
@@ -126,8 +126,8 @@ An open-source library of React components and guides to help you make dApps eve
 
 Though in early stages, there are some useful recipes here. It also uses theme-ui, so check out that library for all your normal design needs, especially if you're building in React.
 
-<div markdown="3" class="curated-link">
-[Create](https://design-system.mkr-js-prod.now.sh/recipes)
+<div markdown="3" class="tool-link">
+[Craft](https://design-system.mkr-js-prod.now.sh/recipes)
 </div>
 
 </div>
@@ -142,7 +142,7 @@ Though in early stages, there are some useful recipes here. It also uses theme-u
 
 A free and open web-based tool for creating any kind of diagram or flow chart you could ever need, which can easily be linked to GitHub.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Draft](https://app.diagrams.net/)
 </div>
 
@@ -164,7 +164,7 @@ Again, there are an almost endless amount of tools which are great depending on 
 
 The Ethereum Foundation's list of resources. Supposedly for those who are new, but there are many great tools here for everyone.
 
-<div markdown="3" class="curated-link">
+<div markdown="3" class="tool-link">
 [Read](https://ethereum.org/en/developers/)
 </div>
 
@@ -180,8 +180,8 @@ The Ethereum Foundation's list of resources. Supposedly for those who are new, b
 
 Until recently one of the most well-maintained and comprehensive lists of developer resources and tooling in Ethereum.
 
-<div markdown="3" class="curated-link">
-[Read](https://github.com/ConsenSys/ethereum-developer-tools-list)
+<div markdown="3" class="tool-link">
+[Write](https://github.com/ConsenSys/ethereum-developer-tools-list)
 </div>
 
 </div>
