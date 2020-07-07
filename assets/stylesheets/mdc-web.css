@@ -368,7 +368,7 @@ img[align="right"]{ padding-left:10px }
   width: 30%;
 }
 .card.tool {
-  height: 560px;
+  height: 520px;
   position: relative;
 }
 .clear {
@@ -411,6 +411,9 @@ img[align="right"]{ padding-left:10px }
   border:1px solid #F9F9FA;
   border-radius: 4px;
   font-weight: bold;
+}
+.tool-image p {
+  text-align: center;
 }
 
 /* Media Queries for cards */
