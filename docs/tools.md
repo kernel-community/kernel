@@ -11,15 +11,17 @@ description: An overview of both the technical and social tools we'ree be using 
 
 **Explorer**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Explorer](/assets/images/explorer.png)
 </div>
 
 A bespoke Notion page that will help you get to know your cohort 
 and navigate all the different facets of the next 8 weeks. Find people to team up with, learn more about the structure and get access to yet more tools.
 
+*Only visible to those in the KERNEL. 
+
 <div markdown="3" class="tool-link">
-[Explore](#)
+[Explore](https://www.notion.so/gitcoin/The-KERNEL-Explorer-c6c757dc9e844643a1ae89eb68243eae)
 </div>
 
 </div>
@@ -28,16 +30,16 @@ and navigate all the different facets of the next 8 weeks. Find people to team u
 
 **Slack**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Slack](/assets/images/slack.jpg)
 </div>
 
 Our communal fireplace. This is a space for reflective and meditative 
-conversations and connections - not instant gratification. We want to 
-build better conversations into Web 3, and that starts with using existing tools in more conscious ways.
+conversations and connections - not instant gratification. Here we 
+build better conversations which will evolve into Web 3.
 
 <div markdown="3" class="tool-link">
-[Chat](#)
+[Chat](https://kernel-community.slack.com)
 </div>
 
 </div>
@@ -52,7 +54,7 @@ The point of this course is very specifically NOT to overwhelm you with links we
 
 **CryptoZombies**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![CryptoZombies](/assets/images/zombie.png)
 </div>
 
@@ -68,7 +70,7 @@ The best place to learn how to write a smart contract for beginners. There are s
 
 **Ethernaut**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Ethernaut](/assets/images/zeppelin.jpg)
 </div>
 
@@ -84,7 +86,7 @@ An amazing set of tutorials by OpenZeppelin to improve your defensive coding. Th
 
 **Eth.build**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Diagrams](/assets/images/hammer-spanner.png)
 </div>
 
@@ -104,7 +106,7 @@ Austin Griffith's amazing educational sandbox. Just check it out for yourself...
 
 **Rimble**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Rimble](/assets/images/rimble.svg)
 </div>
 
@@ -120,7 +122,7 @@ An open-source library of React components and guides to help you make dApps eve
 
 **DAI-UI**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![DAI-UI](/assets/images/dai.png)
 </div>
 
@@ -136,7 +138,7 @@ Though in early stages, there are some useful recipes here. It also uses theme-u
 
 **Diagrams.net**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Diagrams](/assets/images/diagram.jpg)
 </div>
 
@@ -158,7 +160,7 @@ Again, there are an almost endless amount of tools which are great depending on 
 
 **Developer Resources**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Diagrams](/assets/images/ethereum.png)
 </div>
 
@@ -174,7 +176,7 @@ The Ethereum Foundation's list of resources. Supposedly for those who are new, b
 
 **Tools List**
 
-<div markdown="2">
+<div markdown="2" class="tool-image">
 ![Diagrams](/assets/images/consensys.svg)
 </div>
 

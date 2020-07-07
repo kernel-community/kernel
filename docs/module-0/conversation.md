@@ -57,3 +57,23 @@ There are many important takeaways here for the conversations we will be having 
 - *Can you think back to moments in your life when you "just knew" something? What was the quality and texture of that knowing? How can we cultivate more of that in our lives, and how can we build products which help "every human soul take [even a] single step" closer to their own truths?*
 
 > "More and more I see the value of human conversation: the value of what arises between us when we speak in truth with what we have and what we seek. All of us. When I see this human conversation that **must** arise again, there is something more that is asked here. Which is that human beings begin to converse for ourselves, and with ourselves, so that we can - once again - **find what was old community in future form**. And that will only grow out of a conversation about that which we know, and that which we wish to know."
+
+<div markdown="1" class="card half sidebar center gemoji center-content center">
+
+**Dialogue**
+
+<div markdown="2">
+![David Bohm](./img/david_bohm_and_jiddu_krishnamurti.jpg)
+</div>
+
+David Bohm was one of the most significant theoretical physicists of the 20th Century. He was also a close friend of Jiddu Krishnamurti.
+
+"With this common coherent consciousness we have a new kind of intelligence capable of thinking together. We have to begin with people who are open enough to start the dialogue."
+
+<div markdown="3" class="curated-link">
+[Participate](https://www.bohmdialogue.org/#bohmdialogue)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>

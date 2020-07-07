@@ -47,10 +47,10 @@ plugins:
 # Customization
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/andytudhope
+    - icon: fontawesome/brands/slack
+      link: https://kernel-community.slack.com
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/cryptowanderer
+      link: https://twitter.com/gitcoin
 
 # Extensions
 markdown_extensions:
@@ -89,14 +89,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started: getting-started.md
-  - Module 1:
-    - Intro to KERNEL: module-1/index.md
+  - Module 0:
+    - Intro to KERNEL: module-0/index.md
     - Crafted Reading:
-      - The Play of Pattern: module-1/play-of-pattern.md
-      - Trust: module-1/trust.md
+      - The Play of Pattern: module-0/play-of-pattern.md
+      - Trust: module-0/trust.md
     - Curated Material:
-      - Money Talks: module-1/money-language.md
-      - Conversation: module-1/conversation.md
-      - Purpose: module-1/purpose.md
+      - Money Talks: module-0/money-language.md
+      - Conversation: module-0/conversation.md
+      - Purpose: module-0/purpose.md
   - Tools: 
     - Create & Connect: tools.md

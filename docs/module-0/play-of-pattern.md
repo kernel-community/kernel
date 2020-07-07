@@ -15,7 +15,7 @@ description:
 
 KERNEL Fellows will separate themselves by their ability to **identify patterns**. 
 
-Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist in the world, as well as how you choose to interact with those already in in your environment is the single best thing you can do to improve your critical thinking skills.
+Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist in the world, as well as how you choose to interact with those in your environment is the single best thing you can do to improve your critical thinking skills.
 
 In particular, we hope KERNEL Fellows begin thinking in terms of **complementary opposites.**  
 

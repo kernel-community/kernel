@@ -43,7 +43,7 @@ The glue which binds these two tracks together is the **people** in your cohort.
 
 ## 📖 Learning Modules
 
-1. [L0: Introduction to KERNEL](module-1)
+1. [L0: Introduction to KERNEL](module-0)
 2. L1: Ethereum's History and State
 3. L2: A Global Financial System
 4. L3: Take Back The Web
