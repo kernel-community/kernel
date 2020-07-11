@@ -190,6 +190,66 @@ Until recently one of the most well-maintained and comprehensive lists of develo
 
 <div markdown="1" class="clear"></div>
 
+## Community Recommendations
+
+The single most important part of this page. These are the tools that the KERNEL Genesis Block recommend based on their own, personal use. We will only include tools that people use in their daily practice, or that they feel - deep down - genuinely changed their perspective, approach or workflow in profound and valuable ways.
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Whimsical**
+
+<div markdown="2" class="tool-image">
+![Machinations](/assets/images/whimsical.svg)
+</div>
+
+A visual workspace. You can build more beautiful flow charts more easily in here than in Diagrams.net, though perhaps not quite as extensive or complicated.
+
+<div markdown="3" class="tool-link">
+[Visualise](https://whimsical.com/)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Machinations**
+
+<div markdown="2" class="tool-image">
+![Machinations](/assets/images/machinations.svg)
+</div>
+
+A tool intended for game designers which can be put to great use for mechanism design and token economics.
+
+<div markdown="3" class="tool-link">
+[Mechanise](https://machinations.io/)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Community Reads
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**WEF Toolkit**
+
+<div markdown="2" class="tool-image">
+![WEF Toolkit](/assets/images/wef.svg)
+</div>
+
+The ultimate corporate toolkit for understanding and using blockchains if you've ever worn a suit. Created by the World Economic Forum. Very serious ;)
+
+<div markdown="3" class="tool-link">
+[Toolkit](http://widgets.weforum.org/blockchain-toolkit/modules)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+
+
 
 
 

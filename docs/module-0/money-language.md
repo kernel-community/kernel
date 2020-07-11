@@ -27,7 +27,7 @@ Briefs present the most relevant quotes from the linked resource, with small pie
 
 > "Primates can be taught to use money: i.e. there are studies which show that you can teach them that specific stones can be exchanged for bananas. Very quickly, they invent both armed robbery and prostitution. What does this tell you about the nature of money? The important insight is that _money is a form of communication_. At it's very basic level, money isn't value: money represents an abstraction of value. It's a way of _communicating value_. **Money is a language**."
 
-- _If money is a language, what does an innovation which its medium logically decentralized really mean? It may mean that no-one will control the expression of economic value in exactly the same way that no-one controls the meaning of words: they are arrived at consensually through common use. What will you choose to say in this ancient language we are revitalizing?_
+- _If money is a language, what does an innovation which makes its medium logically decentralized really mean? It may mean that no-one will control the expression of economic value in exactly the same way that no-one controls the meaning of words: they are arrived at consensually through common use. What will you choose to say in this ancient language we are revitalizing?_
 
 > "Communicating value to each other is the basis of creating social bonds. **Money is an important social tool**."
 
