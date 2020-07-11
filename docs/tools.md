@@ -194,6 +194,8 @@ Until recently one of the most well-maintained and comprehensive lists of develo
 
 The single most important part of this page. These are the tools that the KERNEL Genesis Block recommend based on their own, personal use. We will only include tools that people use in their daily practice, or that they feel - deep down - genuinely changed their perspective, approach or workflow in profound and valuable ways.
 
+### Design
+
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
 **Whimsical**
@@ -222,6 +224,74 @@ A tool intended for game designers which can be put to great use for mechanism d
 
 <div markdown="3" class="tool-link">
 [Mechanise](https://machinations.io/)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**sketch.systems**
+
+<div markdown="2" class="tool-image">
+![sketch.systems](/assets/images/sketch.png)
+</div>
+
+A tool for prototyping state machines. Useful especially during whiteboarding sessions and iterating quickly over different designs which you can play with in real time.
+
+<div markdown="3" class="tool-link">
+[Sketch](https://sketch.systems/anon/sketch/new)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+### Zero-knowledge
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**ZoKrates**
+
+<div markdown="2" class="tool-image">
+![ZoKrates](/assets/images/zokrates.svg)
+</div>
+
+A toolbox for zkSNARKs on Ethereum.
+
+<div markdown="3" class="tool-link">
+[Prove](https://github.com/zokrates/zokrates)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Matter Labs**
+
+<div markdown="2" class="tool-image">
+![Matter Labs](/assets/images/matterlabs.png)
+</div>
+
+This "zkSNARKs bible". 
+
+<div markdown="3" class="tool-link">
+[Discover](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**The Best Overview**
+
+<div markdown="2" class="tool-image">
+![The Best Overview](/assets/images/arxiv.jpg)
+</div>
+
+The most straightforward explanation, with examples, that we know.
+
+<div markdown="3" class="tool-link">
+[Understand](https://arxiv.org/pdf/1906.07221.pdf)
 </div>
 
 </div>
