@@ -1,33 +1,33 @@
 # Contributing
 
-Interested in contributing to KERNEL? Want to report a bug?
+Interested in contributing to KERNEL? Want to request a new feature?
 Before you do, please read the following guidelines.
 
-## Submission context
+## Getting Started
 
-### Got a question or problem?
+**Dependencies**:
 
-For quick questions there's no need to open an issue as you can reach us on
-[gitter.im][1].
+1. Python 2. I currently run version `2.7.17`
+2. [Mkdocs](https://www.mkdocs.org/). I currently run version `1.0.4`
 
-  [1]: https://gitter.im/squidfunk/mkdocs-material
+_There can be some confusion setting up your environment given the mess that is Python 2 and 3. I have both installed on my machine and simply use `python` for Python 2 and `python3` for Python 3._
 
-### Found a bug?
+![Kernel env setup](docs/assets/images/kernel-env.png)
 
-If you found a bug in the source code, you can help us by submitting an issue
-to the [issue tracker][2] in our GitHub repository. Even better, you can submit
-a Pull Request with a fix. However, before doing so, please read the
-[submission guidelines][3].
+**Steps to run locally**:
 
-  [2]: https://github.com/squidfunk/mkdocs-material/issues
-  [3]: #submission-guidelines
+1. `git clone https://github.com/andytudhope/kernel.git`
+2. `cd kernel`
+3. `mkdocs serve`
+
+You can run run `mkdocs build` to build the production site, but that shouldn't be necessary for contributions as you can simply use `serve` to check that your changes work before submitting a PR.
 
 ### Missing a feature?
 
 You can request a new feature by submitting an issue to our GitHub Repository.
 If you would like to implement a new feature, please submit an issue with a
 proposal for your work first, to be sure that it is of use for everyone, as
-KERNEL is highly opinionated. Please consider what kind of
+KERNEL is highly curated. Please consider what kind of
 change it is:
 
 * For a **major feature**, first open an issue and outline your proposal so
@@ -62,15 +62,11 @@ Search GitHub for an open or closed PR that relates to your submission. You
 don't want to duplicate effort. If you do not find a related issue or PR,
 go ahead.
 
-1. **Development**: Fork the project, set up the [development environment][4],
+1. **Test locally**: Fork the project, set up your local development environment,
   make your changes in a separate git branch and add descriptive messages to
   your commits.
 
-2. **Build**: Before submitting a pull requests, [build the theme][5]. This is
-  a mandatory requirement for your PR to get accepted, as the theme should at
-  all times be installable through GitHub.
-
-3. **Pull Request**: After building the theme, commit the compiled output, push
+2. **Pull Request**: After building the theme, commit the compiled output, push
   your branch to GitHub and send a PR to `kernel:master`. If we
   suggest changes, make the required updates, rebase your branch and push the
   changes to your GitHub repository, which will automatically update your PR.
