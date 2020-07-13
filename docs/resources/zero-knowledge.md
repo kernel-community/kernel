@@ -5,7 +5,7 @@ description: A highly curated selection of the best zkSNARK tools and explainers
 
 # Zero-knowledge
 
-Socrates was famously declared the wisest man in the world by the oracle at Delphi, which caused him [endless problems](http://classics.mit.edu/Plato/apology.html). Lesson: oracles have always been an issue - there is nothing new under the sun. Being a proto-Bitcoiner, he didn't take the oracles word but set out to verify this for himself, consistenly proclaiming that the only reason it could be true was that everyone else proclaimed to some knowledge, while he at least **knew** that he knew nothing. Please find all the nothings we know below.
+Socrates was famously declared the wisest man in the world by the oracle at Delphi, which caused him [endless problems](http://classics.mit.edu/Plato/apology.html). Lesson: oracles have always been an issue - there is nothing new under the sun. Being a proto-Bitcoiner, he didn't take the oracle's word but set out to verify this for himself, consistenly saying that the only reason it could be true was that everyone else proclaimed to some knowledge, while he at least **knew** that he knew nothing. Please find all the nothings we know below.
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
@@ -107,14 +107,10 @@ AZTEC Protocol’s paper by Zachary J. Williamson is very clear and especially r
 ![AZTEC](/assets/images/aztec.png)
 </div>
 
-Enjoy two for the price of one with the PLONK paper by the AZTEC team and Vitalik’s comments.
+Enjoy two for the price of one with the PLONK paper by the AZTEC team and [Vitalik’s comments](https://vitalik.ca/general/2019/09/22/plonk.html).
 
 <div markdown="3" class="tool-link">
-[Dive](https://eprint.iacr.org/2019/953.pdf)
-</div>
-
-<div markdown="3" class="tool-link">
-[DiDeeperve](https://vitalik.ca/general/2019/09/22/plonk.html)
+[Dive In](https://eprint.iacr.org/2019/953.pdf)
 </div>
 
 </div>
@@ -130,7 +126,7 @@ Enjoy two for the price of one with the PLONK paper by the AZTEC team and Vitali
 Anna Rose's podcast collects presentations on zero knowledge topics from different teams and should serve as a sweet ending to all this research.
 
 <div markdown="3" class="tool-link">
-[Listen](https://www.zeroknowledge.fm/zkseries)
+[Enjoy](https://www.zeroknowledge.fm/zkseries)
 </div>
 
 </div>
