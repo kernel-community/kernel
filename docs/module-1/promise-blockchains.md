@@ -66,6 +66,6 @@ It starts with time.
 
 > "global computing surface onto which stuff like the Internet of Things can be loaded. It takes all the little bits of our computing power and **turns them into a global knowledge resource** that manages the basic infrastructure of our society."
 
-- Most importantly for all of this unimaginable strangeness now becoming reality: distributed DBs don't create new political loci of control. So no-one owns the stack on which society runs.
+- Most importantly for all of this unimaginable strangeness now becoming reality: distributed DBs don't create new political loci of control. No-one owns the stack on which society runs.
 
 - From here (21:00 onward) there is lots of political and cultural stuff not relevant to this specific brief, though it is still worth acquainting yourself with some of the sci-fi titles Vinay mentions as they do play a role in the underlying culture at which this talk is pointing.

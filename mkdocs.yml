@@ -108,5 +108,9 @@ nav:
       - Promises, Promises: module-1/promise-blockchains.md
       - Understanding Ethereum: module-1/understanding-ethereum.md
       - Joyful Subversion: module-1/joyful-subversion.md
-  - Tools: 
-    - Create & Connect: tools.md
+  - Resources: 
+    - Connect: resources/index.md
+    - Create: resources/design-spec.md
+    - Code: resources/smart-contracts.md
+    - Cogitate: resources/read.md
+    - Conceal: resources/zero-knowledge.md

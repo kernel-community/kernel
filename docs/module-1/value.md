@@ -3,7 +3,7 @@ title: Value
 description:
 ---
 
-# Value
+# 💯 Value
 
 What is value? This is, in a sense, the ultimate question. So, how can we use our new thinking skills based on complementary opposites to break it down and come to some useful insights? 
 
@@ -15,13 +15,13 @@ What is value? This is, in a sense, the ultimate question. So, how can we use ou
 
 We can begin by asking, "What destroys value?" Some suggestions include: inefficiency, disagreement, fear, deception, dispersion, hatred.
 
-Hopefully you can begin to see why playing with pattern is such a valuable and powerful means of thinking. Instead of egotistically presupposing we can drive straight into a coherent answer, the idea is to explore the space of seeming opposition as this, more often than not, sheds light in surprising ways on the original question. In the same way that building trustless protocols means defining clearly why it means to cheat; we can come to understand far more about value by considering first what it is not.
+Hopefully you can begin to see why playing with pattern is such a valuable and powerful means of thinking. Instead of egotistically presupposing we can drive straight into a coherent answer, the idea is to explore the space of seeming opposition as this, more often than not, sheds light in surprising ways on the original question. In the same way that building trustless protocols means defining clearly what it means to cheat; we can come to understand far more about value by considering first what it is not.
 
 If it is not inefficiency, disagreement, fear, deception and hatred, then it seems like **trust in clearly shared truths** lies at the core of how we might generate valuable interactions between people.
 
 ## Consensus
 
-So, how do we create shared truth? The simple answer is: *through fiction*. People tend to look down on fiction, even though it is really just the lie which reveals the truth. What matters most in terms of true value generation is the efficiency of the language you employ to tell your fiction. 
+So, how do we create shared truth? The simple answer is: *through fiction*. People tend to look down on fiction, even though it is really just the lie which reveals truth. What matters most in terms of true value generation is the efficiency of the language you employ to tell your fiction. 
 
 The legal fiction of the firm resulted in orders of magnitude improvement in our ability to generate value based on new kinds of transactions. It has also ended up being extractive and corrupt, because legal text must be parsed and interpreted by humans, who are error-prone and easy to manipulate; and because legal text is - in fact - enforced by the threat of violence which relies on the asymmetric power of a nation state.
 

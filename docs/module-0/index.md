@@ -1,5 +1,5 @@
 ---
-title: Module 1 - An Introduction to KERNEL
+title: Module 0 - An Introduction to KERNEL
 description: An overview of the KERNEL Learn Track, which will teach you to think about and build a better web.
 ---
 
