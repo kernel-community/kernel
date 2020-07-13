@@ -98,5 +98,15 @@ nav:
       - Money Talks: module-0/money-language.md
       - Conversation: module-0/conversation.md
       - Purpose: module-0/purpose.md
+  - Module 1:
+    - Ethereum's History & State: module-1/index.md
+    - Crafted Reading:
+      - Meaning: module-1/meaning.md
+      - Value: module-1/value.md
+    - Curated Material:
+      - Playdough Protocols: module-1/playdough-protocols.md
+      - Promises, Promises: module-1/promise-blockchains.md
+      - Understanding Ethereum: module-1/understanding-ethereum.md
+      - Joyful Subversion: module-1/joyful-subversion.md
   - Tools: 
     - Create & Connect: tools.md

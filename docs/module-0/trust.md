@@ -77,6 +77,16 @@ about game theory. Enjoy!
 
 <div markdown="1" class="clear"></div>
 
+---
+
+### Trust in community
+
+Big thanks to James Young for this fantastic addition to our syllabus. As above, protocols which define in executable language what it means to cheat allow us to explore new trust spaces between the human beings actually transacting. This implies a need for us to understand what trust means on a sociological and psychological level and, for this, we turn to Brené Brown:
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/1EXMsKZAeL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 *We aim for KERNEL to be a high trust, give first community among highly talented, like-minded peers. Some of the key learnings from the game define how we think about the program, as well as the Web 3 space more generally.*
 
 ![Trust 1](../img/trust1.png)
