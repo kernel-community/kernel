@@ -20,7 +20,7 @@ _There can be some confusion setting up your environment given the mess that is 
 2. `cd kernel`
 3. `mkdocs serve`
 
-You can run run `mkdocs build` to build the production site, but that shouldn't be necessary for contributions as you can simply use `serve` to check that your changes work before submitting a PR.
+You can run `mkdocs build` to build the production site, but that shouldn't be necessary for contributions as you can simply use `serve` to check that your changes work before submitting a PR.
 
 ### Missing a feature?
 
