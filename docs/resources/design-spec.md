@@ -245,6 +245,50 @@ Though in early stages, there are some useful recipes here. It also uses theme-u
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
+## Recordings
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**How to stop building 💩 people do not need**
+
+<div markdown="2" class="tool-image">
+![DAI-UI](/assets/images/youtube.jpg)
+</div>
+
+Catch up on our first design session with Zach (Consensys) and Katie (Google).
+
+They discuss human-centred design and best practices for user research and feedback.
+
+<div markdown="3" class="tool-link">
+[Watch](https://www.youtube.com/watch?v=ZaLklyGucmo)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Hypersprint with Deepwork**
+
+<div markdown="2" class="tool-image">
+![DeepWork](/assets/images/deep-work.png)
+</div>
+
+Catch up with Session 1 of DeepWork's HyperSprint sessions.
+
+Andrej introduces a streamlined sprint process and discusses how to build awesome prototypes in 4 days flat.
+
+<div markdown="3" class="tool-link">
+[Watch](https://youtu.be/GgPfP_3cR9U)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+
+
 
 
 
