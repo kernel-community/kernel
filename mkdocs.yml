@@ -108,6 +108,8 @@ nav:
       - Promises, Promises: module-1/promise-blockchains.md
       - Understanding Ethereum: module-1/understanding-ethereum.md
       - Joyful Subversion: module-1/joyful-subversion.md
+  - Gaming:
+    - Week 0: gaming/week-0.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
