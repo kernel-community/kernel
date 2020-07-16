@@ -106,3 +106,51 @@ Until recently one of the most well-maintained and comprehensive lists of develo
 </div>
 
 <div markdown="1" class="clear"></div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**EatTheBlocks**
+
+<div markdown="2" class="tool-image">
+![Diagrams](/assets/images/eattheblocks.jpg)
+</div>
+
+A great YouTube channel for getting started with blockchain development.
+
+<div markdown="3" class="tool-link">
+[Watch](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Dapp University**
+
+<div markdown="2" class="tool-image">
+![Diagrams](/assets/images/dapp-uni.jpg)
+</div>
+
+Another YouTube channel community recommendation which will help you hone your web3 skillz.
+
+<div markdown="3" class="tool-link">
+[Learn](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**The 'Crypto' Part**
+
+<div markdown="2" class="tool-image">
+![Diagrams](/assets/images/coursera.png)
+</div>
+
+One of the best introductions to cryptography our community knows. Enrol for free before it starts on August 3rd!
+
+<div markdown="3" class="tool-link">
+[Encrypt](https://www.coursera.org/learn/crypto/)
+</div>
+
+</div>
