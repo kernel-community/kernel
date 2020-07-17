@@ -9,6 +9,8 @@ Before you do, please read the following guidelines.
 
 1. Python 2. I currently run version `2.7.17`
 2. [Mkdocs](https://www.mkdocs.org/). I currently run version `1.0.4`
+3. [mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin)
+4. [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
 _There can be some confusion setting up your environment given the mess that is Python 2 and 3. I have both installed on my machine and simply use `python` for Python 2 and `python3` for Python 3._
 

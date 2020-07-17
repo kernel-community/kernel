@@ -114,3 +114,6 @@ nav:
     - Code: resources/smart-contracts.md
     - Cogitate: resources/read.md
     - Conceal: resources/zero-knowledge.md
+    - Cavort: 
+        - Checkpoint: resources/gaming/index.md
+        - Curveball: resources/gaming/curveball.md
