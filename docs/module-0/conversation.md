@@ -34,7 +34,7 @@ There are many important takeaways here for the conversations we will be having 
 
 > "I missed **True Voice**". 
 
-- *What is True Voice? Have you ever heard it?*
+- What is True Voice? Have you ever heard it?
 
 > "People listen. There are pauses between speaking which are filled with thinking, and with understanding." 
 
