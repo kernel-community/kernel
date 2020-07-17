@@ -27,17 +27,17 @@ Such rules **do not** mean we need no longer trust at all. It means that there i
 
 ## Vires in numeris
 
-The above is another early Bitcoin maxim which means "Truth in numbers". 
+The above is another early Bitcoin maxim which means "Strength in numbers". 
 
 It goes back to Pythagoras, for whom "All things are number". The implicit shift towards trusting those we're actually transacting with is enabled due to a fundamental change in the language by which value is defined. Instead of regulatory fiat, enforced by legal prose and human courts backed by the threat of violence; Bitcoin enables a network of peers to create the conditions required for a functional currency through mathematics alone, enforced by deterministic computation.
 
-The saying also implies that
+The saying holds this _double entendre_ which implies both that using numbers and mathemtical consensus gives us the strength to lay down what Andreas Antonopolous will later call 'unassailable facts', while also pointing at that which gives power and meaning to any narrative: the community which believes it. The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. This implies that
 
 <div class="lightbulb">
 💡 Trust has something to do with truth. 
 </div>
 
-The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. Publicly verifiable truth means more humans can reach consensus on the basic state of their shared realities and get on transacting in increasingly valuable ways based on new kinds of trust. 
+Publicly verifiable truth means more humans can reach consensus on the basic state of their shared realities and get on transacting in increasingly valuable ways based on new kinds of trust. 
 
 It's a **profound feedback loop**: use a universal language (math) to define succinctly what it means to cheat, enforce penalties in a deterministic and executable way based on your definitions (code), which allows more humans to experiment with interpersonal trust in ways previously unimaginable.
 
