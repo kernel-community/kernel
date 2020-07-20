@@ -1,6 +1,6 @@
 ---
 title: Meaning
-description:
+description: What does Ethereum actually mean, and how can we trace the development of the ideas behind it back through history?
 ---
 
 # 🤯 Meaning

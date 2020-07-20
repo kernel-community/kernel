@@ -1,6 +1,6 @@
 ---
 title: Module 1 - Ethereum's History and State
-description: An overview of the KERNEL Learn Track, which will teach you to think about and build a better web.
+description: Week 1 of the KERNEL Learn Track, which will teach you about the ideas behind Ethereum and how they relate to building a better web.
 ---
 
 # 🌍 Ethereum's History and State

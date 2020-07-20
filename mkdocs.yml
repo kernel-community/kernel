@@ -108,6 +108,16 @@ nav:
       - Promises, Promises: module-1/promise-blockchains.md
       - Understanding Ethereum: module-1/understanding-ethereum.md
       - Joyful Subversion: module-1/joyful-subversion.md
+  - Module 2:
+    - A Global Financial System: module-2/index.md
+    - Crafted Reading:
+      - Better Questions: module-2/better-questions.md
+      - Money & Speech: module-2/money-speech.md
+    - Curated Materials:
+      - Shells: module-2/shelling-out.md
+      - Debt: module-2/debt.md
+      - Banking: module-2/banking.md
+      - Engineering: module-2/engineering.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md

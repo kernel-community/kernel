@@ -1,6 +1,6 @@
 ---
 title: Joyful Subversion
-description:
+description: A short summary of May Li Khoe's wonderful presentation on Joyfully Subverting the Status Quo.
 ---
 
 # 😂 Life is a work of art

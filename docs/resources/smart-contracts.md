@@ -179,6 +179,24 @@ _H/T Eman Herawy_
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Solidity Patterns**
+
+<div markdown="2" class="tool-image">
+![XinY](/assets/images/solidity.svg)
+</div>
+
+An awesome resource for best practices and safe patterns to adopt in your smart contracts.
+
+_H/T Eman Herawy_
+
+<div markdown="3" class="tool-link">
+[Play](https://github.com/fravoll/solidity-patterns)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## More cryptic than crypto?

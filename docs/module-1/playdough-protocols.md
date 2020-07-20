@@ -1,6 +1,6 @@
 ---
 title: The Playdough Protocols
-description:
+description: A short summary of an iconic 2002 article written by Nick Szabo on the history of seals and data integrity, directly applicable to how we understand the value of blockchains today.
 ---
 
 # 🤝 The Playdough Protocols

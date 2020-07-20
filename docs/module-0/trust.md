@@ -89,8 +89,8 @@ Big thanks to James Young for this fantastic addition to our syllabus. As above,
 
 *We aim for KERNEL to be a high trust, give first community among highly talented, like-minded peers. Some of the key learnings from the game define how we think about the program, as well as the Web 3 space more generally.*
 
-![Trust 1](../img/trust1.png)
+![Trust 1](./img/trust1.png)
 
-![Trust 2](../img/trust2.png)
+![Trust 2](./img/trust2.png)
 
-![Trust 3](../img/trust3.png)
+![Trust 3](./img/trust3.png)
