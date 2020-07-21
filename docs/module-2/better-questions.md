@@ -5,7 +5,7 @@ description: The quality of questions, much like the quality of listening, is on
 
 # ⁉️ Asking Better Questions
 
-Let's start this week with a simple list:
+Let's start this week with a short list:
 
 1. The most simple, seemingly silly questions are almost always the most profound.
 2. Good questions must come from a sincere desire to learn, rather than as a veiled means of stating your own opinion.

@@ -17,3 +17,7 @@ This week, we'll keep it a little more to-the-point in our curated materials, an
 
 We know that different people learn differently. Therefore, we provide a curated list of reading and/or videos, depending on your tastes. The "Crafted Reading" section in each week is compulsory - you will need to have read it to participate fully in the Juntos and Fireside Chat this week. The "Curated Material" is highly recommended if you are the sort of person who feels like they might want to add value to any of the spontaneous conversations which no doubt will spring up in the course of the week.
 
+## Fireside with Vinay Gupta
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/hDzKPhk_ooA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

@@ -45,7 +45,7 @@ The glue which binds these two tracks together is the **people** in your cohort.
 
 1. [L0: Introduction to KERNEL](../module-0)
 2. [L1: Ethereum's History and State](../module-1)
-3. L2: A Global Financial System
+3. [L2: A Global Financial System](../module-2)
 4. L3: Take Back The Web
 5. L4: Information Age Institutions
 6. L5: Tokens and Mechanism Design
