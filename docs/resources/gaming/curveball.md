@@ -3,9 +3,9 @@ title: Projects and Resources
 description: A Deeper dive into gaming projects and resources.
 ---
 
-# A Collection of Delightful Links
+# ⚾ A Collection of Delightful Links
 
-A curated selection resources and projects shared by in the KERNEL Gaming Guild 🙏
+A curated selection of resources and projects shared by the KERNEL Gaming Guild 🙏
 
 ## Gaming Guild Projects
 
@@ -17,10 +17,11 @@ A curated selection resources and projects shared by in the KERNEL Gaming Guild 
 ![Game3js](/assets/images/gaming/game3js.png)
 </div>
 
-A Javascript Game Framework. Contains open-source tools ane examples to enable developers to easily make Web 3 Games
+A Javascript Game Framework. Contains open-source tools ane examples to enable developers to easily make Web 3 Games.
+[game3js.com](https://www.game3js.com)
 
-<div markdown="3" class="tool-link">
-[Explore](https://www.game3js.com)
+<div markdown="2" class="tool-link">
+[Follow](https://game3js.substack.com/)
 </div>
 
 </div>
@@ -43,7 +44,21 @@ A Reward platform for no-loss challenges.
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool">
 
+**Decade**
+
+<div markdown="2" class="tool-image">
+![Decade](/assets/images/gaming/decade.png)
+</div>
+
+Decade is an Ethereum-based competitive multiplayer gaming platform where players can compete against one another in games like Chess, Battleships, and many more.
+
+<div markdown="3" class="tool-link">
+[Follow](https://decade.substack.com/)
+</div>
+
+</div>
 
 <div markdown="1" class="card third sidebar gemoji tool">
 
@@ -53,10 +68,10 @@ A Reward platform for no-loss challenges.
 ![Battle Racers](/assets/images/gaming/br-logo.png)
 </div>
 
-Battle Racers is an action-packed arcade game where you build, race, and battle model cars on arcade-sized tracks. You can turn your practice car into a race car: making it a a non-fungible token that’s permanently tracked on the blockchain.
+Battle Racers is an action-packed arcade game where you build, race, and battle model cars on arcade-sized tracks. Your race car is a a non-fungible token that’s permanently tracked on the blockchain. [battleracers.io](https://battleracers.io)
 
 <div markdown="3" class="tool-link">
-[Explore](https://battleracers.io)
+[Follow](https://battleracers.substack.com/)
 </div>
 
 </div>
