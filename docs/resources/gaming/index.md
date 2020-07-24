@@ -4,7 +4,7 @@ template: overrides/main.html
 
 # The KERNEL Gaming Guild
 
-## 💡 Week 0
+## 💡 Week 0 - Brainstorm
 
 ![Week 0 Syllabus](/assets/images/gaming/week-0-syllabus-brianstorm.png)
 
@@ -26,38 +26,53 @@ __Format__
     * E.g Brainstorm
 5. Be prepared with questions to lead a discussion.
 
+## Week 1 - Project Pitches
 
-__Week 1 - A History of__
+The first week of the guild had the members pitch their projects and work on their Substack Newsletters. These can be found in the [⚾ Curveball Section](./curveball)
+
+
+## Week 2 - Game Design and Player Motivation
+
+#### Crafted Reading
+* [The Chemistry of Game Design](https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php?print=1)
+* [Engines of Play: How Player Motivation Changes Over Time](https://www.gdcvault.com/play/1023329/Engines-of-Play-How-Player)
+
+#### Curated Material
+* [Deconstructor of Fun](https://www.deconstructoroffun.com/)
+* [Lost Garden](https://lostgarden.home.blog/)
+* [Game Discoverability NOW!](https://gamediscoverability.substack.com/)
+
+## Week 3 - A History of
  
   * Blockchain Games
   * Monetization in Blockchain Games
   * Tokenomics in Blockchain Games  
   * NFTs in Blockchain Games
 
-__Week 2 - The Technology__
+## Week 4 - The Technology
 
   * NFTs, ERC-1155s
   * State Machines
   * Dynamic NFTs
   * Re-Fungible Tokens
 
-__Week 3 - Moving Beyond NFTs__
+## Week 5 - Moving Beyond NFTs
 
   * What other affordances does blockchain bring games?
   * Crypto-economic primitives (e.g. refungible tokens)
   * New Monetization Models
 
-__Week 4 - Learning Games__
+## Week 6 - Learning Games
 
   * Through play users learn about blockchain
   * Through play users learn about smart contracts
 
-__Week 5 - Network Effect and Games__
+## Week 7 - Network Effect and Games
 
   * Bring in new players
   * Bring in new developers
 
-__Week 6 - Legal and Compliance__
+## Week 8 - Legal and Compliance
 
   * ??????
   * ??????
