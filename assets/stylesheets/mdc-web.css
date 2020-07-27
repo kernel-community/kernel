@@ -371,6 +371,12 @@ img[align="right"]{ padding-left:10px }
   height: 530px;
   position: relative;
 }
+.card.sm-height {
+  height: 280px !important;
+}
+.card.m-height {
+  height: 350px !important;
+}
 .clear {
   clear: both;
 }
