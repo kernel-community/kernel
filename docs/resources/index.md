@@ -1,6 +1,6 @@
 ---
 title: Create & Connect
-description: An overview of both the technical and social tools we'ree be using and recommending throughout this course to help you begin on your journey towards a better web.
+description: An overview of both the technical and social tools we're using throughout this course to help you on your journey towards a better web.
 ---
 
 # Create and Connect with Better Tools

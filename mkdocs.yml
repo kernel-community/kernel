@@ -118,6 +118,16 @@ nav:
       - Debt: module-2/debt.md
       - Banking: module-2/banking.md
       - Engineering: module-2/engineering.md
+  - Module 3:
+    - Take Back the Web: module-3/index.md
+    - Crafted Reading:
+      - Intention: module-3/intention.md
+      - Freedom: module-3/freedom.md
+    - Curated Materials:
+      - Remember: module-3/remember.md
+      - Time: module-3/time.md
+      - Lock It Open: module-3/lock-it-open.md
+      - With Humility: module-3/humility.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
