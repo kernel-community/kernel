@@ -25,6 +25,6 @@ How does this apply to trust and value? Well, value is generated from **trust in
 
 **Freedom is our conscious ability to decide which shared truths to trust** based on how well defined and encoded the concept of "cheating" is that created those truths. Meaning, we have the freedom to define what boundaries we choose. It is not possible, though, to operate efficiently with no boundaries at all. Which is why the *practice of freedom* includes an acceptance that it is not possible to exist without limitation. 
 
-Lived freedom is the conscious navigation of trade-offs.
+Lived freedom is the conscious navigation of responsibility. You are free to the extent you take responsibility for the consequences of your actions.
 
 This is a critical point: the products we create should not aim to make people "more free" - that way lies false marketing campaigns and disappointment. Our products should be conscious of, and communicate clearly, how they constrain the people who use them. In doing so, they create the environment for people to become aware of the trade-offs they themselves are making, which is the only kind of freedom we can trust to generate sustainable value.
