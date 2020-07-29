@@ -143,7 +143,7 @@ At first it may seem unrelated to blockchains, but tools for thought are public 
 
 > "Players learn to recognize somewhere between 25,000 and 100,000 patterns of chess pieces. These much more elaborate 'chunks' are combinations of pieces that the players perceive as a unity, and are able to reason about at a higher level of abstraction than the individual pieces [...] Memory is, in fact, a central part of cognition."
 
-- Of course, we still need to know what to memorize and what the impact of such media will really be on people's cognition and behaviour. My sense is that having **transportable user trails**, like Bush imagined in '45, would be extremely useful. How to make these easily shareable? Just encode them as [12-word mnemonics inside a world computer](../../module-1/understanding-ethereum/#generalised-compute)...
+- Of course, we still need to know what to memorize and what the impact of such media will really be on people's cognition and behaviour. My sense is that having **transportable user trails**, like Bush imagined in '45, would be extremely useful. How to make this wealth of knowledge easily shareable? Just encode them as [12-word mnemonics](../../module-2/shelling-out/#mnemonics) inside [a world computer](../../module-1/understanding-ethereum/#generalised-compute)...
 
 ### Designing insight
 

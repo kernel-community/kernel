@@ -19,5 +19,5 @@ We know that different people learn differently. Therefore, we provide a curated
 
 ## Fireside with Vinay Gupta
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/hDzKPhk_ooA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/hDzKPhk_ooA?start=635" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
