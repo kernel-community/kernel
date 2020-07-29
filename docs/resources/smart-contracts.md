@@ -285,6 +285,44 @@ The best blog to see how not to write smart contracts and learn about all the di
 
 <div markdown="1" class="clear"></div>
 
+### Security
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Trail of Bits Toolbox**
+
+<div markdown="2" class="tool-image">
+![Trail of Bits](/assets/images/cryic.png)
+</div>
+
+One of the most well-established and respected audit firm's very own toolbox for ensuring high security standards.
+
+_H/T Matt Solomon. Check out [his article](https://medium.com/coinmonks/ethereum-security-analysis-tools-an-introduction-and-comparison-1096194e64d5) for more._
+
+<div markdown="3" class="tool-link">
+[Secure](https://github.com/crytic/eth-security-toolbox)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**MythX**
+
+<div markdown="2" class="tool-image">
+![MythX](/assets/images/mythx.svg)
+</div>
+
+Another usedul Consensys tool that's easy to integrate with frameworks like Truffle especially.
+
+<div markdown="3" class="tool-link">
+[Analyse](https://mythx.io/)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
 ## More cryptic than crypto?
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
