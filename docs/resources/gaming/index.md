@@ -32,8 +32,10 @@ The first week of the guild had the members pitch their projects and work on the
 
 
 ## Week 2 - Game Design and Player Motivation
+H/T Paul Gadi
 
 #### Crafted Reading
+* [Group Report: Prosocial economics for game design](https://www.projecthorseshoe.com/reports/featured/ph19r7.htm)
 * [The Chemistry of Game Design](https://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php?print=1)
 * [Engines of Play: How Player Motivation Changes Over Time](https://www.gdcvault.com/play/1023329/Engines-of-Play-How-Player)
 
@@ -42,37 +44,59 @@ The first week of the guild had the members pitch their projects and work on the
 * [Lost Garden](https://lostgarden.home.blog/)
 * [Game Discoverability NOW!](https://gamediscoverability.substack.com/)
 
-## Week 3 - A History of
- 
-  * Blockchain Games
-  * Monetization in Blockchain Games
-  * Tokenomics in Blockchain Games  
-  * NFTs in Blockchain Games
+## Week 3 - Chainlink Oracles + Bringing Free-to-Play Players to Blockchain Games
 
-## Week 4 - The Technology
+### Chainlink Oracles
+H/T Leon Prouger
+
+#### Crafted Reading
+* [Gaming and Ethereum: Connecting Off-Chain Games to Ethereum with Chainlink](https://docs.google.com/presentation/d/1adZXo4RVS2A4CtrU-8gJhV4SDn3Z26jDliJIPlUHwic/edit?usp=sharing)
+
+#### Curated Material
+
+* [Create Dynamic NFTs using Chainlink Oracles](https://blog.chain.link/create-dynamic-nfts-using-chainlink-oracles/)
+* [Devcon 5 Chainlink Presentation](https://chain.link/presentations/devcon5.pdf)
+* [Genie Platform: Meet The Genie](https://medium.com/genie-platform/meet-the-genie-6bb60fe67943)
+
+### Bringing Free-to-Play Players to Blockchain Games
+H/T Wade Kimbrough
+
+#### Crafted Reading
+* [Re-Fungible Tokens: What happens when a Bonded Token owns an NFT?](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769)
+* [The Grasshopper: Games, Life and Utopia](https://books.google.com.ph/books/about/The_Grasshopper.html?id=G9z4wjVB_0wC&redir_esc=y)
+
+
+
+## Upcoming Topics
+
+  * Junto with Danish Red Cross H/T Wade Kimbrough
+  * Dev Ops for Blockchain Games H/T Mike Ryan
+
+# Topic Backlog
+
+#### The Technology
 
   * NFTs, ERC-1155s
   * State Machines
   * Dynamic NFTs
   * Re-Fungible Tokens
 
-## Week 5 - Moving Beyond NFTs
+#### Moving Beyond NFTs
 
   * What other affordances does blockchain bring games?
+  * What kinds of mechanics can we only do on blockchain?
   * Crypto-economic primitives (e.g. refungible tokens)
   * New Monetization Models
 
-## Week 6 - Learning Games
+#### Learning Games
 
   * Through play users learn about blockchain
   * Through play users learn about smart contracts
 
-## Week 7 - Network Effect and Games
+#### Network Effect and Games
 
-  * Bring in new players
-  * Bring in new developers
+  * How To Bring in new players
+  * How To Bring in new developers
+  * How to build more prosocial web3 games
 
-## Week 8 - Legal and Compliance
-
-  * ??????
-  * ??????
+#### Legal and Compliance
