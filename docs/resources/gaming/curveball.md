@@ -36,10 +36,11 @@ A Javascript Game Framework. Contains open-source tools ane examples to enable d
 </div>
 
 A Reward platform for no-loss challenges.
-**Genie** is integrated with popular online games and enables community-driven tournaments and challenges. 
+**Genie** is integrated with popular online games and enables community-driven tournaments and challenges.
+[app.thegenie.xyz](https://app.thegenie.xyz/)
 
 <div markdown="3" class="tool-link">
-[Explore](https://app.thegenie.xyz/)
+[Follow](https://genie.substack.com/)
 </div>
 
 </div>
@@ -59,6 +60,23 @@ Decade is an Ethereum-based competitive multiplayer gaming platform where player
 </div>
 
 </div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Spirit Creatures**
+
+<div markdown="2" class="tool-image">
+![Spirit Creatures](/assets/images/gaming/spiritcreatures.png)
+</div>
+
+Spirit Creatures are digital collectibles which are linked directly to real life animals. When you purchase a collectible, you enter the world of both the digital Spirit Creature, and its real world counterpart. This is your bond.
+
+<div markdown="3" class="tool-link">
+[Explore](https://www.spiritcreatures.io/)
+</div>
+
+</div>
+
 
 <div markdown="1" class="card third sidebar gemoji tool">
 
