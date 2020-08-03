@@ -16,3 +16,9 @@ Now that we understand the foundational concepts mentioned above, it's time to l
 Incentives are a technical problem which can be consciously engineered and secured with deterministic, auditable, and shared code. However, we still have to know _why_ we encode certain incentives and not others. This goes to the heart of what kind of reality you want to participate in, and what kinds of freedom you genuinely feel are worth speaking into being.
 
 While the crafted reading explores these abstract concepts, the curated material this week grounds itself in a mix of history and the most cutting-edge thought to make a simple argument about what "taking back the web" means in a practical sense. We'll develop three core pillars, and then bring it back to Week 0, and our original emphasis on humility. Please enjoy.
+
+## Fireside with Juan Benet
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/WjQ87t2s2y8?start=1257" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

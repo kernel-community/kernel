@@ -128,6 +128,16 @@ nav:
       - Time: module-3/time.md
       - Lock It Open: module-3/lock-it-open.md
       - With Humility: module-3/humility.md
+  - Module 4:
+    - Internet Age Institutions: module-4/index.md
+    - Crafted Reading:
+      - Governance: module-4/governance.md
+      - Liberally Radical: module-4/liberal-radical.md
+    - Curated Materials:
+      - Art: module-4/art.md
+      - Self Enquiry: module-4/self-enquiry.md
+      - Consensus: module-4/consensus.md
+      - The Garden: module-4/the-garden.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
