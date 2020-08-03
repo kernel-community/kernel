@@ -83,3 +83,14 @@ Battle Racers is an action-packed arcade game where you build, race, and battle 
 * [Re-Fungible Tokens](https://medium.com/swlh/re-fungible-tokens-in-collectible-card-games-73a61703226f), H/T Wade Kimbrough
 * [Coordination in WoW](https://ecorner.stanford.edu/in-brief/the-knowledge-economy-of-world-of-warcraft/), H/T James Young
 * [Digital Art on Blockchain](https://www.youtube.com/watch?v=BoYyP7J5Sh0), H/T Mark Muskardin
+
+### Week 2 Links
+
+* [44 Ways To Enhance Blockchain Smart Contracts With Chainlink Oracles](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/), H/T Mike Ryan
+
+
+### Week 3 Links
+* [Threes: The Rip-offs and Making Our Original Game](http://asherv.com/threes/threemails/)
+* [Creators, Communities, and Crypto](https://www.fehrsam.xyz/blog/creators-communities-crypto), H/T James Young
+* [YFI Ponzinomics](https://tonysheng.substack.com/p/yfi-ponzinomics)
+* [What is Harberger Tax & Where Does The Blockchain Fit In?](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6), H/T Nichanan Kesonpat
