@@ -135,6 +135,22 @@ Austin Griffith's amazing educational sandbox. Just check it out for yourself...
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Eth-Hole**
+
+<div markdown="2" class="tool-image">
+![Eth.build](/assets/images/ethhole.png)
+</div>
+
+A detailed list of smart contract challenges linked to potential job opportunities for enterprising developers.
+
+<div markdown="3" class="tool-link">
+[Challenge](https://ethhole.com/challenge)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ### The best lists
@@ -193,10 +209,6 @@ _H/T Eman Herawy, who also made [this amazing tool](). It'll generate all your w
 
 ## Advanced - tender patterns
 
-We're extremely lucky to have our friends Andrej and Bogdan at Tenderly offering all KERNEL members a free pro membership to what we believe is the slickest Web 3 developer tooling in the industry. Please check the video of their session below to get a sense for everything this can do and then ping them to get access. It'll make writing, debugging, stack tracing, and really developing the guts of your contracts significantly easier.
-
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/3BgevFiqnXE?start=246" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
 **Tenderly**
@@ -221,7 +233,7 @@ The best integrated web 3 developer toolkit we know of. All transactions, advanc
 ![OpenZeppelin](/assets/images/zeppelin.jpg)
 </div>
 
-One of the most well-established respected repos for common patterns and practices.
+A well-respected repos for common patterns and practices. Here's an interesting [TokenVesting](https://github.com/akropolisio/akropolis-vesting/blob/master/contracts/openzeppelin/TokenVesting.sol) implementation too.
 
 _H/T Mike Ryan_
 
@@ -251,6 +263,24 @@ _H/T Nazzareno Massari_
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
+**Modular Libraries**
+
+<div markdown="2" class="tool-image">
+![XinY](/assets/images/modular.png)
+</div>
+
+A great and highly useful set of modular libraries to speed up your development.
+
+_H/T val_
+
+<div markdown="3" class="tool-link">
+[Bit by Bit](https://github.com/modular-network/ethereum-libraries#modular-libraries)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
 **Solidity Patterns**
 
 <div markdown="2" class="tool-image">
@@ -269,16 +299,18 @@ _H/T Eman Herawy_
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
-**samczsun**
+**Common Defi Contracts**
 
 <div markdown="2" class="tool-image">
-![samczsun](/assets/images/samczsun.png)
+![DeFi](/assets/images/defi.png)
 </div>
 
-The best blog to see how not to write smart contracts and learn about all the different ways your code could fall over in production.
+A great set of smart contracts used in common DeFi protocols that you can learn from and improve.
+
+_H/T val_
 
 <div markdown="3" class="tool-link">
-[Tremble](https://samczsun.com/)
+[DeFi](https://github.com/defiprime/defi-smart-contracts)
 </div>
 
 </div>
@@ -321,6 +353,40 @@ Another usedul Consensys tool that's easy to integrate with frameworks like Truf
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**SecBit Token Libs**
+
+<div markdown="2" class="tool-image">
+![SecBit](/assets/images/sec-bit.png)
+</div>
+
+A really useful set of token libraries, with proofs!
+
+_H/T val_
+
+<div markdown="3" class="tool-link">
+[Analyse](https://github.com/sec-bit/tokenlibs-with-proofs)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**samczsun**
+
+<div markdown="2" class="tool-image">
+![samczsun](/assets/images/samczsun.png)
+</div>
+
+The best blog to see how not to write smart contracts and learn about all the different ways your code could fall over in production.
+
+<div markdown="3" class="tool-link">
+[Tremble](https://samczsun.com/)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## More cryptic than crypto?
@@ -340,3 +406,15 @@ One of the best introductions to cryptography our community knows. Enrol for fre
 </div>
 
 </div>
+
+<div markdown="1" class="clear"></div>
+
+## Recordings
+
+We're extremely lucky to have our friends Andrej and Bogdan at Tenderly offering all KERNEL members a free pro membership to what we believe is the slickest Web 3 developer tooling in the industry. Please check the video of their session below to get a sense for everything this can do and then ping them to get access. It'll make writing, debugging, stack tracing, and really developing the guts of your contracts significantly easier.
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/3BgevFiqnXE?start=246" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Of course, no smart contract resources list would be complete without a recording of Austin Griffith breaking something in a live demo:
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/UFLcw1ftrv0?start=102" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

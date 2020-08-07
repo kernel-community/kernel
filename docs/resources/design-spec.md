@@ -245,6 +245,24 @@ Though in early stages, there are some useful recipes here. It also uses theme-u
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Design for Developers**
+
+<div markdown="2" class="tool-image">
+![DAI-UI](/assets/images/design-dev.png)
+</div>
+
+One of the most widely used repos of design resources for developers on GitHub.
+
+_H/T Rachel Black_.
+
+<div markdown="3" class="tool-link">
+[Copy](https://github.com/bradtraversy/design-resources-for-developers)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Recordings
