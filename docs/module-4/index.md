@@ -16,3 +16,7 @@ This story is known as [Chesterton's Fence](https://fs.blog/2020/03/chestertons-
 That said, institutions need not be things like The Federal Reserve, or a government department, or a place you go when you need to spend some time separate from society. We have - for instance - the institution of marriage: which is a **practice** or a **custom**. It is in this sense which we will be using the word for the rest of Module 4.
 
 This is because the internet routes information around slow-moving bureaucracies and so requires that we update the practices and customs we use to relate to one another and **organize ourselves**. In particular, it has caused - and will continue to cause - critical shifts in three spheres of human life: how we identify ourselves, how we reach consensus, and how we experience time. This is a big claim, so let's dive right in.
+
+## Fireside with Dandelion Mane
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/djQhzNA9bzc?start=938" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

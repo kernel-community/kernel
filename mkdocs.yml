@@ -138,6 +138,16 @@ nav:
       - Self Enquiry: module-4/self-enquiry.md
       - Consensus: module-4/consensus.md
       - The Garden: module-4/the-garden.md
+  - Module 5:
+    - Tokens & Mechanism Design: module-5/index.md
+    - Crafted Reading:
+      - Listening & Stories: module-5/listening-stories.md
+      - Incentives: module-5/incentives.md
+    - Curated Materials:
+      - Unbounded Search: module-5/amazon-unbounded-search.md
+      - Through Narrative: module-5/the-peoples-narrative.md
+      - Reveals Universes: module-5/reveal-the-universe.md
+      - Of Prosocial Value: module-5/prosocial-value.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
