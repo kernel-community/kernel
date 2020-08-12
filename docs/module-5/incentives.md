@@ -9,6 +9,12 @@ The best 3 (slack) responses or (PR) improvements to this note will be awarded 5
 
 ---
 
+### Denham's PR 👆🏽
+
+Send me 10 DAI, [public address](https://github.com/andytudhope/kernel), and a message with the transaction hash to [@denhampreen](https://github.com/andytudhope/kernel) and you might incentivise me enough to share the link to the repo where you can make a PR and the chance to win 50 DAI. [#Incentives](https://www.youtube.com/watch?v=rrkrvAUbU9Y) 👈🏽 A great Ted talk on incentives 🕯
+
+---
+
 Need we say more about why incentives matter?
 
 ## Persuasion
