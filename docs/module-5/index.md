@@ -20,3 +20,8 @@ Now that the definitional challenges are dealt with, we can outline the argument
 We're interested in the [unassailable facts](../module-1/promise-blockchains/#the-2010s-satoshis-vision) instantiated by networks of [timestamp servers that challenge regimented political routines](../module-4/the-garden/#shared-realities). In fact, such networks create an entire universe of distributed [trust](../module-0/trust/) in which we can implement [instant settlement and transfer of ownership](../module-0/money-language/), without requiring intermediaries.
 
 We haven't even scratched the surface of possible mechanisms in such a space. It's that vast. Therefore, we'll take a step back and look at the most successful mechanisms designed at the advent of online commerce; consider the incredible power of narrative and how it is used to both shape and challenge the incentive structures which support power; and then dive into computer game design and the latest research on how to do it in a prosocial manner so as to build better relationships and guard against toxicity and loneliness in our social systems.
+
+## Fireside Chat with Andy Tudhope
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/JVDcfwWkP18?start=361" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
