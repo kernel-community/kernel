@@ -156,6 +156,15 @@ nav:
     - Curated Material:
       - Serenely: module-6/serenity.md
       - Principled: module-6/inventing-on-principle.md
+  - Module 7:
+    - The Gift: module-7/index.md
+    - Crafted Reading:
+      - Giving: module-7/giving.md
+      - Scale-ability: module-7/scale-ability.md
+    - Curated Material:
+      - The Gift: module-7/the-gift.md
+      - Of No Paradigm: module-7/no-paradigm.md
+      - Is Perfection: module-7/perfection.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md

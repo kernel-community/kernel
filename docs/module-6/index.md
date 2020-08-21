@@ -14,3 +14,7 @@ Last week we asked you what constitutes [persuasion](../module-5/incentives/#per
 This week is an opportunity for [reflection](../module-3/humility/). KERNEL is built around "ever-green" content and so, while there is a great deal of information about scaling and staking [available](https://hackmd.io/@benjaminion/eth2_news), we'll only cover the Eth2 Design Rationale and the [promised Bret Victor video from Week 1](../module-1/joyful-subversion/#experiment-with-format).
 
 Take your time, enjoy the serene pace, and let's co-create some beautifully principled games to play with one another.
+
+## Fireside with Danny Ryan
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/0WeQ7c-RbwM?start=1007" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

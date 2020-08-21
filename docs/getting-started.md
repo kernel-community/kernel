@@ -23,7 +23,7 @@ The glue which binds these two tracks together is the **people** in your cohort.
 5. [L4: Internet Age Institutions](../module-4)
 6. [L5: Tokens and Mechanism Design](../module-5)
 7. [L6: Scaling Principled Games](../module-6)
-8. L7: V's View
+8. [L7: The Gift](../module-7)
 
 ## KERNEL Principles
 

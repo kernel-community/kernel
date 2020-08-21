@@ -52,6 +52,8 @@ There are many important takeaways here for the conversations we will be having 
 
 - What are the fictional longings in your life? How could you get to their opposite to see how hollow fear and longing really are?
 
+### Old Gifts Anew
+
 > "Modern humanity does not learn by being gifted. Our path is different. We're constituted to ask questions. For us, knowing is something that is achieved through effort, out of free will. The task of the modern human being is to clearly and definitively seek and find knowledge. Not cheap, conceptual information, but the knowledge of things themselves. I mean **perceptual knowledge.** Not quick ideas, but the actual knowledge of things. No free gifts, no quick fixes. Hard yards. Every human soul taking every single step."
 
 - Can you think back to moments in your life when you "just knew" something? What was the quality and texture of that knowing? How can we cultivate more of that in our lives, and how can we build products which help "every human soul take [even a] single step" closer to their own truths?
