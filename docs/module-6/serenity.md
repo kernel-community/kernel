@@ -118,4 +118,4 @@ Vitalik then discusses some of the technical choices favored in the design, like
 
 What is Eth2? Well, we said it already: our generation's elder game of economic penalties. These penalties are the game mechanics we use to reveal a [unique kind of truth](../../module-5/reveal-the-universe/#the-value-of-truth): it is possible to build - and asymmetrically defend/maintain - an explicitly prosocial, global, and ownerless system that provably benefits all the people who choose to use it. The benefits of encoding penalties extend to all layers of this game, including our ability to [use co-ordination costs to our advantage](https://twitter.com/VitalikButerin/status/1294461236680130560).
 
-Welcome to the [future](https://www.youtube.com/watch?v=N0G-HmGy4WI). Most of us [friends](../../module-5/prosocial-value/#friendship) here, because the alternatives are more expensive.
+Welcome. Most of us [friends](../../module-5/prosocial-value/#friendship) here, because the alternatives are more expensive.
