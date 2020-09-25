@@ -118,7 +118,7 @@ Always for sale ethereum based conservation tokens [wildcards.world](https://wil
 ![Battle Racers](/assets/images/gaming/niftyink.png)
 </div>
 
-Nifty Ink is a decentralized application to create and trade artwork using Ethereum, IPFS, meta transactions, and side-chains for *instant onboarding*! [nifty.ink](https://nifty.ink)
+Nifty Ink is a decentralized application to create and trade artwork using Ethereum, IPFS, meta transactions, and side-chains for *instant onboarding*.
 
 <div markdown="3" class="tool-link">
 [Explore](https://github.com/austintgriffith/scaffold-eth/tree/nifty-ink-dev/)
