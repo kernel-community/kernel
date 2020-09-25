@@ -26,6 +26,8 @@ __Format__
     * E.g Brainstorm
 5. Be prepared with questions to lead a discussion.
 
+----
+
 ## Week 1 - Project Pitches
 
 The first week of the guild had the members pitch their projects and work on their Substack Newsletters. These can be found in the [⚾ Curveball Section](./curveball)
@@ -58,7 +60,7 @@ H/T Leon Prouger
 * [Devcon 5 Chainlink Presentation](https://chain.link/presentations/devcon5.pdf)
 * [Genie Platform: Meet The Genie](https://medium.com/genie-platform/meet-the-genie-6bb60fe67943)
 
-### Bringing Free-to-Play Players to Blockchain Games
+## Week 4 - Bringing Free-to-Play Players to Blockchain Games
 H/T Wade Kimbrough
 
 #### Crafted Reading
@@ -66,13 +68,21 @@ H/T Wade Kimbrough
 * [The Grasshopper: Games, Life and Utopia](https://books.google.com.ph/books/about/The_Grasshopper.html?id=G9z4wjVB_0wC&redir_esc=y)
 
 
+## Week 5 - NFTs for Humanitarian Outcomes and Community Inclusion Currencies
+H/T Wade Kimbrough
 
-## Upcoming Topics
+#### Crafted Reading
 
-  * Junto with Danish Red Cross H/T Wade Kimbrough
-  * Dev Ops for Blockchain Games H/T Mike Ryan
+* [Example CIC Dashboard](https://dashboard.sarafu.network/)
+* [CIC Modeling Repo](https://gitlab.com/grassrootseconomics/cic-modeling)
 
-# Topic Backlog
+## Week 6 - Avoiding Gas Fees via Sidechains
+
+* [Nifty Ink and xDai to Mainnet](https://medium.com/@austin_48503/nifty-ink-an-ethereum-tutorial-c860a4904cb2)
+
+----
+
+## Topic Backlog
 
 #### The Technology
 
