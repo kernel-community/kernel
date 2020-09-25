@@ -5,7 +5,7 @@ description: A short summary of a talk given by Vinay Gupta which looks at the h
 
 # 📜 Unrecognizable capitalism
 
-<iframe class="video-frame" src="https://player.vimeo.com/video/161183966?color=ff0179&byline=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame" src="https://player.vimeo.com/video/161183966?color=ffffff&byline=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video of Vinay Gupta will give you a grand overview of the history of computing from the 1960's onward, and how it applies to the economic and societal systems we have built, and can imagine building in and for a more sustainable future. In particular, it has been selected to deepen your approach to:
 

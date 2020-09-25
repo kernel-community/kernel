@@ -29,6 +29,8 @@ If you want to change the world, the world will inevitably act back and change y
 
 The critical idea here is that thinking consciously about trade-offs, and developing the ability to hold many different probabilities in mind simultaneously without allowing personal bias to obscure your view of all possible futures, allows you to pick The Middle Way more often than not. 
 
+### The Honest Question
+
 Those who have **positively** changed the world were able to do so because they learnt how to negotiate complexity, rather than impose their own will on things. They answered their own questions as honestly and directly as they could.
 
 Playing with pattern recognition as a framework for thought, and training ourselves to become conscious of the constant interplay of complementary opposites as a means of cultivating  presence, leads us to one very simple query:

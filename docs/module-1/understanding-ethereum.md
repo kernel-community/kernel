@@ -33,7 +33,9 @@ This early video from Devcon 1 contains many gems of insight into the ideas behi
 
 - However, this raises the spectre of "The Halting Problem", which Vitalik explains as being solved by gas: a fee for every computational step the computer must take, where there is a limit to computational steps possible per block.
 
-- This means there is no *technical* limit on what can be put in the `data` field of a transaction, but there is an *economic* one, as the more data you include, the more expensive it becomes. It was an extra 68gas for every byte of data you include at that time, though it may have changed now. 
+### Virtual Economy
+
+- This means there is no *technical* limit on what can be put in the `data` field of a transaction, but there is an *economic* one, as the more data you include, the more expensive it becomes. It was an extra 68 gas for every byte of data you include at that time, though it may have changed now. 
 
 <div class="lightbulb">
 💡 Exercise for the reader: how would you tell what the gas price per byte currently is?

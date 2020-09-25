@@ -148,6 +148,14 @@ nav:
       - Through Narrative: module-5/the-peoples-narrative.md
       - Reveals Universes: module-5/reveal-the-universe.md
       - Of Prosocial Value: module-5/prosocial-value.md
+  - Module 6:
+    - Staking and Scaling: module-6/index.md
+    - Crafted Reading:
+      - Censorship Resistance: module-6/censorship-resistance.md
+      - Learn How To Learn: module-6/learn.md
+    - Curated Material:
+      - Serenely: module-6/serenity.md
+      - Principled: module-6/inventing-on-principle.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md

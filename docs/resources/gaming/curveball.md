@@ -110,6 +110,22 @@ Always for sale ethereum based conservation tokens [wildcards.world](https://wil
 
 </div>
 
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Nifty Ink**
+
+<div markdown="2" class="tool-image">
+![Battle Racers](/assets/images/gaming/niftyink.png)
+</div>
+
+Nifty Ink is a decentralized application to create and trade artwork using Ethereum, IPFS, meta transactions, and side-chains for *instant onboarding*! [nifty.ink](https://nifty.ink)
+
+<div markdown="3" class="tool-link">
+[Explore](https://github.com/austintgriffith/scaffold-eth/tree/nifty-ink-dev/)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 
@@ -128,3 +144,14 @@ Always for sale ethereum based conservation tokens [wildcards.world](https://wil
 * [Creators, Communities, and Crypto](https://www.fehrsam.xyz/blog/creators-communities-crypto), H/T James Young
 * [YFI Ponzinomics](https://tonysheng.substack.com/p/yfi-ponzinomics)
 * [What is Harberger Tax & Where Does The Blockchain Fit In?](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6), H/T Nichanan Kesonpat
+
+### Week 4 Links
+* [Community Inclusion Currencies](https://www.youtube.com/watch?v=bHM1DRHSUPw&feature=youtu.be) H/T Wade Kimbrough
+
+### Week 5 Links
+* [Dark Forest - A Decentralized zk-RTS Game](https://blog.zkga.me/announcing-darkforest) H/T Andy Tudhope
+* [Feed Vitalik - An Ethereum Transaction Visualizer](https://feedvitalik.com/) H/T Andy Tudhope
+
+### Week 6 Links
+* [Epic vs. Apple](https://www.forbes.com/sites/davidthier/2020/08/13/freefortnite-watch-epic-games-anti-apple-198fortnite-commercial-here/)
+* [Epic vs. Google](https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal) H/T Luka Sucic
