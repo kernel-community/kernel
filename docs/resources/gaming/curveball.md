@@ -96,6 +96,22 @@ Battle Racers is an action-packed arcade game where you build, race, and battle 
 
 <div markdown="1" class="card third sidebar gemoji tool">
 
+**Wildcards**
+
+<div markdown="2" class="tool-image">
+![Wildcards](https://wildcards.world/img/logos/wildcards-logo.svg)
+</div>
+
+Always for sale ethereum based conservation tokens [wildcards.world](https://wildcards.world)
+
+<div markdown="3" class="tool-link">
+[Explore](https://wildcards.world/)
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
 **Nifty Ink**
 
 <div markdown="2" class="tool-image">
