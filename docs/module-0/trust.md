@@ -31,7 +31,7 @@ The above is another early Bitcoin maxim which means "Strength in numbers".
 
 It goes back to Pythagoras, for whom "All things are number". The implicit shift towards trusting those we're actually transacting with is enabled due to a fundamental change in the language by which value is defined. Instead of regulatory fiat, enforced by legal prose and human courts backed by the threat of violence; Bitcoin enables a network of peers to create the conditions required for a functional currency through mathematics alone, enforced by deterministic computation.
 
-The saying holds this _double entendre_ which implies both that using numbers and mathemtical consensus gives us the strength to lay down what Andreas Antonopolous will later call 'unassailable facts', while also pointing at that which gives power and meaning to any narrative: the community which believes it. The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. This implies that
+The saying holds this _double entendre_ which implies both that using numbers and mathematical consensus gives us the strength to lay down what Andreas Antonopolous will later call 'unassailable facts', while also pointing at that which gives power and meaning to any narrative: the community which believes it. The more succinctly we can express shared truths, the easier it becomes to verify (and therefore trust) the systems we use. This implies that
 
 <div class="lightbulb">
 💡 Trust has something to do with truth. 
@@ -47,7 +47,7 @@ To dream up important ideas you must think like an idealist; to build systems th
 
 Ultimately, we're not interested in trust based on blind faith. We're interested in deterministic verifi**ability** between peers. The Bitcoin source code can be audited by anyone, anywhere in the world - so it's not just ability we're interested in here, but also **access**. Trust, in a practical day-to-day sense, has a lot to do with transparency and education. 
 
-This requires a certain kind of architectual innovation in the very structure of money: no more clients and servers; everyone needs to be a peer. Please take a look over the brief of the next piece of curated material - [Money Talks](../money-language) - to get a sense for what a peer-to-peer architecture of money, and waht money _as a protocol_ is really all about.
+This requires a certain kind of architectual innovation in the very structure of money: no more clients and servers; everyone needs to be a peer. Please take a look over the brief of the next piece of curated material - [Money Talks](../money-language) - to get a sense for what a peer-to-peer architecture of money, and what money _as a protocol_ is really all about.
 
 ---
 
