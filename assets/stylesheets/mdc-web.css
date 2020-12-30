@@ -359,6 +359,10 @@ img[align="right"]{ padding-left:10px }
 
 /* My hacky additions */
 
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
 .card.half {
   float: left;
   width: 42%;
@@ -382,6 +386,9 @@ img[align="right"]{ padding-left:10px }
 }
 .center {
   margin-left: 27%;
+}
+.md-typeset table:not([class]) th {
+  background-color: #212145;
 }
 .tool-link {
   position: absolute;
