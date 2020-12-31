@@ -15,13 +15,13 @@ description:
 
 KERNEL Fellows will separate themselves by their ability to **identify patterns**. 
 
-Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist in the world, as well as how you choose to interact with those in your environment is the single best thing you can do to improve your critical thinking skills.
+Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist, as well as how you choose to interact with those in your local environment, is the single best thing you can do to improve your critical thinking skills.
 
 In particular, we hope KERNEL Fellows begin thinking in terms of **complementary opposites.**  
 
 Rather than using dualities like 'decentralization good, centralization bad'; or 'DeFi is innovative, fiat is boring', this style of thinking recognizes that there is no good without evil; no attraction without repulsion, no North with South, no up without down. 
 
-We could describe this as "quantum thought" - being able to contemplate both 0 and 1 simultaneously, **and** the spectrum of probability between. If you can hold this all in a superposition without any grasping after certainty, you can process significantly more information per qubit, and so make more effective decisions, because the lack of certainty humbles you. 
+We could describe this as "quantum thought" - being able to contemplate **both** 0 and 1 simultaneously, **and** the spectrum of probability between. If you can hold this all in a superposition without any grasping after certainty, you can process significantly more information per qubit, and so make more effective decisions, because the lack of certainty humbles you. 
 
 KERNEL Fellows **should have humility.** We cannot be sure what the effect of our actions will be, we can only cultivate an acute observational awareness which will guide us toward making the right *trade-offs*. 
 
@@ -39,7 +39,7 @@ Playing with pattern recognition as a framework for thought, and training oursel
 💡 What is the question to which you are the universe's answer?
 </div>
 
-and it's equally direct corollary:
+and its equally direct corollary:
 
 <div class="lightbulb">
 💡 How can you respond most honestly, accurately, and lovingly?

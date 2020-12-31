@@ -25,7 +25,7 @@ Results like these challenge your intuition. But instead of those challenges bei
 
 Used well, Jupyter notebooks become environments for transformative thought. They’re a new media form, with different possibilities from either essays or code. And that's just a notebook, let alone a smart contract. Such contracts deployed on a shared, global network not only demonstrate new economic insights and ideas, they **implement** them.
 
-## Programming Crowds
+## Programming crowds
 
 You must think computationally about the economic games your contracts incentivize. Ironically, the best place to go looking for clear thinking and research in this domain is neither economics, nor psychology. It is computer game design.
 

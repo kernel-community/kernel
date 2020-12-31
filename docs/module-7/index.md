@@ -11,7 +11,7 @@ Vitalik mentioned last week the importance of asymmetric defense as the basic pr
 
 ## Week 7
 
-We'll begin by highlighting a critical and often-overlooked part of hacker and cypherpunk culture: gift-giving. Once we've traversed this most ancient and storied part of both our shared history, and individual psyches, we'll turn to Marianne and Mary to help us understand the inertia of language which makes the above two words so difficult to deal with, and then we'll close the course with a consideration of what a universal language deployed on a shared, transparent, and ownerless global network means when playing increasingly principled multiplayer games.
+We'll begin by highlighting a critical and often-overlooked part of hacker and cypherpunk culture: gift-giving. Once we've traversed this most ancient and storied part of both our shared history and individual psyches, we'll turn to Marianne and Mary to help us understand the inertia of language which makes the above two words so difficult to deal with. Then we'll close the course with a consideration of what a universal language deployed on a shared, transparent, and ownerless global network means when playing increasingly principled multiplayer games.
 
 Thank you for your kind attention. This has been an amazing exploration, and we wish you so very well as we all adventure together into [new architectures](../module-4/the-garden/#shared-realities) of [time](../module-3/time/) and more numinous digital-economic spaces.
 

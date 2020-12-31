@@ -34,9 +34,9 @@ Hyde set out to read the anthropology, and many fairy tales and folk stories, ab
 
 1. Gift giving **creates a connection** between giver and receiver. Gifts induce gratitude, and a consequent obligation towards relationship. This is the **cardinal difference** between gift and market exchange: part of the *great virtue of the marketplace is that there is no enduring connection*. Lewis gives as an example his travel to this presentation: his very mobility is enabled as a result of the _lack of relationships_ he needs to form. Gift exchange does not allow us to participate in this disconnected fashion. "This is a useful way to begin to think about the commerce of the creative spirit."
 
-2. Gift exchange traditionally has much **wider circulations** than just that passed between two individuals, especially when gifts are given anonymously. Hyde quotes an Indian story of two women who decide to dispense with their alms-giving duties by only giving gifts to each other and who are consequently reincarnated as two wells with poisonous water. Another example is Thomas Hutchinson's phrase "Indian givers", which arose from Puritans encountering Native Americans who had a **different sense of what property is.** For these people, when you gave someone something, it wasn't theirs to keep: they had to pass it on. This perplexed the Puritans and so the phrase has come to mean someone who is insincere about gift-giving, but it *clearly means the opposite*: someone who understands the actual ethic of gift-giving, which is that **gifts flow through you, they are not yours to own**. You are their custodian. In fact, one functional definition of community is "a place where gift exchange can operate".
+2. Gift exchange traditionally has much **wider circulations** than just that passed between two individuals, especially when gifts are given anonymously. Hyde quotes an Indian story of two women who decide to dispense with their alms-giving duties by only giving gifts to each other and who are consequently reincarnated as two wells with poisonous water. Another example is Thomas Hutchinson's phrase "Indian givers", arising from Puritan encounters with Native Americans who had a **different sense of what property is.** For these people, when you gave someone something, it wasn't theirs to keep: they had to pass it on. This perplexed the Puritans and so the phrase has come to mean someone who is insincere about gift-giving, but it *clearly means the opposite*: someone who understands the actual ethic of gift-giving, which is that **gifts flow through you, they are not yours to own**. You are their custodian. In fact, one functional definition of community is "a place where gift exchange can operate".
 
-3. When property circulates as a gift, it **increases in value**, or it bestows **liveliness**. "There is some sense of increase, or of *something gaining life* as it circulates." Hyde talks about the fairy tale trope of being given seemingly worthless objects while traveling through the [Land of Fairie](https://youtu.be/GxVaxOco7kg?t=4307), only to wake up the next morning and see that they are gold. "What seemed worthless in one community and state, turns out to be valuable in another community and state." The folktales tell of two responses: there are those who try to go back and get more, or figure out the price and cash in; and there are those who give the gift on. For the person who begins to count, to reckon the value of the gift; it turns back into ashes. For the other person, life becomes more lively. "There's a kind of trans-substantiation, or morality, implied in how you treat a gift." Like [Graeber](../../module-2/debt/#communal-credit), Hyde tells a Maori story in which the bounty of the forest from which you gather food is assumed to be a gift from nature and you must give part of it back to the forest, which is called "**feeding the spirit of the gift**. If you feed the spirit, all will stay lively and in motion".
+3. When property circulates as a gift, it **increases in value**, or it bestows **liveliness**. "There is some sense of increase, or of *something gaining life* as it circulates." Hyde talks about the fairy tale trope of being given seemingly worthless objects while traveling through the <a href="https://youtu.be/GxVaxOco7kg?t=4307" target="_blank">Land of Fairie</a>, only to wake up the next morning and see that they are gold. "What seemed worthless in one community and state, turns out to be valuable in another community and state." The folktales tell of two responses: there are those who try to go back and get more, or figure out the price and cash in; and there are those who give the gift on. For the person who begins to count, to reckon the value of the gift; it turns back into ashes. For the other person, life becomes more lively. "There's a kind of trans-substantiation, or morality, implied in how you treat a gift." Like [Graeber](../../module-2/debt/#communal-credit), Hyde tells a Maori story in which the bounty of the forest from which you gather food is assumed to be a gift from nature and you must give part of it back to the forest, which is called "**feeding the spirit of the gift**. If you feed the spirit, all will stay lively and in motion".
 
 ### Poetic Gifts to Posterity
 
@@ -50,9 +50,11 @@ Czeslaw Milosz wrote an essay about the different kinds of love described in Gre
 
 > It is also not impossible that storge may be applied to the relationship between a poet and a generation of readers to come. Beneath the ambition to perfect one's art, without hope of being rewarded by contemporaries, lurks a magnanimity of gift-offering to posterity.
 
-The idea that your work is not confined to the present moment and that you're working for some kind of larger, human world is wonderfully motivating. Lewis mentions a story about Bob Dylan from "[Common As Air](https://www.goodreads.com/book/show/7800891-common-as-air)", his book about about creative cultural commons which we all co-own. When Dylan was 18, he was introduced by a friend to Woody Guthrie, who he quickly learnt to imitate perfectly. Dylan says:
+The idea that your work is not confined to the present moment and that you're working for some kind of larger, human world is wonderfully motivating. Lewis mentions a story about Bob Dylan from "<a href="https://www.goodreads.com/book/show/7800891-common-as-air" target="_blank">Common As Air</a>", his book about about creative cultural commons which we all co-own. When Dylan was 18, he was introduced by a friend to Woody Guthrie, who he quickly learnt to imitate perfectly. Dylan says:
 
-> "Listening to Guthrie made me feel more like myself than ever before." This is a perplexing statement, because [what is the self](../../module-4/self-enquiry) such that a young person would feel *like himself* in presence of somebody else's art? It's as if that self is already present, but isn't brought to the surface until the art of some previous generation precipitates it [...] There is a feeling that there is a common Self, that the hyper-individualism we live with today is not a full enough story to explain how an artist becomes an artist and comes to practice with his or her gifts.
+> "Listening to Guthrie made me feel more like myself than ever before."   
+
+> This is a perplexing statement, because [what is the self](../../module-4/self-enquiry) such that a young person would feel *like himself* in the presence of somebody else's art? It's as if that self is already present, but isn't brought to the surface until the art of some previous generation precipitates it [...] There is a feeling that there is a common Self, that the hyper-individualism we live with today is not a full enough story to explain how an artist becomes an artist and comes to practice with his or her gifts.
 
 ### Anonymous and Lively
 
@@ -64,7 +66,7 @@ Hyde continues this theme with a story about Pablo Neruda, who - as a boy - was 
 
 > This small and mysterious exchange of gifts remained deep inside me, deep and indestructible, giving my poetry light.
 
-This points to a particular category of gift-exchange: the anonymous one. Often we know who has given us a gift, so we have a directed sense of gratitude. This widens the field within which gifts operate, because if there is no obligation for reciprocity, how do you best respond? 
+This points to a particular category of gift-exchange: the anonymous one. Often we know who has given us a gift, so we have a directed sense of gratitude. Anonymity widens the field within which gifts operate, because if there is no obligation for reciprocity, how do you best respond? 
 
 <div class="lightbulb">
 💡 Gifts from beyond your sphere of influence can be given back beyond your sphere of influence.
@@ -74,7 +76,7 @@ In almost all traditional gift-giving practices - as seen with the Maori practic
 
 > There is only one real deprivation, and that is not to be able to give one's gift to whom one loves the most. The gift turned inward, unable to be given, becomes a heavy burden, even sometimes a kind of poison. It is as though the flow of life were backed up.
 
-Hyde also quotes the famous book *[Black Elk Speaks](https://www.goodreads.com/book/show/35476.Black_Elk_Speaks)*, which begins with dedication that illustrates how whatever wisdom Black Elk has **is not his**, and that - if you find it in his book - it is there to be given back to his ancestors.
+Hyde also quotes the famous book *<a href="https://www.goodreads.com/book/show/35476.Black_Elk_Speaks" target="_blank">Black Elk Speaks</a>*, which begins with dedication that illustrates how whatever wisdom Black Elk has **is not his**, and that - if you find it in his book - it is there to be given back to his ancestors.
 
 > What is good in this book is given back to the six grandfathers.
 
@@ -82,9 +84,9 @@ This dedicated way of living contains a description of people who are "living th
 
 ### Tricky Trades
 
-Hyde recalls *The Homeric Hymn to Hermes*, the original trickster, in which the key moment occurs when Hermes - having stolen Apollo's cattle, and being admonished by his mother - makes the point that if Zeus won't give him his due as an Olympian, he will steal it. All gift exchange communities are somewhat insular and, if you're left out of this, your only practical option is to steal what you need. The key question remains: *how does the outsider find a way in*?
+Hyde recalls *The Homeric Hymn to Hermes*, the original trickster, in which the key moment occurs when Hermes - having stolen Apollo's cattle, and being admonished by his mother - makes the point that if Zeus won't give him his due as an Olympian, he will steal it. All gift exchange communities are somewhat insular and, if you're excluded, your only practical option is to steal what you need. The key question is thus: *how does the outsider find a way in*?
 
-There is another ancient Greek term which can help us here: the **hermion**, or gift of Hermes. It is the lucky find, the accident, the thing you stumble upon. It is the crossroads moment where two paths come together and, if you have the wit, you can make a work of art out of the accidental find. This is why cultivating serendipitous, [synchronous spaces](https://www.brainpickings.org/2017/03/09/atom-and-archetype-pauli-jung/) is so important: they allow more and more outsiders to join the community of circulating gift exchange without resorting to theft.
+There is another ancient Greek term which can help us here: the **hermion**, or gift of Hermes. It is the lucky find, the accident, the thing you stumble upon. It is the crossroads moment where two paths come together and, if you have the wit, you can make a work of art out of the accidental find. This is why cultivating serendipitous, <a href="https://www.brainpickings.org/2017/03/09/atom-and-archetype-pauli-jung/" target="_blank">synchronous spaces</a> is so important: they allow more and more outsiders to join the community of circulating gift exchange without resorting to theft.
 
 ### What Can We Do With All This?
 
@@ -115,7 +117,7 @@ Gift-giving extends deeply into both history and the human psyche. If you enjoye
 </div>
 
 <div markdown="3" class="curated-link">
-[Read it](https://www.sacred-texts.com/bud/sbe49/sbe4929.htm)
+<a href="https://www.sacred-texts.com/bud/sbe49/sbe4929.htm" target="_blank">Read it</a>
 </div>
 
 </div>

@@ -14,7 +14,7 @@ description:
 </div>
 
 <div markdown="3" class="curated-link">
-[Read It](https://nakamotoinstitute.org/shelling-out/)
+<a href="https://nakamotoinstitute.org/shelling-out/" target="_blank">Read It</a>
 </div>
 
 </div>
@@ -36,67 +36,73 @@ This has been chosen for KERNEL, in particular, because it speaks directly to:
 
 > "The precursors of money, along with language, enabled early modern humans to solve problems of cooperation that other animals cannot – including problems of reciprocal altruism, kin altruism, and the mitigation of aggression. These precursors shared with non-fiat currencies very specific characteristics – they were not merely symbolic or decorative objects."
 
-- Szabo begins with a story about the problems faced by the early colonists of America, who had limited access to the "coin of the realm", which was used to ensure they remained loyal subjects of the crown. They solved this by adopting the form of money used by the majority of Native Americans: wampum (or clam) shells. This strategy was so successful, and trade in wampum so widely accepted, that wampum became legal tender in New England from 1637 to 1661. Eventually the British shipped more coins to America and this practice ceased.
+Szabo begins with a story about the problems faced by the early colonists of America, who had limited access to the "coin of the realm", which was used to ensure they remained loyal subjects of the crown. They solved this by adopting the form of money used by the majority of Native Americans: wampum (or clam) shells. This strategy was so successful, and trade in wampum so widely accepted, that wampum became legal tender in New England from 1637 to 1661. Eventually the British shipped more coins to America and this practice ceased.
 
 > "The American language of shell money became a quaint holdover – "a hundred clams" became "a hundred dollars". "Shelling out" came to mean paying in coins or bills, and eventually by check or credit card. Little did we know that we had touched the very origins of our species."
 
-- Again, this serves to highlight the idea that the language of money takes us back to well before recorded history, right to the very roots of *homo sapiens sapiens*, the wise ape capable of complex communication and its concomitant: the calculation of value. This practice therefore extends far back beyond Native American uses and includes examples from Spain to the Great Rift Valley in Kenya to even older sites further South:
+Again, this serves to highlight the idea that the language of money takes us back to well before recorded history, right to the very roots of *homo sapiens sapiens*, the wise ape capable of complex communication and its concomitant: the calculation of value. This practice therefore extends far back beyond Native American uses and includes examples from Spain to the Great Rift Valley in Kenya to even older sites further South:
 
 > "Recently regular shells, prepared as strung beads and dating to 75,000 BP, have been found in Blombos Cave in South Africa [...] The work is highly skilled, indicating a practice that probably dates much further back in time. The origin of collecting and decorating is quite likely African, the original homeland of the anatomically modern subspecies. Collecting and making necklaces must have had an important selection benefit, since it was costly – manufacture of these shells took a great deal of both skill and time during an era when humans lived constantly on the brink of starvation."
 
 ### Reciprocal altruism
 
-- These strings of regular shells and other items can also have been used to satisfy our aesthetic tastes - made for sheer enjoyment. Far from an explanation, this raises a problem for evolutionary psychologists: why do people find the collection and wearing of jewelry enjoyable? What caused this pleasure to evolve? This takes us into a section about John Maynard Smith, evolutionary psychology, population genetics, selfish genes and Nash Equilibria. The critical question in all the theory is: **how did cooperative strategies evolve?**
+These strings of regular shells and other items may also have been used to satisfy our aesthetic tastes - made for sheer enjoyment. Far from an explanation, this raises a problem for evolutionary psychologists: why do people find the collection and wearing of jewelry enjoyable? What caused this pleasure to evolve? This takes us into a section about John Maynard Smith, evolutionary psychology, population genetics, selfish genes and Nash Equilibria. The critical question in all the theory is: **how did cooperative strategies evolve?**
 
 > "The situations where such cooperation in fact occurs in the animal world are highly constrained [...] The most common case is when parasites, and hosts whose bodies they share, evolve into symbiotes [...] However, there is much more than cooperation going on here – there is also exploitation. They occur simultaneously. The situation is analogous to an institution humans would develop – tribute [...] 
 
 > Some very special instances occur that do not involve parasite and host sharing the same body and evolving into symbiotes. Rather, they involve non-kin animals and highly constrained territory. A prominent example Dawkins describes are cleaner fish [...] The entrance costs, and thus the exit costs, of the relationship are high, so that it works out without cheating."
 
-- After discussing vampire bats who regurgitate blood, most often to kin but sometimes to non-kin (the go-to example for evolutionary psychologists interested in reciprocal altruism), Szabo pulls a quote from Richard Dawkins which defines the rest of his essay:
+After discussing vampire bats who regurgitate blood, most often to kin but sometimes to non-kin (the go-to example for evolutionary psychologists interested in reciprocal altruism), Szabo pulls a quote from Richard Dawkins which defines the rest of his essay:
 
 > "We will see that some humans, too, chose highly risky and discontinuous prey items, and shared the resulting surpluses with non-kin. Indeed, they accomplished this to a far greater extent than the vampire bat [...] Dawkins suggests, **"money is a formal token of delayed reciprocal altruism"**, but then pursues this fascinating idea no further. We will."
 
-- We've established [through Antonopoulos that money is a language](../../module-0/money-language) for communicating value, and that it was used long before writing was developed. This is now pushing to the heart of *why language itself is useful* at the biological, genetic level of our evolution: it fosters cooperation. In more technical terms, it allows us to overcome the value measurement problem - i.e. if you scratch my back in return for a piece of fruit, how long must you scratch for; how many ticks should you find; how big must the piece of fruit be; how do we remember who owes what in the case of delayed reciprocity? The cognitive overhead implied by this problem has never been overcome, except by *homo sapiens sapiens.*
+We've established through Antonopoulos that [money is a language](../../module-0/money-language) for communicating value, and that it was used long before writing was developed. This is now pushing to the heart of *why language itself is useful* at the biological, genetic level of our evolution: it fosters cooperation. In more technical terms, it allows us to overcome the value measurement problem - i.e. if you scratch my back in return for a piece of fruit, how long must you scratch for; how many ticks should you find; how big must the piece of fruit be; how do we remember who owes what in the case of delayed reciprocity? The cognitive overhead implied by this problem has never been overcome, except by *homo sapiens sapiens.*
 
 > "If clams can be money, furs can be money, gold can be money, and so on – if money is not just coins or notes issued by a government under legal tender laws, but rather can be a wide variety of objects – then just what is money anyway?"
 
-- This should be a question that you're becoming increasingly familiar with. Szabo goes on to quote Carl Menger's theory that money arises from a sufficient volume of commodity barter and discusses the issues with barter that could've lead to its further development as an abstraction. Contrast this with the David Graeber brief, up next, to get a sense for the different approaches to this question. We tend to side with Graeber, but don't take our word for it! In any case, Szabo makes a profound and underappreciated point in discussing the problem of scale which arises with barter:
+This should be a question that you're becoming increasingly familiar with. Szabo quotes Carl Menger's theory that money arises from a sufficient volume of commodity barter and discusses the issues with barter that could've lead to its further development as an abstraction. Contrast this with the David Graeber brief, up next, to get a sense for the different approaches to this question. We tend to side with Graeber, but don't take our word for it! In any case, Szabo makes a profound and underappreciated point in discussing the problem of scale which arises with barter:
 
 > "With money, there are only **n** prices – 500 products, 500 prices. Money for this purpose can work either as a medium of exchange or simply as a standard of value – as long as the number of money prices themselves do not grow too large to memorize or change too often."
 
-- Money has a price! There are, in fact, different prices for different kinds of money. This is why we have included the Perry Mehrling lectures in this section. Though it's not expected you watch them all, the ones we have selected will give you much deeper insight into this simple, though surprising, fact.
+Money has a price! There are, in fact, different prices for different kinds of money, hence the Perry Mehrling lectures in this section. Though it's not expected you watch them all, the ones we have selected will give you much deeper insight into this simple, though surprising, fact.
 
-- Szabo goes on to define early forms of money like the wampum shells described above as "collectibles" and uses this to illustrate why "people, clans or tribes trade voluntarily: because both sides believe they gain something." Trade benefits from lowered transaction costs, which are exactly where collectibles serve usefully, apart from their aesthetic or sentimental value. He describes:
+Szabo goes on to define early forms of money like wampum shells as "collectibles" and uses this to illustrate why "people, clans or tribes trade voluntarily: because both sides believe they gain something." Trade benefits from lowered transaction costs, which are exactly where collectibles serve usefully, apart from their aesthetic or sentimental value. He describes:
 
 > "how collectibles lowered transaction costs in each kind of wealth transfer – in the voluntary free gift of inheritance, in voluntary mutual trade or marriage, and in the involuntary transfers of legal judgments and tribute [...] Durable collectibles, what today we would call heirlooms, could persist for many generations and added substantial value at each transfer – often making the transfer even possible at all."
 
-- We'll be exploring this idea later in the course through the context of gifts, which we feel provide another, perhaps more profound, level of understanding to these types of transactions, but Szabo's argument about lowered transaction costs is nevertheless well worth reflecting on. He goes on to provide a most fascinating example: the Kula trading network of pre-colonial Melanesia. Most interestingly, in the context of money as a language:
+We'll be exploring this idea later in the course through the context of gifts, which we feel provide another, perhaps more profound, level of understanding to these types of transactions, but Szabo's argument about lowered transaction costs is nevertheless well worth reflecting on. He goes on to provide a most fascinating example: the Kula trading network of pre-colonial Melanesia. Most interestingly, in the context of money as a language:
 
 > "The Kula valuables doubled as "high power" money and **mnemonic for stories and gossip**. Many of the goods traded, mostly agricultural products, were available in different seasons, and so could not be traded in kind. Kula collectibles solved this double-coincidence problem as an unforgeabaly costly, wearable (for security), and circulated (literally!) money. Necklaces circulated clockwise, and armshells counter-clockwise, in a very regular pattern."
 
-### Mnemonics
+<div class="lightbulb">
+💡 Communicating value and transferring it are one and the same thing; it's just that media which are not perfect abstractions - which have their own, intrinsic value - obfuscate this essential fact.
+</div>
 
-- In analyzing such wealth transfers, we need to keep two things in mind: **context** (the time it occurs at and the supply/demand at that moment) as well as what Szabo calls the "flow graph of monetary circulation" which allows collectibles to accrue value over time. For example, food is worth much more to starving people than to well-fed ones. However, the trust required to make the requisite trades was often lacking between tribes, and so collectibles substituted for otherwise necessary but non-existent long term trust relationships. In tandem with this kind of "starvation insurance", Szabo advances a theory of trade-based predation - pointing out that many paleolithic tribes specialized in hunting only one kind of species, which often migrated seasonally, i.e. Reindeer or Bison. Importantly:
+### Communicative Wealth
+
+In analyzing such wealth transfers, we need to keep two things in mind: **context** (the time it occurs at and the supply/demand at that moment) as well as what Szabo calls the "flow graph of monetary circulation" which allows collectibles to accrue value over time. For example, food is worth much more to starving people than to well-fed ones. However, the trust required to make the requisite trades was often lacking between tribes, and so collectibles substituted for otherwise necessary but non-existent long-term trust relationships. In tandem with this kind of "starvation insurance", Szabo advances a theory of trade-based predation - pointing out that many paleolithic tribes specialized in hunting only one kind of species, which often migrated seasonally, i.e. reindeer or bison. Importantly:
 
 > "It is not enough, for the theory of collectibles put forth in this paper to be correct, that single beneficial trades were possible. We must identify closed loops of mutually beneficial trades. With closed loops the collectibles continue to circulate, amortizing their costs."
 
-- We're now deep down the evolutionary rabbit hole, and there's yet more ground to cover, because collectibles are not only useful for starvation insurance: they can be used to trade abstract foraging rights, as is still the case with !Kung in Southern Africa today. Nevertheless the major point remains that underneath our great economic institutions are far more ancient institutions that also involved **wealth transfer**. Most importantly, this kind of transfer can be **passed between generations**: i.e. kin altruism beyond the grave.
+We're now deep down the evolutionary rabbit hole, and there's yet more ground to cover, because collectibles are not only useful for starvation insurance: they can be used to trade abstract foraging rights, as is still the case with !Kung in Southern Africa today. Nevertheless the major point remains that underneath our great economic institutions are far more ancient institutions that also involved **wealth transfer**. Most importantly, this kind of transfer can be **passed between generations**: i.e. kin altruism beyond the grave.
 
-> "The demand for a durable and general store of wealth for use in marriage, inheritance, dispute resolution, and tribute was thus even more urgent than for trade itself. Furthermore, these institutions may predate inter-tribal trade, and involved for most tribes a greater transfer of wealth than trade. These institutions thus more than trade served as the motivator and incubator of the earliest primitive money."
+> "The demand for a durable and general store of wealth for use in marriage, inheritance, dispute resolution, and tribute was thus even more urgent than for trade itself. Furthermore, these institutions may predate inter-tribal trade, and involved for most tribes a greater transfer of wealth than trade. These institutions, more than trade, served as the motivator and incubator of the earliest primitive money."
 
-- It should be becoming obvious that communicating value and transferring it are one and the same thing; it's just that media which are not perfect abstractions - which have their own, intrinsic value - obfuscate this essential fact.
+This is a contentious argument, but the point remains that collectibles act as a container for memory across generations, and our memories of who we are and what we owe extend far beyond mere trade relationships.
+
+### Mnemonics
 
 > "Often collectibles not only embodied wealth, but also served as a mnemonic, representing the title to a clan position of responsibility and privilege."
 
-- This has always been true, and in an even deeper sense that Szabo is getting at here. Wealth is itself a mnemonic, perfectly illustrated by the fact that you now need only remember a 12 word mnemonic, which you can carry in your mind across any border in the world, in order to have immediate access to wealth.
+This has always been true, and in an even deeper sense that Szabo is getting at here. Wealth is itself a mnemonic, perfectly illustrated by the fact that you now need only remember a 12 word mnemonic, which you can carry in your mind across any border in the world, in order to have immediate access to wealth.
 
-- Then follows a few paragraphs about gifts and gift exchange. It's well worth reading for yourself, but we will cover this concept as its own section in Week 8. Szabo also discusses other forms of wealth transfer: family trade and marriage - putting particular emphasis on this notion of the closed loop of circulating collectibles - as well as tribute and the spoils of war. Again, when paying tribute:
+Szabo then discusses gifts and other forms of wealth transfer like family trade and marriage, putting particular emphasis on this notion of the closed loop of circulating collectibles, as well as tribute and the spoils of war. Again, when paying tribute:
 
 > "Collectibles doubled as a primitive mnemonic device that, while not verbatim, could be used as an aid to recall the terms of the treaty."
 
-- **It's crucial that you see and understand the link between money, language, mnemonics, and memory (both individual and collective). It sits at the very heart of why innovating the technology of money is so meaningful.**
+Circulating collectibles **highlight the link between money, language, mnemonics, and memory** (both individual and collective). Money contains the memories of our indebtedness to each other; narrative contains the memories of our indebtedness to life, the universe and everything. What happens now that the two are merging?
 
-- Another critical point that comes up in the section on Spoils of War is that tribes would often hide wealth in order to reduce the tribute they were forced to pay. This remains true today, albeit it in a more complex way. There is a very good reason we use the words "shell corporation". The innovation of a public, auditable, verifiable ledger changes this fundamentally, with hard-to-predict effects.
+Another critical point that comes up in the section on Spoils of War is that tribes would often hide wealth in order to reduce the tribute they were forced to pay. This remains true today, albeit it in a more complex way. There is a very good reason we use the words "shell corporation". The innovation of a public, auditable, verifiable ledger changes this fundamentally, with hard-to-predict effects.
 
 <div class="lightbulb">
 💡 Take a moment to reflect on the two points above.
@@ -104,29 +110,29 @@ This has been chosen for KERNEL, in particular, because it speaks directly to:
 
 ### Taxes and coins
 
-- Szabo uses these sneaky tribal tactics as a segue into the work of Arthur Laffer, who proved that as the tax rate increases, the amount of revenue increases, but at an increasingly slower rate than the tax rate, due to increased avoidance, evasion, and - most of all - disincentive to engage in the taxed activity. This has become known as the Laffer Curve:
+Szabo uses these sneaky tribal tactics as a segue into the work of Arthur Laffer, who proved that as the tax rate increases, the amount of revenue increases, but at an increasingly slower rate than the tax rate, due to increased avoidance, evasion, and - most of all - disincentive to engage in the taxed activity. This has become known as the Laffer Curve:
 
 > "On a larger scale, the Laffer curve may be the most important economic law of political history. Charles Adams uses it to explain the rise and fall of empires. The most successful governments have been implicitly guided by their own incentives – both their short-term desire for revenue and their long-term success against other governments – to optimize their revenues according to the Laffer Curve. Governments that overburdened their taxpayers, such as the Soviet Union and later Roman Empire, ended up on the dust-heap of history, while governments that collected below the optimum were often conquered by their better-funded neighbors."
 
-- We then move from collectibles to coins. Specifically, this was begun by a Greek-speaking culture in Anatolia (modern Turkey): the Lydians, whose kings were the first major issuers of coins. The main question about coins is why minting was dominated by governments as opposed to private interests - and the answer is not just the government's ability to enforce anti-counterfeit measures more effectively. It has to do with the fact that coins are high velocity money, facilitating a large number of low value trades.
+We then move from collectibles to coins. Specifically, this was begun by a Greek-speaking culture in Anatolia (modern Turkey): the Lydians, whose kings were the first major issuers of coins. The main question about coins is why minting was dominated by governments as opposed to private interests - and the answer is not just the government's ability to enforce anti-counterfeit measures more effectively. It has to do with the fact that coins are high velocity money, facilitating a large number of low value trades.
 
 > "The king, deriving his revenue from tax collection, had a strong incentive to measure to value of wealth held and exchanged by his subjects more accurately. That the exchange also benefited from cheaper measurement by traders of the medium of exchange, creating something closer to efficient markets, and allowing individuals to enter into the marketplace on a larger scale for the first time, was for the king a fortuitous side effect."
 
-- Being from the internet, we reject kings, presidents and voting; opting rather for rough consensus and running code. The question is whether we can have efficient marketplaces without central authorities such that the fortuitous side effects of global trade can accrue to the people actually trading, rather than the authorities "allowing" that trade to occur.
+Being from the internet, we reject kings, presidents and voting; opting rather for rough consensus and running code. The question is whether we can have efficient marketplaces without central authorities such that the fortuitous side effects of global trade can accrue to the people actually trading, rather than the authorities "allowing" that trade to occur.
 
 ### Resolution
 
-- Human relationships of any kind generally require some kind of dispute resolution mechanisms in order to be sustainable in the long term. Szabo tackles this thorny issue next:
+Human relationships of any kind generally require some kind of dispute resolution mechanisms in order to be sustainable in the long term. Szabo tackles this thorny issue next:
 
 > "Most pre-modern cultures, ranging from the Iriquois in America to the pre-Christian Germanic peoples, decided that payment was better than punishment."
 
-- There is a lot more to be said about dispute resolution, but we selected this particular quote because it highlights a fundamentally important idea for Web 3: anybody keen to advance the aims of rehabilitative justice using a shared and common historical record? Because it's the perfect tool to do so. We can use economics to combat economic evils like the privatization of prisons. It may seem far-fetched, but these are the kind of society-level changes we want you to think about, because they are, in principle, possible.
+There is a lot more to be said about dispute resolution, but we selected this particular quote because it highlights a fundamentally important idea for Web 3: is anyone willing to advance the aims of rehabilitative justice using a shared and common historical record? Because it's the perfect tool to do so. We can use economics to combat economic evils like the privatization of prisons. It may seem far-fetched, but these are the kind of society-level changes we want you to think about, because they are, in principle, possible.
 
-- This takes us back to the primary importance of understanding this notion of collectibles:
+This takes us back to the primary importance of understanding this notion of collectibles:
 
 > "Indeed, collectibles provided a fundamental improvement to the workings of **reciprocal altruism**, allowing humans to cooperate in ways unavailable to other species. For them, reciprocal altruism is severely limited by unreliable memory. Some other species have large brains, build their own homes, or make and use tools. No other species has produced such an improvement to the workings of reciprocal altruism. The evidence indicates this new development had matured by 40,000 B.P."
 
-- Szabo goes on to discuss the properties of such collectibles and give multiple examples of their development through history, basically linking up everything above. Importantly, he makes the point in the context of all this history, that
+Szabo goes on to discuss the properties of such collectibles and gives multiple examples of their development through history, basically linking up everything above. Importantly, he makes the point in the context of all this history, that
 
 > "A novelty of the 20th century was the issue of fiat currencies by governments. While generally excellent as a media of exchange, fiat currencies have proven to be very poor stores of value [due mainly to inflation]."
 

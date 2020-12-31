@@ -18,22 +18,23 @@ It starts with time.
 
 ### 1950's & 1960's
 
-- The modern computer was created toward the end of WWII - developed as a weapon to crack Enigma. The link between cryptography and computation goes all the way back to the beginning. In fact, analogue computers were used even before that to calculate naval gunnery trajectories.
-- Demilitarized computers for business slowly came onto the market after this. They were the size of rooms and there was "a world market for perhaps 5 computers a year." Data was stored on punch cards and then 1-inch magnetic tapes. It took a room full of programmers to get a simple program to run.
+The modern computer was created toward the end of WWII - developed as a weapon to crack Enigma. The link between cryptography and computation goes all the way back to the beginning. In fact, analogue computers were used even before that to calculate naval gunnery trajectories.  
+
+Demilitarized computers for business slowly came onto the market after this. They were the size of rooms and there was "a world market for perhaps 5 computers a year." Data was stored on punch cards and then 1-inch magnetic tapes. It took a room full of programmers to get a simple program to run.
 
 ### 1970's
 
-- The creation of SQL (Search and Query Language), which Vinay describes as
+This era saw the creation of SQL (Search and Query Language), which Vinay describes as
 
-> "The extremely forceful application of mathematics to bring order to the chaos of tape machines [...] The SQL abstraction assumes a multidimensional cube with one tape machine per axis [...] You then have an abstract algebra, which allows you to specify a space within your n-dimensional cube and pull data out from it into something that looks like a spreadsheet. That conceptual jump was so revolutionary that it took people 5 years to accept that it actually worked."
+> "The extremely forceful application of mathematics to bring order to the chaos of tape machines [...] The SQL abstraction assumes a multidimensional cube with one tape machine per axis [...] An abstract algebra then allows you to specify a space within your n-dimensional cube and pull data out from it into something that looks like a spreadsheet. That conceptual jump was so revolutionary that it took people 5 years to accept that it actually worked."
 
 ### 1970 - 1990
 
 > "The Golden Age of SQL. We took every single thing we could fit into a DB in business, or the wider world, and we shoved it in." 
 
-- Most importantly, the fragility of those early machines set the mindset and psychology around the database and so organizations became siloed in their own versions of reality which cannot easily speak to one another.
+Most importantly, the fragility of those early machines set the mindset and psychology around the database and so organizations became siloed in their own versions of reality which cannot easily speak to one another.
 
-- 1984 saw the microcomputer revolution. These were robust, reasonably cheap appliances that could be easily maintained and repaired. One per desk ws suddenly possible. In just 15 years, we went from complicated machinery, tapes, and room-size computers with teams of technicians to something on your desk. 
+1984 saw the microcomputer revolution. These were robust, reasonably cheap appliances that could be easily maintained and repaired. One per desk was suddenly possible. In just 15 years, we went from complicated machinery, tapes, and room-size computers with teams of technicians to something on your desk. 
 
 > "It was just as weird as what is happening now, but it was happening 'over there' because we hadn't yet invented the internet to bring you the news that something weird had happened with computers."
 
@@ -41,7 +42,7 @@ It starts with time.
 
 > "Networking that is practical for real stuff. In 1991, the notion that you could build the thing to read the document into the thing that got you the document was quite radical. This points to an important **paradigm**. In the 1970's and 80's, computing is centred around **data**. It's structured, rigid, formulated, tabulated etc. The web builds on a document-centric model. The connection between data and documents is extremely weak."
 
-- 1995-6: People realise that one day, you'll be able to make money on the internet. However, there's no security. Doh. It's only around 1999 that we have widely deployed encryption standard and hence a computer capable of taking a payment from 'the internet.'
+Around 1995-6, people began to realise that one day, you would be able to make money on the internet. However, there's no security. Doh. It's only around 1999 that we have widely deployed encryption standard and hence a computer capable of taking a payment from 'the internet.'
 
 ### The 2010's: Satoshi's Vision
 
@@ -49,23 +50,24 @@ It starts with time.
 
 > "We couldn't ask what Satoshi's intention was, because Satoshi was a ghost [...] We were provided with an artifact which, for all intents and purposes, might have been created by a time-traveler and dropped. **It's that big a jump**."
 
-- Bitcoin is like the central bank of the internet. How did we go from "Hey, we can take your credit card info on the internet!" to "Central Bank" in such a short space of time? This is where capitalism and the history of computer science merge.
+Bitcoin is like the central bank of the internet. How did we go from "Hey, we can take your credit card info on the internet!" to "Central Bank" in such a short space of time? This is where capitalism and the history of computer science merge.
 
 > "Back in early history, the databases were singular, existing in an atomic state with one DB per enterprise. The network existed in some relational sense between enterprises, but because DB's were so fragile they never spoke directly to the network because then they broke. Even if you did connect DBs somewhat directly, the DB encodes the worldview of the organization and different organizations have different worldviews, so the DBs can't speak to each other clearly."
 
-- **There were no large-scale computer-to-computer connections that allowed us to create a shared world view between lots of different organizations**
-    - i.e. the promise of blockchains.
+**There were no large-scale computer-to-computer connections that allowed us to create a shared world view between lots of different organizations**. This is the promise of blockchains.
 
-- A "distributed database" is really something which is both like a database and like a network. **Everywhere there is data, there is network; and everywhere there is network, there is data**. So, we can build a single, shared story of reality, spread across all the machines simultaneously. And when it changes in one place, it changes everywhere.
+A "distributed database" is really something which is both like a database and like a network. **Everywhere there is data, there is network; and everywhere there is network, there is data**. So, we can build a single, shared story of reality, spread across all the machines simultaneously. And when it changes in one place, it changes everywhere.
 
 > "This is such a powerful abstraction, such a powerful technology; that the first thing they implemented was the central bank of the internet. Can you imagine what Acts II and III are going to look like? **This is unimaginable strangeness**."
 
 > "The smart contract is the third big, integrative step. First we merged the network and the database in a blockchain. Then, we take computer software and put it into the shared database. That means everyone that is connected has a copy of exactly the same program: same data, same code, same result."
 
-- The next step is a "scaled blockchain", which really means a
+## 2020 And Beyond
+
+The next step is a "scaled blockchain", which really means a
 
 > "global computing surface onto which stuff like the Internet of Things can be loaded. It takes all the little bits of our computing power and **turns them into a global knowledge resource** that manages the basic infrastructure of our society."
 
-- Most importantly for all of this unimaginable strangeness now becoming reality: distributed DBs don't create new political loci of control. No-one owns the stack on which society runs.
+Most importantly for all of this unimaginable strangeness now becoming reality: distributed DBs don't create new political loci of control. No-one owns <a href="https://www.goodreads.com/book/show/26263179-the-stack" target="_blank">the stack</a> on which society runs.
 
-- From here (21:00 onward) there is lots of political and cultural stuff not relevant to this specific brief, though it is still worth acquainting yourself with some of the sci-fi titles Vinay mentions as they do play a role in the underlying culture at which this talk is pointing.
+From here (21:00 onward in the video) there is lots of political and cultural stuff not relevant to this specific brief, though it is still worth acquainting yourself with some of the sci-fi titles Vinay mentions as they do play a role in the underlying culture at which this talk is pointing.

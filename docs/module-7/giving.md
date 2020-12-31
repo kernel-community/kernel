@@ -20,7 +20,7 @@ Here's the secret to telling executable economic stories which can be used to pr
 </div>
 
 <div markdown="3" class="curated-link">
-[Read it](http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s06.html)
+<a href="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s06.html" target="_blank">Read it</a>
 </div>
 
 </div>

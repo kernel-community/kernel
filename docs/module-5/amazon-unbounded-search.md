@@ -16,7 +16,7 @@ Designing algorithms is nothing new. So, before we get all New Age crypto-econom
 </div>
 
 <div markdown="3" class="curated-link">
-[Read It](https://zackkanter.com/2019/03/13/what-is-amazon/)
+<a href="https://zackkanter.com/2019/03/13/what-is-amazon/" target="_blank">Read It</a>
 </div>
 
 </div>
@@ -108,7 +108,7 @@ While Amazon's catalog continues to grow day by day, the number of top slots doe
 
 > "Amazon has not yet figured out how to extend its internal incentive structure – the incentive structure that has been so successful in keeping the company customer-obsessed – to its external platform participants: the sellers [...] The point is that two years ago, it was hard to think of even theoretical ways that Amazon could have been caught; today, there is an opening – a real one, of meaningful size."
 
-Of course, it seems unlikely that any other than Amazon will disrupt Amazon given the open, platform-driven algorithm Bezos stumbled upon and formalized around 2002. However, it's critical to note how powerful incentives really are - indeed, so powerful that they present the only meaningful means of competing with a business the size of Amazon. 
+Of course, it seems unlikely that anyone other than Amazon will disrupt Amazon given the open, platform-driven algorithm Bezos stumbled upon and formalized around 2002. However, it's critical to note how powerful incentives really are - indeed, so powerful that they present the only meaningful means of competing with a business the size of Amazon. 
 
 > "So, what is Amazon? It started as an unbound Walmart, an algorithm for running an unbound search for global optima in the world of physical products. It became a platform for adapting that algorithm to any opportunity for customer-centric value creation that it encountered. If it devises a way to keep its incentive structures intact as it exposes itself through its ever-expanding external interfaces, it – or its various split-off subsidiaries – will dominate the economy for a generation. And if not, it’ll be just another company that seemed unstoppable until it wasn’t."
 
@@ -125,7 +125,7 @@ The first section's title is a riff on a great book which you should read if you
 </div>
 
 <div markdown="3" class="curated-link">
-[Read It](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+<a href="https://www.goodreads.com/book/show/25666050-algorithms-to-live-by" target="_blank">Read It</a>
 </div>
 
 </div>
@@ -139,7 +139,7 @@ The first section's title is a riff on a great book which you should read if you
 </div>
 
 <div markdown="3" class="tool-link">
-[Ruminate](https://stratechery.com/2020/the-tiktok-war/)
+<a href="https://stratechery.com/2020/the-tiktok-war/" target="_blank">Ruminate</a>
 </div>
 
 </div>

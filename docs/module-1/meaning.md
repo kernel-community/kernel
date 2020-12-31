@@ -14,11 +14,11 @@ _the enunciation of truth._ - V for Vendetta
 
 ---
 
-There's an internet-famous movie called [Good Copy, Bad Copy](https://www.youtube.com/watch?v=ByY6j0qzOyM), made in 2007, about intellectual property, piracy, and the fight against copyright law. The central thesis is that the document which most protects our liberty is no longer the Declaration of Independence, or the Bill of Rights: it is the 50x50 matrix which is the decryption key for blu-ray disks.
+There's an internet-famous movie called <a href="https://www.youtube.com/watch?v=ByY6j0qzOyM" target="_blank">Good Copy Bad Copy</a> made in 2007 about intellectual property, piracy, and the fight against copyright law. The central thesis is that the document which most protects our liberty is no longer the Declaration of Independence, or the Bill of Rights: it is the 50x50 matrix which is the decryption key for blu-ray disks.
 
 This is already outdated, but the premise is fascinating. The fight for liberty is not conducted with natural language in the form of political rhetoric: it is **hashed out in technical protocols**. What matters most is not what you say, but what function(s) you can get your language to execute.
 
-This has been true since Phil Zimmerman published the source code for [PGP as a book](https://books.google.co.za/books/about/PGP_Source_Code_and_Internals.html?id=xR4ZAQAAIAAJ&redir_esc=y) in 1995 in order to use the First Amendment to get around something called the Arms Export Control Act. Cryptography is so powerful, it is considered to be a munition by many governments. This is because it executes speech freely, without the need for legal or political protection, and therefore outside the realm of legal or political control.
+This has been true since Phil Zimmerman published the source code for <a href="https://books.google.co.za/books/about/PGP_Source_Code_and_Internals.html?id=xR4ZAQAAIAAJ&redir_esc=y" target="_blank">PGP as a book</a> in 1995 in order to use the First Amendment to get around something called the Arms Export Control Act. Cryptography is so powerful, it is considered to be a munition by many governments. This is because it executes speech freely, without the need for legal or political protection, and therefore outside the realm of legal or political control.
 
 ## The Means
 
@@ -32,11 +32,11 @@ The means by which we make such meaning are not owned by anyone, and the medium 
 
 So, what does Ethereum really *mean*? Happily, the most accurate answers to this are to be found on block explorers, not in short essays. However, we can make an attempt in natural language here by considering our communal imagery - the eight-sided logo.
 
-The [octahedron](https://en.wikipedia.org/wiki/Octahedron) is the third of the [five solids](https://en.wikipedia.org/wiki/Platonic_solid) postulated by Plato to make up all the elements - earth, water, fire, air and *aether*. While discussing air in the *Timaeus* - the element with which the octahedron is associated - Plato writes: "there is the most translucent kind which is called by the name of aether (αἰθήρ)". The word αἰθήρ in Homeric Greek means "pure, fresh air" or "clear sky". It is also often translated as "quintessence": the material that fills the region of the universe above the terrestrial sphere. The *aether* is the air of another realm, which nevertheless interacts with our own by virtue of the meaning we enact in our use of the four terrestrial elements.
+The <a href="https://en.wikipedia.org/wiki/Octahedron" target="_blank">octahedron</a> is the third of the <a href="https://en.wikipedia.org/wiki/Platonic_solid" target="_blank">five solids</a> postulated by Plato to make up all the elements - earth, water, fire, air and *aether*. While discussing air in the *Timaeus* - the element with which the octahedron is associated - Plato writes: "there is the most translucent kind which is called by the name of aether (αἰθήρ)". The word αἰθήρ in Homeric Greek means "pure, fresh air" or "clear sky". It is also often translated as "quintessence": the material that fills the region of the universe above the terrestrial sphere. The *aether* is the air of another realm, which nevertheless interacts with our own by virtue of the meaning we enact in our use of the four terrestrial elements.
 
-The octahedron is the middle solid, and therefore associated in more modern metaphysics with the heart; love; compassion; forgiveness; and healing. It has 8 faces, similar in a sense to the [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path). As is the case with all Platonic solids, it is symmetric and so its reflection remains the same. Such shapes remind us that we are all just mirrors for each other.
+The octahedron is the middle solid, and therefore associated in more modern metaphysics with the heart; love; compassion; forgiveness; and healing. It has 8 faces, similar in a sense to the <a href="https://en.wikipedia.org/wiki/Noble_Eightfold_Path" target="_blank">Noble Eightfold Path</a>. As is the case with all Platonic solids, it is symmetric and so its reflection remains the same. Such shapes remind us that we are all just mirrors for each other.
 
-More practically, [space frames](https://en.wikipedia.org/wiki/Space_frame) are a commonly used architectural design, extended into [octagonal trusses by Buckminster Fuller](http://www.grunch.net/synergetics/docs/bellnote.html) in his work on geodesic domes. Fuller is often quoted in crypto circles, with this being the go-to choice for many of his intellectual descendants:
+More practically, <a href="https://en.wikipedia.org/wiki/Space_frame" target="_blank">space frames</a> are a commonly used architectural design, extended into <a href="http://www.grunch.net/synergetics/docs/bellnote.html" target="_blank">octagonal trusses by Buckminster Fuller</a> in his work on geodesic domes. Fuller is often quoted in crypto circles, with this being the go-to choice for many of his intellectual descendants:
 
 > “You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”
 
@@ -44,6 +44,6 @@ More practically, [space frames](https://en.wikipedia.org/wiki/Space_frame) are 
 
 ## Further References
 
-"To know is to possess, and any fact is possessed by everyone who knows it, whereas those who *feel* truth are possessed, not possessors." - E. E. [Cummings](https://www.youtube.com/watch?v=kffo3pxNO7c)
+"To know is to possess, and any fact is possessed by everyone who knows it, whereas those who *feel* truth are possessed, not possessors." - <a href="https://www.youtube.com/watch?v=kffo3pxNO7c" target="_blank">ee cummings</a>
 
-![Ethereum](/assets/images/ethereum.png)
+<img src="/assets/images/ethereum.png" class="center-img" alt="Ethereum" />

@@ -13,11 +13,11 @@ What is value? This is, in a sense, the ultimate question. So, how can we use ou
 
 ---
 
-We can begin by asking, "What destroys value?" Some suggestions include: inefficiency, disagreement, fear, deception, dispersion, hatred.
+We can begin by asking, "What destroys value?" Some suggestions include: disagreement, fear, deception, violence, anger, envy, and inefficiency.
 
 Hopefully you can begin to see why playing with pattern is such a valuable and powerful means of thinking. Instead of egotistically presupposing we can drive straight into a coherent answer, the idea is to explore the space of seeming opposition as this, more often than not, sheds light in surprising ways on the original question. In the same way that building trustless protocols means defining clearly what it means to cheat; we can come to understand far more about value by considering first what it is not.
 
-If it is not inefficiency, disagreement, fear, deception and hatred, then it seems like **trust in clearly shared truths** lies at the core of how we might generate valuable interactions between people.
+If it is not disagreement, fear, deception and envy, then it seems like **trust in clearly shared truths** lies at the core of how we might generate valuable interactions between people.
 
 ## Consensus
 

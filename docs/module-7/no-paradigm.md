@@ -7,9 +7,9 @@ description: A summary of the Marianne Brün's classic 1980 on The Intertia of L
 
 One concern in putting this module together has been language itself - in particular the word "sacred". Words like this have such inertia as a result of all the uses to which they have been put over the generations. They have been misused repeatedly in the service of violent and oppressive narrative structures which do not truly serve our species.
 
-There is, to quote Douglas Rushkoff, *[Nothing Sacred](https://www.goodreads.com/book/show/139712.Nothing_Sacred)*. Which also means everything is sacred.
+There is, to quote Douglas Rushkoff, *<a href="https://www.goodreads.com/book/show/139712.Nothing_Sacred" target="_blank">Nothing Sacred</a>*. Which also means everything is sacred.
 
-What I most want to say here cannot be [said](https://youtu.be/7xwq1v8OD6s?t=255). Instead, simply recognize that you cannot acquire everything, which is why any path to the sacred (meaning beyond yourself) has always had to do with letting go. We are not on a hero's journey. We are on [a fool's errand to give back the evil which does not belong](https://youtu.be/3HYlbg6RKMA?t=962) in this world.
+What I most want to say here cannot be <a href="https://youtu.be/7xwq1v8OD6s?t=255" target="_blank">said</a>. Instead, simply recognize that you cannot acquire everything, which is why any path to the sacred (meaning beyond yourself) has always had to do with letting go. We are not on a hero's journey. We are on <a href="https://youtu.be/3HYlbg6RKMA?t=961" target="_blank">a fool's errand to give back the evil which does not belong</a> in this world.
 
 *Without cause, God gave you being.*  
 *Without cause, give it back.*  
@@ -23,7 +23,7 @@ What I most want to say here cannot be [said](https://youtu.be/7xwq1v8OD6s?t=255
 </div>
 
 <div markdown="3" class="curated-link">
-[Read it](http://jlombardi.net/pdf/inertia%20language%20article.pdf)
+<a href="http://jlombardi.net/pdf/inertia%20language%20article.pdf" target="_blank">Read it</a>
 </div>
 
 </div>
@@ -37,7 +37,7 @@ What I most want to say here cannot be [said](https://youtu.be/7xwq1v8OD6s?t=255
 </div>
 
 <div markdown="3" class="curated-link">
-[Journey](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_thejourney.html)
+<a href="http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_thejourney.html" target="_blank">Journey</a>
 </div>
 
 </div>
@@ -76,7 +76,7 @@ Our history can be seen as the retroactive telling of various paradigmatic stori
 
 > their inception, flourishing, and collapse; and how there always has been a new paradigm waiting to substitute for the collapsed one. These stories do not, however, sufficiently emphasize a recurrent and ubiquitous phenomenon [...] This phenomenon is best described as **the inertia of language**.
 
-This inertia is both a symptom of paradigmatic stories, and the dynamic force behind their telling. It can be traced through facts like how the sun still "rises", even though we have known that it is the Earth's horizon which dips into dawn, and rises into darkness.
+This inertia is both a symptom of paradigmatic stories, and the dynamic force behind their telling. It can be traced through facts like how the sun still "rises", even though we have known for hundreds of years that it is the Earth's horizon which dips into dawn, and rises into darkness.
 
 > Due to this inertia, language stores and offers for communicative usage many remnants of many obsolete paradigms.
 
@@ -86,7 +86,7 @@ If we accept these remnants in what we write, speak or hear, then we subject our
 
 ### Re-cognition
 
-Ideologues always use language which insists on its own truth and consistency, yet is hostile to critique and frames the observed evidence as a betrayal of its believed premise. Ideologues believe in the power of language but fail to recognize it. Critically though, Brün draws a distinction between ideologists and ideologies:
+Ideologues always use language which insists on its own truth and consistency, yet is hostile to critique and frames the observed evidence as a betrayal of its believed premise. Ideologues believe in the power of language but fail to recognize it and so they become no more than the tools of their own ideologies:
 
 > The accumulated language of bygone times: powerful, familiar, and obsolete, *uses the ideologists* and makes them its speakers. Through them it thwarts those specific human attempts which we call ideas and which, rebellious against all that is, would engender new thought and new procedures.
 
@@ -108,11 +108,11 @@ Brün makes a clear distinction between (1) the premise of any society, which is
 
 > We do not live in such a human society. Our society has developed an image of itself, according to which the satisfaction of needs has to be deserved and earned, so that it be understood as a reward [...] The premise of the reward-oriented hierarchy states that the necessities for the satisfaction of human needs are scarce. This scarcity poses individual and social problems of production and distribution. Finally, the premise declares that the problems of scarcity can not be solved before individual and social problems are solved.
 
-Our present knowledge and technology could remove scarcity, but the its **economics** and **language** linger on. This is *exactly why* shared networks which merge the two explicitly and allow us to program dynamic flows of value are so fascinating. They're the only piece Brün was missing back in 1980. She already understood then what many still do not: the problem is not primarily social or political: it is *linguistic*.
+Our present knowledge and technology could remove scarcity, but its **economics** and **language** linger on. This is *exactly why* shared networks which merge the two explicitly and allow us to program dynamic flows of value are so fascinating. They're the only piece Brün was missing back in 1980. She already understood then what many still do not: the problem is not primarily social or political. It is *linguistic*.
 
 ### On Your Marx
 
-We cannot use the language of this reward-oriented hierarchy in which we are so deeply embedded to discuss its own premise: we must first teach it to experiment with itself in order to discover how it labors under the paradigm it ought to expose. 
+We cannot use the language of this reward-oriented hierarchy in which we are so deeply embedded to discuss its own premise: we must <a href="https://www.youtube.com/playlist?list=PL5ClmaG2tnPPFveZLH5lRrzV-Ndc3_Nli" target="_blank">first teach it to experiment with itself</a> in order to discover how it labors under the paradigm it ought to expose. 
 
 > In particular: can we find the language whose grammar, syntax, and sentence structure would make it consistent with the premise that all human needs have to be satisfied first, *before and so that* individual and social problems can and will be identified and solved?
 
@@ -128,7 +128,7 @@ This kind of dream cannot be realised in natural language, no matter how eloquen
 
 > Communicative language is accumulated language based on obsolete and present paradigms and can not speak for those of us who think and dream in another paradigm.
 
-Because all of these briefs form one, [connected chain](../../module-6/) of thought - a digital [songline](https://en.wikipedia.org/wiki/Songline) of a different and human society - Brün finishes with a note about doubt, [humility](../../module-3/humility/) and [art](../../module-4/art/):
+Because all of these briefs form one, [connected chain](../../module-6/) of thought - a digital <a href="https://en.wikipedia.org/wiki/Songline" target="_blank">songline</a> of a different and human society - Brün finishes with a note about doubt, [humility](../../module-3/humility/) and [art](../../module-4/art/):
 
 > Language is not the standard against which thinking is to be measured; on the contrary: language is to be measured by a standard it barely reaches, if ever, namely the imagery of human doubt and human desire [...]
 

@@ -151,8 +151,8 @@ nav:
   - Module 6:
     - Staking and Scaling: module-6/index.md
     - Crafted Reading:
-      - Censorship Resistance: module-6/censorship-resistance.md
       - Learn How To Learn: module-6/learn.md
+      - Censorship Resistance: module-6/censorship-resistance.md
     - Curated Material:
       - Serenely: module-6/serenity.md
       - Principled: module-6/inventing-on-principle.md

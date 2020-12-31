@@ -7,7 +7,7 @@ description: A summary of the Project Horseshoe economic paper on building expli
 
 *“What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.”*
 
-— [Kurt Vonnegut](https://www.youtube.com/watch?v=GOGru_4z1Vc), 1974
+— <a href="https://www.youtube.com/watch?v=GOGru_4z1Vc" target="_blank">Kurt Vonnegut</a>, 1974
 
 <div markdown="1" class="card half sidebar center gemoji center-content center">
 
@@ -16,7 +16,7 @@ description: A summary of the Project Horseshoe economic paper on building expli
 </div>
 
 <div markdown="3" class="curated-link">
-[Read it](https://lostgarden.home.blog/)
+<a href="https://lostgarden.home.blog/" target="_blank">Read it</a>
 </div>
 
 </div>
@@ -31,7 +31,7 @@ The incentives which support power are primarily based on narratives and we can 
 
 ## Brief
 
-Loneliness causes stress, depression, reduced lifespan and can lead to short term thinking associated with long term net negative outcomes. Too often, our technologies and the games we design with them exacerbate, rather than solve this problem. This is not just applicable to children, but to our whole society. However, problems also come with opportunities:
+Loneliness causes stress, depression, reduced lifespan and can lead to short-term thinking associated with long-term net negative outcomes. Too often, our technologies and the games we design with them exacerbate, rather than solve this problem. This is not just applicable to children, but to our whole society. However, problems are always also opportunities:
 
 > "Combining the known severity of the consequences of loneliness with the connections shown between games, technology, and loneliness, it becomes clear that this is a pressing issue [...] As the median age of the world population rises, there’s an opportunity as increasing numbers of older people play games."
 
@@ -41,21 +41,21 @@ There’s a growing recognition that toxicity in online communities results from
 
 ### The Grand Project
 
-Designing to increase social capital requires expertise in at least three distinct domains. Project Horseshoe wrote about [psychology](https://www.projecthorseshoe.com/reports/ph16/ph16r4.htm) in 2016, [logistics and scale](https://www.projecthorseshoe.com/reports/featured/ph18r8.htm) in 2018, and this paper focuses on economics. It is by understanding these three fields together that we can begin to design truly interesting, prosocial mechanisms to help us map and navigate the [intersubjective space Dandelion talked about last week](../../module-4/#fireside-with-dandelion-mane).
+Designing to increase social capital requires expertise in at least three distinct domains. Project Horseshoe wrote about <a href="https://www.projecthorseshoe.com/reports/ph16/ph16r4.htm" target="_blank">psychology</a> in 2016, <a href="https://www.projecthorseshoe.com/reports/featured/ph18r8.htm" target="_blank">logistics and scale</a> in 2018, and this paper focuses on economics. It is by understanding these three fields together that we can begin to design truly interesting, prosocial mechanisms to help us map and navigate the [intersubjective space Dandelion talked about last week](../../module-4/#fireside-with-dandelion-mane).
 
 Many of the key elements required by the psychological and logistical aspects of friendship formation are systematically undervalued within common economic practices. Game designers, however, are concerned with the **flow and transformation of resources, value, and incentives for player behavior** - that is, the **internal economy**, rather than strict "micro" or "macro" formalisms.
 
-Though these are toy economies, and have well-defined boundaries with the real world, we can still build meaningful relationships between virtual objects. These elements originate mostly in systems theory and include: tokens, sources, pools, [sinks](https://vitalik.ca/general/2017/10/17/moe.html) and transforms; and agents like the player and "black boxes". Together, these elements and agents can be used to model the entire internal economy, and balance our games with the correct incentive structures.
+Though these are toy economies, and have well-defined boundaries with the real world, we can still build meaningful relationships between virtual objects. These elements originate mostly in systems theory and include: tokens, sources, pools, <a href="https://vitalik.ca/general/2017/10/17/moe.html" target="_blank">sinks</a> and transforms, agents like the player, and "black boxes". Together, these elements and agents can be used to model the entire internal economy, and balance our games with the correct incentive structures.
 
 Mapping game economies to the real world is challenging: the latter has limited resources and unlimited needs; whereas games are abundant digital universes in which consumption and ownership can mean different things. Moreover, economics does not account well for computation and psychology: the common behavioral models of rational, atomic individuals who are the best judges of their needs and who exist within weak social networks seem deeply flawed. Economists must rely on measurement via proxy and weak sampling, whereas game developers have a panopticon that records every possible player interaction.
+
+Moreover, most economists assume a price for everything, but this basic assumption distorts greatly our transactional relationships, it undervalues our long term relationships, and it over-emphasizes short term measurable improvements.
+
+> Human groups create public goods in the form of unmeasured relationships, social norms and cultural practices. These public goods are incredibly valuable in terms of individual health and happiness. Yet they are not readily measured by economic transactions. Economics in general struggles with public goods, and social public goods are even more invisible.
 
 <div class="lightbulb">
 💡 "The practice of economics erases many of the social phenomena we are interested in examining."
 </div>
-
-Most economists assume a price for everything, but this basic assumption distorts greatly our transactional relationships, it undervalues our long term relationships, and it over-emphasizes short term measurable improvements.
-
-> Human groups create public goods in the form of unmeasured relationships, social norms and cultural practices. These public goods are incredibly valuable in terms of individual health and happiness. Yet they are not readily measured by economic transactions. Economics in general struggles with public goods, and social public goods are even more invisible.
 
 Economics, as a discipline, suffers from a "replication crisis" - many large scale theories are only testable in the world and the experiments meant to measure them inevitably lack power and scope. In this sense, it is less of a science and more a historical kind of map-making that has increasingly been pulled into politics, rhetoric and ideology. Here's the conundrum: we need to design and build balanced economic systems, but our tools suck. 
 
@@ -67,7 +67,7 @@ There are truths in economic systems: trade creates value (or destroys it if we 
 
 - **Friendship**: The formation and maintenance of healthy, meaningful friendship networks.
 - **Thriving individuals**: The facilitation of eudaimonic happiness. Players feel competence, volition, and relatedness, both for themselves and for their friends.
-- **Altruism**: The promotion of activities that involve intrinsically motivated altruism and cooperation.
+- **Altruism**: The promotion of activities that involve intrinsically motivated cooperation.
 - **Positive group norms**: The spread and enforcement of shared altruistic social norms within and across groups.
 - **Shared goals**: Players work towards those goals via mutual interdependence, and achieve feelings of purpose and meaningfulness.
 
@@ -77,7 +77,7 @@ By being explicit about these values, [we can engineer our games and economies](
 
 #### Friendship
 
-Instead of the rational optimizer model, we can use *contextual reciprocity* to map friendship as a key value for prosocial game design. All friendships, though different, have common factors: **proximity**, **repeat encounters**, **reciprocity**, **disclosure**. Successful reciprocity loops increase value and effort over time and, as this process goes on, the more players trust each other.
+Instead of the rational optimizer model, we can use *contextual reciprocity* to map friendship as a key value for prosocial game design. All friendships, though different, have [common factors](../../module-0/trust/#further-references): **proximity**, **repeat encounters**, **reciprocity**, **disclosure**. Successful reciprocity loops increase value and effort over time and, as this process goes on, the more players trust each other.
 
 Highly trusted friends form key long-term support networks in times of need. We can accelerate friendship formation with three keys: **similarity**, **intensity**, and **autonomy support**. That is, the more similar people feel, the more intense the emotional situations in which they interact, and the more they encourage each other's choices; the more likely they are to become lasting friends.
 
@@ -91,13 +91,13 @@ Of course, the challenge here is that you can't share your trust metrics in the 
 
 #### Positive sum resources
 
-There are only a few examples of these in the world: [**time**](../../module-3/time/) and [**information**](../../module-4/the-garden/) being the two most obvious ones. However, these are a key economic tool for cooperative game play. This area of exploration is connected to the software theory of [agalmics](https://wiki.p2pfoundation.net/Agalmics): non-scarce resources. Whether or not players compete over a resources becomes a design choice, not a fundamental constraint.
+There are only a few examples of these in the world: [**time**](../../module-3/time/) and [**information**](../../module-4/the-garden/) being the two most obvious ones. However, these are a key economic tool for cooperative game play. This area of exploration is connected to the software theory of <a href="https://wiki.p2pfoundation.net/Agalmics" target="_blank">agalmics</a>: non-scarce resources. Whether or not players compete over a resources becomes a design choice, not a fundamental constraint.
 
 We need to look for competition or toxicity and design away any non-zero resources at the heart of such interactions. You may ask whether this will destroy our incentives to compete, but cumulative scores are an inherent positive sum resource (everyone gets some independent of other players), and coordination games are every bit as popular as other kinds.
 
 If there are infinite resources, won't we just have imbalanced economies? 
 
-> It is important to internalize that as a game economy designer, you control the sources, the [sinks](https://vitalik.ca/general/2017/10/17/moe.html) and the narrative justification for why the world works as it does. Scarcity as well as abundance are aesthetic choices.
+> It is important to internalize that as a game economy designer, you control the sources, the <a href="https://vitalik.ca/general/2017/10/17/moe.html" target="_blank">sinks</a> and the narrative justification for why the world works as it does. Scarcity as well as abundance are aesthetic choices.
 
 There are arbitrary per player caps, or per group caps, or transaction costs, or sinks that can achieve balanced incentive structures. Again, the mapping from games to real world is not exact: our total relationship budget is itself zero sum. We are limited by Dunbar's number, but this is perhaps where we can consider those higher level trust metrics like inter-group cooperation.
 
@@ -121,11 +121,11 @@ For large projects that consume public space, it requires lots of crafting ingre
 
 > We wanted to empower individuals to make local changes, but ensure the system needed the political power of increasingly larger groups to make more permanent communal changes.
 
-This is crucial: in a virtual universe, you need not use the same language of voting and politics to achieve the same end results! We get so caught up in the [inertia of our current linguistic paradigms](http://jlombardi.net/pdf/inertia%20language%20article.pdf) that we can't think creatively about how to achieve the desired results without recourse to the same old formalisms. Use games to free yourself.
+This is crucial: in a virtual universe, you need not use the same language of voting and politics to achieve the same end results! We get so caught up in the <a href="http://jlombardi.net/pdf/inertia%20language%20article.pdf" target="_blank">inertia of our current linguistic paradigms</a> that we can't think creatively about how to achieve the desired results without recourse to the same old formalisms. Use games to free yourself.
 
 #### Interdependent roles
 
-Division of labor increases efficiency and so is pervasive through social systems design. It incentivizes both specialization and coordination and is fueled by trust. However, such high trust requirements - and the reputational and actual costs of failing in high coordination tasks - tend to intimidate people. Successful games have a [ladder of activities](http://worrydream.com/#!2/LadderOfAbstraction), starting with low trust activities between generalists, before moving into higher trust coordination games between specialists. 
+Division of labor increases efficiency and so is pervasive through social systems design. It incentivizes both specialization and coordination and is fueled by trust. However, such high trust requirements - and the reputational and actual costs of failing in high coordination tasks - tend to intimidate people. Successful games have a <a href="http://worrydream.com/#!2/LadderOfAbstraction" target="_blank">ladder of activities</a>, starting with low trust activities between generalists, before moving into higher trust coordination games between specialists. 
 
 ![Trust Diagram](./img/trust-diagram.png)
 
@@ -171,7 +171,7 @@ We can summarize this into three key prosocial mechanics and economic patterns t
 
 1. **Measuring the unmeasured**: trust and positive sum resources, knowledge in particular.
 2. **Facilitating connection**: building for friendship formation, encouraging trade and fostering shared vulnerability.
-3. **Facilitating expression**: through [voting resources as economic tools](https://analytics.status.im/dapps/) and integrating social metrics with business success.
+3. **Facilitating expression**: through <a href="https://our.status.im/discover-a-brave-new-curve/" target="_blank">voting resources as economic tools</a> and integrating social metrics with business success.
 
 There are so many areas which you can use this initial exploration to dive into: group leveling; friendship resources; incentivizing generosity; nurture play; and expressive orthogonality through fashion. Ideally, we should aim to use the above prosocial design patterns to explore the space of positive sum resource design and public good design (see [Liberal Radicalism](../../module-4/liberal-radical/) as one example of such an exploration); to build better cognitive behaviour therapy systems and help manage social skill development across societies.
 

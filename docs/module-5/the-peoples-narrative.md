@@ -12,7 +12,7 @@ description: A summary of a Bankless Nation podcast with Dr Ben Hunt which explo
 </div>
 
 <div markdown="3" class="curated-link">
-[Listen in](http://podcast.banklesshq.com/ben-hunt-mastermemer)
+<a href="http://podcast.banklesshq.com/ben-hunt-mastermemer" target="_blank">Listen in</a>
 </div>
 
 </div>
@@ -33,7 +33,7 @@ This conversation will help you deepen your approach to:
 
 _The actual podcast begins at 6:42, if you're not interested in the build-up._
 
-This dialogue revolves around an idea called [Epsilon Theory](https://www.epsilontheory.com/epsilon-theory-manifesto/), which is basically game theory as it applies to **other players** in the context of stock markets and investing. As the saying goes in poker: you don't play the cards, you play the player. That is, the smartest move is often not necessarily to invest in the stock with the best fundamentals; it's to invest in the stock you think everyone else *believes* to have the best fundamentals. When everyone thinks this way, it gets even more complicated and you end up with things like [Hertz](https://www.vanityfair.com/news/2020/06/bankrupt-hertz-is-a-pandemic-zombie) or [TSLA](https://www.fool.com/investing/2020/08/02/elon-musk-was-right-teslas-stock-price-is-too-high.aspx).
+This dialogue revolves around an idea called <a href="https://www.epsilontheory.com/epsilon-theory-manifesto/" target="_blank">Epsilon Theory</a>, which is basically game theory as it applies to **other players** in the context of stock markets and investing. As the saying goes in poker: you don't play the cards, you play the player. That is, the smartest move is often not necessarily to invest in the stock with the best fundamentals; it's to invest in the stock you think everyone else *believes* to have the best fundamentals. When everyone thinks this way, it gets even more complicated and you end up with things like <a href="https://www.vanityfair.com/news/2020/06/bankrupt-hertz-is-a-pandemic-zombie" target="_blank">Hertz</a> or <a href="https://www.fool.com/investing/2020/08/02/elon-musk-was-right-teslas-stock-price-is-too-high.aspx" target="_blank">TSLA</a>.
 
 Traditionally, we can model the return on any investment we make with the formula:
 
@@ -73,15 +73,15 @@ Dr Hunt speaks about the "nudging oligarchy" and the "nudging state" - that is, 
 
 Moreover, it is the panopticon enhanced with Moore's Law when you consider Central Bank Digital Currencies and social credit systems. Dr Hunt claims that a government *is defined* by control of the money supply and argues that it will co-opt the clever parts of technologies like Bitcoin to suit the ends of those in power.
 
-However, be wary when you hear people talk about the "strategy" of Bitcoin, or the "intention" of decentralized networks. Bitcoin and Ethereum have no strategy - they are means of ordering certain facts in time in such a way that no-one can claim ownership of either order or fact. Remember: we're not fighting the system, [just abandoning it](../../module-4/governance/#anarchy). Listen to [Kevin Kelly](../../module-2/better-questions/#further-references): "there is no them". There is - to use Dr Hunt's own words - only one crowd trying to look in the mirror to figure out what the crowd truly thinks.
+However, be wary when you hear people talk about the "strategy" of Bitcoin, or the "intention" of decentralized networks. Bitcoin and Ethereum have no strategy - they are means of ordering certain facts in such a way that no-one can claim ownership of either order or fact. Remember: we're not fighting the system, [just abandoning it](../../module-4/governance/#anarchy). Listen to [Kevin Kelly](../../module-2/better-questions/#further-references): "there is no them". There is - to use Dr Hunt's own words - only one crowd trying to look in the mirror to figure out what the crowd truly thinks.
 
 ### The long game
 
 Perhaps the ability to exit - this notion of abandoning the system - is exactly the sort of check we need to prevent nudging states from moving too far, and exerting undue influence over the citizenry's autonomy? Dr Hunt thinks this is true, but cautions that one doesn't want to end up in the "gold bug" situation of sitting in a bunker hoping for a catastrophe, as it is not a pleasant state of mind in which to pass your life. There is a longer game at play here, and it doesn't take place on "the battlefield of money", where one is first ghetto-ized and then outlawed.
 
-Distributed ledger technologies attack the Achilles heel of the nudging nation state, by solving **[distributed trust](../../module-0/trust/)**. This is at the core of Dr Hunt's movement around investing and citizenship, and what Epsilon Theory is really about. Distributed trust is the Big Game (TM).
+Distributed ledger technologies attack the Achilles heel of the nudging nation state, by solving **[distributed trust](../../module-0/trust/)**. This is at the core of Dr Hunt's movement around investing and citizenship, and what Epsilon Theory is really about. Distributed trust is the Big Game<sup>TM</sup>.
 
-Let's consider three possible outcomes. Competition between nations leads to adoption of public, decentralized networks; such networks become so useful that - like TCP/IP - nation states *must* adopt them to stay relevant; or there is a generational narrative shift led by disenfranchised youth. Dr Hunt thinks the first two unlikely: strong nations will only compete to dethrone the Dollar if they can replace it with their own currency, and weak nations "do what they must" to survive. Usefulness gets co-opted such that that you become just another game in the "Wall Street casino" and change nothing fundamental, [like Rushkoff bemoaned](../../module-3/time/#questions). However,
+Let's consider three possible outcomes. Competition between nations leads to adoption of public, decentralized networks; such networks become so useful that - like TCP/IP - nation states *must* adopt them to stay relevant; or there is a generational narrative shift led by disenfranchised youth. Dr Hunt thinks the first two unlikely: strong nations will only compete to dethrone the Dollar if they can replace it with their own currency, and weak nations "do what they must" to survive. Usefulness gets co-opted such that you become just another game in the "Wall Street casino" and change nothing fundamental, [like Rushkoff bemoaned](../../module-3/time/#conspiring-against-the-actual-os). However,
 
 > I honestly think that there is an enormous reservoir of desire for an alternative financial system or network of investors and markets and trading that is outside of the public market casino utility that we have today and that [Ethereum] has developed an integral part of that [...] There is a natural alliance, that can be cemented with the right narratives, between value investors and the disenfranchised young generations which could shake the current financial system and create something interesting.
 
@@ -97,8 +97,8 @@ And it arises from linking together people from all around the world in what is 
 
 ### Passing references worth following
 
-[Stag hunts](https://en.wikipedia.org/wiki/Stag_hunt)
+<a href="https://en.wikipedia.org/wiki/Stag_hunt" target="_blank">Stag hunts</a>
 
-[Incomplete information games](https://blog.zkga.me/announcing-darkforest)
+<a href="https://blog.zkga.me/announcing-darkforest" target="_blank">Incomplete information games</a>
 
-[The Second Foundation](https://en.wikipedia.org/wiki/Foundation_series)
+<a href="https://en.wikipedia.org/wiki/Foundation_series" target="_blank">The Second Foundation</a>

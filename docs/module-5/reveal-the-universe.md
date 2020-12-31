@@ -17,15 +17,15 @@ You may be asking what computer games have to do with token design. Though the u
 
 We've already suggested the answer: **a universe of distributed [trust](../../module-0/trust/)**. Now, like any good game designer, we have to find the "nuggets of truth" in this world, and present them to everyone with the lightest possible contrivance. 
 
-We could teach you about the different kinds of [constant function market makers](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159), but these are just one particular flavor of one kind of nugget within the entirue universe of applications made possible by distributed trust. We want to demonstrate *the principle* here: virtuous games lead to valuable truth. The better we design our games, the more we can share our truths.
+We could teach you about the different kinds of <a href="https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159" target="_blank">constant function market makers</a>, but these are just one particular flavour of one kind of nugget within the entire universe of applications made possible by distributed trust. We want to demonstrate *the principle* here: virtuous games lead to valuable truth. The better we design our games, the more clearly we can share our truths.
 
 ## Brief
 
-Jonathan begins with a description of Portal 2, and demonstrates discovering a game mechanic to do with using the light bridges in such a way that you explore otherwise impossible-to-reach places. He also shows a classic game - vvvvvv - which allows you to change the direction of gravity for your character. Out of this single, incredibly simple rule, you can build mechanics that allow the character to traverse 180 degree bends and full circles, opening the game up into all sorts of fun and revealing mazes with just one rule. Such mechanics are:
+Jonathan begins with a description of Portal 2, and demonstrates discovering a game mechanic to do with using light bridges in such a way that you explore otherwise impossible-to-reach places. He also shows a classic game - vvvvvv - which allows you to change the direction of gravity for your character. Out of this single, incredibly simple rule, you can build mechanics that allow the character to traverse 180 degree bends and full circles, opening the game up into all sorts of fun and revealing mazes with just one rule. Such mechanics are:
 
 > little nuggets of truth the designer has found and packaged for the player. Now, I am calling them 'truth' even though you, as a player, encounter them as pieces of a fictional game-world that doesn't exist. But, if you think carefully about these things: they are about subjects which pertain to the real world.
 
-These often reveal sophisticated understandings of the universe - likes lines intersecting in 2-D space, but being one below the other in 3 dimensions (as in Portal 2), **yet in game play, it happens very naturally.** This is a lot like what mathematicians do: they build higher-order constructs out of primitive "what if?" questions and **explore the consequences** of them.
+These often reveal sophisticated understandings of the universe - likes lines intersecting in 2-D space, but being one below the other in 3 dimensions (as in Portal 2), **yet in game play, it happens very naturally.** This is a lot like what mathematicians do: they build higher-order constructs out of primitive "what if?" questions and then **explore the consequences**.
 
 If you learn only one thing this week, let it be this: mechanism design is about asking the most simple "what if?" question you can and then exploring the possibility space it implies fully. This is the *aesthetic of game design:*
 
@@ -37,15 +37,15 @@ Games are both toy universes and complex mathematical systems, and mathematics i
 ### Exploring well
 
 1. Start with a mechanic; like a grappling hook that you can shoot and pull yourself with. 
-2. Or, you can be more vague; just a detail or consequence that you want to include, but am unsure of the framework around it. Like a puzzle game where you know that you want players to remember a melody and recite it back at some stage, but don't know exactly how.
+2. Or be more vague, beginning with a detail or consequence without being sure of the framework around it. For instance: a puzzle game where you know that you want players to remember a melody and recite it back at some stage, but don't know exactly how.
 3. Aim towards the **richest space**, explore it **completely**, and trace a **strong boundary** around it.
 4. Present the results **cleanly** and with the **least contrivance** to get closer to the truth. 
 
 Marc talks about a 4-dimensional game he designed, where the mechanic is a button you can press to switch one of the dimensions. This dimensionality results in strange and wonderful connections between universes, such that you can pass through walls, or "climb" to rewards on them you wouldn't otherwise be able to reach.
 
-It's worth remembering [May Li Khoe and Khan Academy](../../module-1/joyful-subversion/#shifting-the-nature-of-work). Great mechanism design revolves around small nuggets of truth, packaged with the least contrivance for people to find and experience themselves: much like negative numbers granting kids super powers when they adventure to the left of the number line, or the visual properties of prime numbers falling out their work on simple addition and subtraction. Mechanism design is **not** about making complex systems! It is about simplifying complex insights so that people can learn them intuitively through use (which is joyful), not explicitly through study (which is boring and contrived).
+It's worth remembering [May Li Khoe and Khan Academy](../../module-1/joyful-subversion/#shifting-the-nature-of-work). Great mechanism design revolves around small nuggets of truth, packaged with the least contrivance for people to find and experience themselves: much like negative numbers granting kids super powers when they adventure to the left of the number line, or the visual properties of prime numbers falling out their work on simple addition and subtraction. **Mechanism design is not about making complex systems! It is about simplifying complex insights** so that people can learn them intuitively through use (which is joyful), not explicitly through study (which is boring and contrived).
 
-Jonathan discusses a puzzle pattern game - The Witness - he made and the "game-feel" reasons which led him to certain constraints for drawing the solutions to puzzles. These range from ease of use across platforms to the aesthetic feel different rules - or the lack of them - induce.  Before he even knew what the puzzles were, he had set up a system which *could combine well with other mechanics*. This is critical: exploration of low-level primitives **yields possibility**. 
+Jonathan discusses a puzzle pattern game he made - The Witness - and the "game-feel" reasons which led him to certain constraints for drawing the solutions to puzzles. These range from ease of use across platforms to the aesthetic feel different rules - or the lack of them - induce.  Before he even knew what the puzzles were, he had set up a system which *could combine well with other mechanics*. This is critical: exploration of low-level primitives **yields possibility**. 
 
 ### Virtuous design
 

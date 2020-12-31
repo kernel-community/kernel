@@ -35,7 +35,7 @@ What this means is that, when you're making something and you make a change or a
 
 Specifically, we edit code in a text editor, see what it looks like; then make some changes, compile and run it again and see the effect of that new change. **Most of the time is spent working in a text editor blindly**, without an immediate connection to the output.
 
-The first step is to link the two together seamlessly in one environment. Then, we can start thinking of ways to change e.g. a picture other than typing new code. Bret demonstrates this by "dialing" numbers up an down with a simple ctrl + click mechanism, allowing you to explore the space and pick the magnitude which feels best to you artistically, without needing to go through each possible number manually. He demonstrates how this simple change allowed him to discover a means for animating the blossoms he would never have otherwise known about.
+The first step is to link the two together seamlessly in one environment. Then, we can start thinking of ways to change our work other than typing new code. Bret demonstrates this by "dialing" numbers up an down with a simple ctrl + click mechanism, allowing you to explore the space and pick the magnitude which feels best to you artistically, without needing to go through each possible number manually. He demonstrates how this simple change allowed him to discover a means for animating the blossoms he would never have otherwise known about.
 
 > So much of creation is discovery. And you can't discover anything if you can't see what you're doing [...] Having an immediate connection allows ideas to surface, and develop, in ways which were not before possible.
 
@@ -51,7 +51,7 @@ There's still a problem though: I have the picture, and I have the code, but I h
 
 In the tree example, there is no state: no sense of time or interactivity. Bret shows a platform game which has all the features of the tree example above, but also can be paused at any point and rewound - in this case to adjust the *future trajectory* of a character's jump so they end up in exactly the right place without unnecessary fuss for the creator.
 
-> As I was designing this, I noticed that it's fun to play with gravity. I bet you could make an entire game from that one mechanic. In fact, you could probably like a game from fiddling with any single line of code here as a way of [exploring possibly rich mechanics](../../module-5/reveal-the-universe/#exploring-well).
+> As I was designing this, I noticed that it's fun to play with gravity. I bet you could make an entire game from that one mechanic. In fact, you could probably make a game from fiddling with any single line of code here as a way of [exploring possibly rich mechanics](../../module-5/reveal-the-universe/#exploring-well).
 
 #### Abstract Algorithms
 
@@ -61,7 +61,7 @@ Bret talks about binary search and demonstrates how the code for such an algorit
 
 In particular, he uses this example to show how easy and intuitive it is to find different kinds of bugs - both simple ones like having an invalid array index, and non-trivial ones where the range within which we're searching becomes distorted and never returns anything usable. That is, this is "what it looks like to write an algorithm without a blindfold on."
 
-Our current conception of what a program is - a list of textual definitions that you to a compiler - is derived from languages made in the 1950's when we were still using punch-cards. None of these languages, or the machines they ran on, were interactive - and this assumption is still with us today, even though the media has changed drastically. People still thinks REPLs are "interactive programming" because that was the best you could do on a teletype!
+Our current conception of what a program is - a list of textual definitions that you hand to a compiler - is derived from languages made in the 1950's when we were still using punch-cards. None of these languages, or the machines they ran on, were interactive - and this assumption is still with us today, even though the media has changed drastically. People still thinks REPLs are "interactive programming" because that was the best you could do on a teletype!
 
 #### Golden Rules
 
@@ -92,19 +92,19 @@ Bret is not trying to convince you to take up his principle, but rather to highl
 
 ### Visionaries
 
-In the late 70's at Xerox Parc, Larry Tesler and his colleagues thought that personal computing - which was not considered feasible by anyone else - had huge potential to change how people thought and lived. At the time, software interfaces were designed around **modes**. [Vim still famously does this](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/). By pioneering the concept of software user studies, he observed that the complexity of modes was a barrier that many people, even with training, couldn't cross. This was therefore a threat to his dream of personal computers.
+In the late 70's at Xerox Parc, Larry Tesler and his colleagues thought that personal computing - which was not considered feasible by anyone else - had huge potential to change how people thought and lived. At the time, software interfaces were designed around **modes**. <a href="https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/" target="_blank">Vim still famously does this</a>. By pioneering the concept of software user studies, he observed that the complexity of modes was a barrier that many people, even with training, couldn't cross. This was therefore a threat to his dream of personal computers.
 
 He made it his personal mission to get rid of modes and he formed a principle: **no person should be trapped in a mode**. His slogan was "Don't mode me in!" This principle informed everything he did and he eventually came up with a text editor called Gypsy which was the beginning of text editors  as we know them today.
 
 > This was a transformative change in allowing people to connect with computers. His ideas about modelessness spread to the rest of the desktop interface and today, are so ingrained in our computers, that we do not notice them [...] So, how can we describe what Larry did? Yes, he 'invented' cut-copy-paste, but this invention is very different to Thomas Edison inventing the phonograph. Edison stumbled over the technology for audio recording and built it out as a novelty, but **he didn't have any cultural intent**, whereas what Larry did was entirely a reaction to a particular cultural context.
 
-Can you begin to see why we have placed such [emphasis](../../module-1/joyful-subversion/#shifting-the-nature-of-work) on [breaking](../../module-3/time/#media-environments) down our [culturally conditioned](../../module-3/humility/#brief) [modes](../../module-3/intention/) [of](../../module-4/art/) [thinking](../../module-5/listening-stories/)? It's also not entirely accurate to say that Larry "solved the problem" of modeless text manipulation, because **nobody else saw it as a problem!** For everyone else, modes was just how computers worked - they were a fact of life. 
+Can you begin to see why we have placed such [emphasis](../../module-1/joyful-subversion/#shifting-the-nature-of-work) on [breaking](../../module-3/time/#media-environments) down our [culturally conditioned](../../module-3/humility/#brief) [modes](../../module-3/intention/) [of](../../module-4/art/) [thinking](../../module-5/listening-stories/)? It's also not entirely accurate to say that Larry "solved the problem" of modeless text manipulation, because **nobody else saw it as a problem!** For everyone else, modes were just how computers worked - they were a fact of life. 
 
 > The first thing Larry did was recognize a wrong that was unacknowledged in the culture, which is how many great social changes began too. What Elizabeth Cady Stanton did in championing women's right to vote is a much closer model for what Larry actually did than the Emerson model of invention for the sake of patents. This is not a point of relative impacts, just one of **motivation** and **approach**. Both Stanton and Tesler recognized an invisible wrong. envisioned a world without that wrong, and dedicated themselves to fighting for a principle.
 
-This applies to many other seminal figures in computer. Doug Engelbart (who championed the idea of interactive computing) is best known for inventing the mouse, but he really came up with an entirely new way to work with knowledge. His explicit goal was to enable humankind to to solve the world's urgent problems. He had a vision of **knowledge workers using complex, powerful information tools to harness their collective intelligence**.
+This applies to many other seminal figures in the history of computer science. Doug Engelbart (who championed the idea of interactive computing) is best known for inventing the mouse, but he really came up with an entirely new way to work with knowledge. His explicit goal was to enable humankind to to solve the world's urgent problems. He had a vision of **knowledge workers using complex, powerful information tools to harness their collective intelligence**.
 
-Or Alan Kay - whose goal was "to amplify human reach and bring new ways of thinking to a faltering civilization that desperately needed it." His approach was through children - if programming is a form of basic literacy, then kids will grow up to be adults who have developed new means for critical thought, and we'll have more enlightened societies.
+Or Alan Kay, whose goal was "to amplify human reach and bring new ways of thinking to a faltering civilization that desperately needed it." His approach was through children: if programming is a form of basic literacy, then kids will grow up to be adults who have developed new means for critical thought, and we'll have more enlightened societies.
 
 Finally: Richard Stallman, whose work on GNU now makes up a large chunk of any Linux system, and who started the Free Software Foundation, wrote GCC, GCL and many other things, and whose principle is "software must be free, as in freedom". 
 
@@ -112,9 +112,9 @@ Finally: Richard Stallman, whose work on GNU now makes up a large chunk of any L
 
 > I'm not saying that you have to live this way, or even that you should. What I am saying is that you *can*. That this is an option which is available to you, though it is not one which you'll hear about often [...] Instead the world will try and make you define yourself by a skill.
 
-We are conditioned to have a major in college, or a job title in our career. This can be worthwhile, and if you want to spend your life pursuing excellence by practicing a skill, you can do that. That is the path of the craftsmen: the most common path. There's also the path of the problem solver, typified by entrepreneurship or academic research, which are about choosing a problem in a given field, working on it, and making a contribution there.
+We are conditioned to have a major in college, or a job title in our career. This can be worthwhile, and if you want to spend your life pursuing excellence by practicing a skill, you can do that. That is the path of the craftsmen: the most common path. There's also the path of the problem solver, typified by entrepreneurship or academic research, which is about choosing a problem in a given field, working on it, and making a contribution there.
 
-Or, you can define yourself not by the problem you're solving, nor by your craft, but rather **by your cause**, by the principle you choose to uphold. This means having a vision and bringing the world to that vision. Be patient: it can take time to find a principle, because it is really a form of self-discovery: you're trying to figure out what your life is supposed to be about.
+Or, you can define yourself not by the problem you're solving, nor by your craft, but rather **by your cause**; by the principle you choose to uphold. This means having a vision and bringing the world to that vision. Be patient: it can take time to find a principle, because it is really a form of self-discovery. You're trying to figure out what your life is supposed to be about.
 
 It took Bret ten years to find his principle. His advice based on those years of wondering is:
 
@@ -124,6 +124,6 @@ Confining yourself to practicing just one skill can make it difficult to get the
 
 > If you principle provides you with a specific insight, it will guide you, and you will always know if what you're doing is right. 
 
-> There are many ways to live your life: that's maybe the most important thing you can realise in life. Every aspect is a choice. But there are default choices. You can choose to sleepwalk through your life and walk the path that's been laid out for you. You can choose to accept the world as it is. But you don't have to. If there is something in the world you feel is a wrong, and you a vision for what a better world could be, you can find your guiding principle.
+> There are many ways to live your life: that's maybe the most important thing you can realise in life. Every aspect is a choice. But there are default choices. You can choose to sleepwalk through your life and walk the path that's been laid out for you. You can choose to accept the world as it is. But you don't have to. If there is something in the world you feel is wrong, and you a vision for what a better world could be, you can find your guiding principle.
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/3QtklTXbKUQ?start=556" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ Let's start this week with a short list:
 6. Close listening and clear attention are **preconditions** for good questions.
 7. A real master is the pupil in the eye of the world. Don't be afraid of letting others teach you; it does not degrade you, it uplifts you. The ego doesn't always acknowledge this simple truth. 
 
-Asking better questions is about process and **practice**. It's something you need to work on consciously. It is a skill, not an innate personality trait and it can be developed in much the same way that you can become better at coding, or cooking, or gardening, or meditation.
+Asking better questions is about process and **practice**. It's something you need to work on consciously. It is a skill, not an innate personality trait and it can be developed in much the same way that you can become better at coding, or cooking, or gardening.
 
 This goes to the heart of the thinking methodology we're advocating here. If you're able to identify patterns of meaning by considering the complementary opposites implied by any idea you are presented with, you will naturally ask better, simpler, and more direct questions.
 
@@ -40,7 +40,7 @@ In so doing, you can begin to experience the benefits of beginner's mind yoursel
 We highly recommend you treat yourself to these unsolicited life lessons from Kevin Kelly. They will deepen your approach to the rest of this week's materials.
 
 <div markdown="3" class="curated-link">
-[Read It](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
+<a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/" target="_blank">Read It</a>
 </div>
 
 </div>

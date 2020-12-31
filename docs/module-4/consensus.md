@@ -18,7 +18,7 @@ Following on from [last week's essay mixer](../../module-3/remember/), we'll bot
 </div>
 
 <div markdown="3" class="tool-link">
-[Governing](https://tools.ietf.org/html/rfc7282)
+<a href="https://tools.ietf.org/html/rfc7282" target="_blank">Governing</a>
 </div>
 
 </div>
@@ -32,7 +32,7 @@ Following on from [last week's essay mixer](../../module-3/remember/), we'll bot
 </div>
 
 <div markdown="3" class="tool-link">
-[Chaos](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
+<a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/" target="_blank">Chaos</a>
 </div>
 
 </div>
@@ -52,7 +52,7 @@ Rough consensus is therefore a sort of "exception processing", meant to deal wit
 Minority views must be addressed, **with justification**. Simply having a large majority of people agreeing to dismiss an objection is not enough to claim there is rough consensus; the group
 must have honestly considered the objection and addressed fully all technical issues.
 
-In a [different article](https://breakingsmart.com/en/season-1/rough-consensus-and-maximal-interestingness/), Venkatesh Rao discusses how:
+In a <a href="https://breakingsmart.com/en/season-1/rough-consensus-and-maximal-interestingness/" target="_blank">different article</a>, Venkatesh Rao discusses how:
 
 > "Rough consensus is about finding the most fertile directions in which to proceed rather than uncovering constraints. Constraints in software tend to be relatively few and obvious. Possibilities, however, tend to be intimidatingly vast. Resisting limiting visions, finding the most fertile direction, and allying with the right people become the primary challenges."
 
@@ -145,7 +145,7 @@ We can learn a great deal from the history of states and the very human desire f
 3. We must address issues and justify technical choices to the greatest extent possible.
 4. Majority rule sucks.
 5. We must use consensus as a tool, not an end.
-6. We must build systems and cultivate cultures which make these principles easier to uphold.
+6. We must build principled systems which cultivate our ability to make optimal collective choices.
 
 That said, we no longer operate in a version of the internet where rough consensus about a single way forward is even possible, let alone desirable. We need to embrace the generative chaos and use economic code which establishes consensus to fund as many different approaches as is appropriate, without treating humans as exceptions to be handled.
 

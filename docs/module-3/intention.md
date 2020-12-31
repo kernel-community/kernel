@@ -5,7 +5,7 @@ description: How can you hope to improve the world if you do not know how to imp
 
 # 🔍 Intention
 
-So, you want to take back the web? Who do you want to take it back from? Why do you want to take it back? What will you do with it once it's been handed over to your care?
+So, you want to take back the web? From whom do you want to take it back? Why do you want to take it back? What will you do with it once it's been handed over to your care?
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/iDbyYGrswtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,7 +19,7 @@ How can you hope to improve the world if you do not know how to improve yourself
 
 Our action-oriented culture, driven by results, encourages us to believe that life is about what we can expect of the world. However, the reality is that an honest, reflective life is about responding truly, in every moment, to what the world expects of you. This is only possible if you constantly practice awareness of your intentions.
 
-This primary focus on intention and expectation is inspired by [Viktor Frankl's book *Man's Search for Meaning*](https://www.brainpickings.org/2020/05/17/yes-to-life-in-spite-of-everything-viktor-frankl/), but you can find some version of it across nearly all the world's major wisdom traditions. We need not express it using spiritual or psychological language though, because this is all about developing the patterns of thought most well-suited to our particular context.
+This primary focus on intention and expectation is inspired by Viktor Frankl's book <a href="https://www.brainpickings.org/2020/05/17/yes-to-life-in-spite-of-everything-viktor-frankl/" target="_blank">Man's Search for Meaning</a>, but you can find some version of it across nearly all the world's major wisdom traditions. We need not express it using spiritual or psychological language though, because this is all about developing the patterns of thought most well-suited to our particular context.
 
 What's unique about web3 - about economic code which creates new trust spaces; expands the possible definitions of value; merges money and speech; and creates new constraints in which to experiment with freedom - is that we can **encode our intentions**, literally. Most importantly, the code with which we express our inner world and meaning then lives independently of us on a shared, global network where it will not change.
 
@@ -40,7 +40,7 @@ Timechains whose record of history cannot be reverted hold us to a higher standa
 Having played at least one of Nicky's games, it's time to consult some of his deeper thoughts on how to change the world.
 
 <div markdown="3" class="curated-link">
-[Evolve e-love](https://blog.ncase.me/evolution-not-revolution/)
+<a href="https://blog.ncase.me/evolution-not-revolution/" target="_blank">Evolve e-love</a>
 </div>
 
 </div>

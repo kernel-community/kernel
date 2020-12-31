@@ -47,7 +47,7 @@ To dream up important ideas you must think like an idealist; to build systems th
 
 Ultimately, we're not interested in trust based on blind faith. We're interested in deterministic verifi**ability** between peers. The Bitcoin source code can be audited by anyone, anywhere in the world - so it's not just ability we're interested in here, but also **access**. Trust, in a practical day-to-day sense, has a lot to do with transparency and education. 
 
-This requires a certain kind of architectual innovation in the very structure of money: no more clients and servers; everyone needs to be a peer. Please take a look over the brief of the next piece of curated material - [Money Talks](../money-language) - to get a sense for what a peer-to-peer architecture of money, and waht money _as a protocol_ is really all about.
+This requires a certain kind of architectual innovation in the very structure of money: no more clients and servers; everyone needs to be a peer. Please read the next piece of curated material - [Money Talks](../money-language) - to get a sense for what a peer-to-peer architecture of money is, and what money _as a protocol_ might come to mean in our time. As Nicky Case highlights below, it all comes down to this fundamental game theoretic insight: we **are** each others' environment.
 
 ---
 
@@ -70,7 +70,7 @@ designed to teach you everything you need to know
 about game theory. Enjoy!
 
 <div markdown="3" class="curated-link">
-[Play the game](https://ncase.me/trust/)
+<a href="https://ncase.me/trust/" target="_blank">Play the game</a>
 </div>
 
 </div>

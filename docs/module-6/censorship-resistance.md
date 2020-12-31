@@ -5,9 +5,9 @@ description: When the incentives which define the structure of power in society 
 
 # 👮 Censorship Resistance
 
-[Vitalik has defined the ills of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/). And who are we to argue with the boy genius...
+<a href="https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/" target="_blank">Vitalik has defined the ills of censorship</a>. And who are we to argue with the boy genius...
 
-Well, that's kind of the point, isn't it? We want to live in a society where we can engage in *effective* debate with anyone. While we enjoy freedom of speech in many places today, expressing an opinion is not the same as acting upon it. However, blockchains fuse [money and speech](../../module-2/money-speech/), meaning that expression and (economic) action occur simultaneously.
+Well, that's kind of the point, isn't it? We want to live in a society where we can engage in *effective* debate with anyone. While we enjoy freedom of speech in many places today, expressing an opinion is not the same as acting upon it. However, blockchains fuse [money and speech](../../module-2/money-speech/), meaning that [expression and (economic) action](../../module-4/self-enquiry/#identity-we-can-live-with) occur simultaneously.
 
 It's critical to speak [truth](../../module-5/reveal-the-universe/#the-value-of-truth) to power; history is proof of this. However, history also shows how the existence of any kind of power structure influences what truths can be thought and enunciated in the first place. How can we [free ourselves](../../module-3/freedom/) from this constraint? With adaptive [incentives](../../module-5/incentives/)!
 
@@ -23,7 +23,7 @@ Instead of using legal code to uphold the supposed good of free speech, we can u
 
 Censorship can be more insidious than overt reversions of history though. So, we need to develop even clearer **cost models**. Proof of Work actually fails to ensure that censorship is not profitable, since if you censor a block you can (i) take all of its transactions for yourself, and (ii) in the long run take its block reward. You could potentially solve this using timelock consensus, though this has its own drawbacks and remains largely theoretical.
 
-Quasi Turing-complete object models (i.e. Ethereum) already provide interesting means of making censorship costly outside the actual consensus mechanism. For instance, we prevent the Halting Problem and denial of service attacks by assigning a "gas" cost to each operation and limiting the amount of gas per block to ensure all programs terminate. Much Eth2 research is about both [higher fault tolerance](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html) and stronger censorship resistance based on more complete threat models and cost analysis. Such research and implementation intimates why economic engineering is orders of magnitude more effective than legal lip-service.
+Quasi Turing-complete object models (i.e. Ethereum) already provide interesting means of making censorship costly outside the actual consensus mechanism. For instance, we prevent the Halting Problem and denial of service attacks by assigning a "gas" cost to each operation and limiting the amount of gas per block to ensure all programs terminate. Much Eth2 research is about both <a href="https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html" target="_blank">higher fault tolerance</a> and stronger censorship resistance based on more complete threat models and cost analysis. Such research and implementation indicates why economic engineering is orders of magnitude more effective than legal lip-service.
 
 ## Higher Stakes
 
@@ -37,4 +37,4 @@ We'll be using value created on a public network to secure that same public netw
 
 ## Further References
 
-[Levels of resistance](https://twitter.com/vitalikbuterin/status/1256227159707877378)
+<a href="https://twitter.com/vitalikbuterin/status/1256227159707877378" target="_blank">Levels of resistance</a>
