@@ -49,7 +49,7 @@ Vinay begins by describing the seven buckets within which identity is thought of
 > 1. Humans as *things* identified by their bodies, vs
 > 2. Humans as intangible, ever-shifting narrative beings
 
-> "Our job, as software engineers working on identity, is first to be philosophers who understand the abstraction that we hope to represent."
+> "Our job, as software engineers working on identity, is first to <a href="https://sfhfoundation.com/audios/series/self-knowledge/" target="_blank">be philosophers who understand the abstraction</a> that we hope to represent."
 
 He goes on to discuss experiments like the Enlightenment Intensive and their ancient correlates in traditions like Zen Buddhism in order to illustrate the point that:
 
