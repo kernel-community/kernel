@@ -25,7 +25,7 @@ and navigate all the different facets of the next 8 weeks. Find people to team u
 *Only visible to those in the KERNEL. 
 
 <div markdown="3" class="tool-link">
-<a href="https://www.notion.so/gitcoin/The-KERNEL-Explorer-c6c757dc9e844643a1ae89eb68243eae" target="_blank" rel="noopener noreferrer">Explore</a>
+<a href="https://bit.ly/kernel0x" target="_blank" rel="noopener noreferrer">Explore</a>
 </div>
 
 </div>
