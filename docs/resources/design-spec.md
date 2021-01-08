@@ -99,7 +99,7 @@ An insightful article on the do's and don'ts of user testing, which will lead yo
 
 ## Get Set
 
-Before going anywhere near writing code or actual software, you need to be speaking to suers, doing the sorts of research outlined above, testing your hypotheses, iterating on your ideas and exploring the space around your initial thoughts. Stephen Johnson calls this the "adjacent possible". Here are some great tools for sketch out ideas in a way that will allow you to test them without committing too many resources in the wrong directions.
+Before going anywhere near writing code or actual software, you need to be speaking to users, doing the sorts of research outlined above, testing your hypotheses, iterating on your ideas and exploring the space around your initial thoughts. Stephen Johnson calls this the "adjacent possible". Here are some great tools for sketch out ideas in a way that will allow you to test them without committing too many resources in the wrong directions.
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 

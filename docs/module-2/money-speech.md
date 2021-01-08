@@ -9,7 +9,7 @@ description:
 💡 "Put your money where your mouth is!" 
 </div>
 
-A tamperproof, borderless, ownerless, global record is not *just* money and it's not *just* language. It's a new way of simultaneously ordering both which makes possible valuable, meaningful communication with anyone, anywhere, and in any way we care to program it.
+A tamperproof, borderless, ownerless, global record is not *just* money and it's not *just* language. It's a new way of simultaneously ordering both which makes possible valuable, meaningful communication with anyone, anywhere, in any way we care to program it.
 
 ## Magic internet meaning
 
@@ -19,7 +19,7 @@ However, money as a programmable protocol that relies on a **shared record** no-
 
 Meaningful communication is a balance between the fact that your *ability to speak* ought to be free, with the fact that you don't get to say whatever you please. Hence we enshrine freedom of speech as a constitutional good and implement error-handling for exceptions like hate speech and defamation.
 
-Protocols capable of processing valuable narratives, like Bitcoin and Ethereum, render such interpretive balancing practices unnecessary. Your ability to [access the network](../../module-0/money-language/#open-protocols-and-a-network-of-value) - much like TCP/IP - is free in all senses, requiring only a connection that can support you speaking in the same language as your peers. Saying anything *meaningful* (i.e. state-changing) has a specific, well-defined economic cost, captured in transaction fees which accrue to the benefit of those who "listen" to what you have to say.
+Protocols capable of processing valuable narratives, like Bitcoin and Ethereum, render such interpretive balancing acts unnecessary. Your ability to [access the network](../../module-0/money-language/#open-protocols-and-a-network-of-value) - much like TCP/IP - is free in all senses, requiring only a connection that can support you speaking in the same language as your peers. Saying anything *meaningful* (i.e. state-changing) has a specific, well-defined economic cost, captured in transaction fees which accrue to the benefit of those who "listen" to what you have to say.
 
 In some sense, it is the **primary benefit** of this new order of econo-linguistic network we now communicate with: everyone is simultaneously free to speak *and* the cost of any kind of meaningful speech is well-defined everywhere. We are also provided with a clear definition of meaning: any speech act which changes the state of our shared record.
 

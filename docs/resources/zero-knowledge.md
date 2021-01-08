@@ -5,7 +5,7 @@ description: A highly curated selection of the best zkSNARK tools and explainers
 
 # Zero-knowledge
 
-Socrates was famously declared the wisest man in the world by the oracle at Delphi, which caused him [endless problems](http://classics.mit.edu/Plato/apology.html). Lesson: oracles have always been an issue - there is nothing new under the sun. Being a proto-Bitcoiner, he didn't take the oracle's word but set out to verify this for himself, consistenly saying that the only reason it could be true was that everyone else proclaimed to some knowledge, while he at least **knew** that he knew nothing. Please find all the nothings we know below.
+Socrates was famously declared the wisest man in the world by the oracle at Delphi, which caused him <a href="endless problems" target="_blank" rel="noopener noreferrer">http://classics.mit.edu/Plato/apology.html</a>. Lesson: oracles have always been an issue - there is nothing new under the sun. Being a proto-Bitcoiner, he didn't take the oracle's word but set out to verify this for himself, consistenly saying that the only reason it could be true was that everyone else proclaimed to some knowledge, while he at least **knew** that he knew nothing. Please find all the nothings we know below.
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
@@ -20,7 +20,7 @@ A toolbox for zkSNARKs on Ethereum.
 _H/T Luka_
 
 <div markdown="3" class="tool-link">
-[Prove](https://github.com/zokrates/zokrates)
+<a href="https://github.com/zokrates/zokrates" target="_blank" rel="noopener noreferrer">Prove</a>
 </div>
 
 </div>
@@ -33,12 +33,12 @@ _H/T Luka_
 ![Matter Labs](/assets/images/matterlabs.png)
 </div>
 
-This "zkSNARKs bible". 
+This is the "zkSNARKs bible". 
 
 _H/T Luka_
 
 <div markdown="3" class="tool-link">
-[Discover](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+<a href="https://github.com/matter-labs/awesome-zero-knowledge-proofs" target="_blank" rel="noopener noreferrer">Discover</a>
 </div>
 
 </div>
@@ -56,7 +56,7 @@ The most straightforward explanation, with examples, that we know.
 _H/T Roshan Raghupathy_
 
 <div markdown="3" class="tool-link">
-[Understand](https://arxiv.org/pdf/1906.07221.pdf)
+<a href="https://arxiv.org/pdf/1906.07221.pdf" target="_blank" rel="noopener noreferrer">Understand</a>
 </div>
 
 </div>
@@ -78,7 +78,7 @@ If, instead of Ancient Greeks, you prefer culinary analogies, please enjoy this 
 Simply Explained is a great YouTube channel in general. Great for whetting the appetite.
 
 <div markdown="3" class="tool-link">
-[Watch](https://youtu.be/OcmvMs4AMbM?t=273)
+<a href="https://youtu.be/OcmvMs4AMbM?t=273" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -94,7 +94,7 @@ Simply Explained is a great YouTube channel in general. Great for whetting the a
 AZTEC Protocol’s paper by Zachary J. Williamson is very clear and especially relevant here.
 
 <div markdown="3" class="tool-link">
-[Read](https://github.com/AztecProtocol/AZTEC/blob/develop/AZTEC.pdf)
+<a href="https://github.com/AztecProtocol/AZTEC/blob/develop/AZTEC.pdf" target="_blank" rel="noopener noreferrer">Read</a>
 </div>
 
 </div>
@@ -107,10 +107,10 @@ AZTEC Protocol’s paper by Zachary J. Williamson is very clear and especially r
 ![AZTEC](/assets/images/aztec.png)
 </div>
 
-Enjoy two for the price of one with the PLONK paper by the AZTEC team and [Vitalik’s comments](https://vitalik.ca/general/2019/09/22/plonk.html).
+Enjoy two for the price of one with the PLONK paper by the AZTEC team and <a href="https://vitalik.ca/general/2019/09/22/plonk.html" target="_blank" rel="noopener noreferrer">Vitalik’s comments</a>.
 
 <div markdown="3" class="tool-link">
-[Dive In](https://eprint.iacr.org/2019/953.pdf)
+<a href="https://eprint.iacr.org/2019/953.pdf" target="_blank" rel="noopener noreferrer">Dive In</a>
 </div>
 
 </div>
@@ -126,7 +126,7 @@ Enjoy two for the price of one with the PLONK paper by the AZTEC team and [Vital
 Anna Rose's podcast collects presentations on zero knowledge topics from different teams and should serve as a sweet ending to all this research.
 
 <div markdown="3" class="tool-link">
-[Enjoy](https://www.zeroknowledge.fm/zkseries)
+<a href="https://www.zeroknowledge.fm/zkseries" target="_blank" rel="noopener noreferrer">Enjoy</a>
 </div>
 
 </div>

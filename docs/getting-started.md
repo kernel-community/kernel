@@ -10,7 +10,7 @@ The core learning objectives (CLOs) of the **KERNEL Learn Track** are defined br
 
 Our syllabus aims to build *long-term thinking skills*, provide *context and technical history*, and introduce you to the *patterns* and *modes* required to flourish in decentralized, open communities like Web 3.
 
-The other, more specific tracks are designed to teach *practical skills* that builders like you need for your projects. The Learn Track aims to provide a more holistic framing on what Web 3 is — its principles, history, and present state.  
+The other, more specific tracks are designed to teach *practical skills* that builders like you need for your projects. The Learn Track aims to provide a more holistic framing of what Web 3 is — its principles, history, and present state.  
 
 The glue which binds all the tracks together is the **people** in your cohort. By connecting you with the best minds we know to teach you practical thinking skills, combined with effective patterns for using innovative tools and creating decentralized solutions, we aim to help you become one of the **people** building a new way of living, day by digital day.
 
@@ -45,7 +45,7 @@ Title | Personal Lesson | Web 3 Lesson |
 
 ### ⚙️ Personal Principles
 
-1. What is the question to which you are the universe's answer?
+1. Play with pattern.
 2. Develop the means to mean.
 3. Ask better questions. 
 4. Consider your intention first.

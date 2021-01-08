@@ -20,7 +20,7 @@ The ultimate corporate toolkit for understanding and using blockchains if you've
 _H/T Gyan_
 
 <div markdown="3" class="tool-link">
-[Toolkit](http://widgets.weforum.org/blockchain-toolkit/modules)
+<a href="http://widgets.weforum.org/blockchain-toolkit/modules" target="_blank" rel="noopener noreferrer">Toolkit</a>
 </div>
 
 </div>
@@ -38,7 +38,7 @@ A great free guide with lots of juicy details.
 _H/T Jo-Ann Hamilton_
 
 <div markdown="3" class="tool-link">
-[Guide Yourself](https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b)
+<a href="https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b" target="_blank" rel="noopener noreferrer">Guide Yourself</a>
 </div>
 
 </div>
