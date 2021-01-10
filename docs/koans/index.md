@@ -32,6 +32,6 @@ _Docere et delectare_: to teach and delight. That is our goal. And, strange thou
 
 ## Week 0 - Changing the Conversation
 
-We'll start simply. Anyone who is able to <a href="https://libraryofbabel.info/bookmark.cgi?webthreekoans" target="_blank" rel="noopener noreferrer">solve our series of riddles</a> - based on the content from [week 0](../module-0) - will become the steward of <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/43060612980525300798945617690241154227807202326827270128619443670706517180417" target="_blank" rel="noopener noreferrer">this one-of-a-kind NFT</a>, which blends the _I Ching_ hexagrams with a circular representation of our genetic code. All further instructions are to be found in the Library itself.
+We'll start simply. Anyone who is able to <a href="https://libraryofbabel.info/bookmark.cgi?truthseeds" target="_blank" rel="noopener noreferrer">solve our series of riddles</a> - based on the content from [week 0](../module-0) - will become the steward of <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/43060612980525300798945617690241154227807202326827270128619443670706517180417" target="_blank" rel="noopener noreferrer">this one-of-a-kind NFT</a>, which blends the _I Ching_ hexagrams with a circular representation of our genetic code. All further instructions are to be found in the Library itself.
 
 <img src="/assets/images/i_ching_genetic_code.jpeg" class="center-img" alt="Random Mutations?" />
