@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# The KERNEL Gaming Guild
+# The KERNEL Gaming Track
 
 ## 💡 Week 0 - Brainstorm
 
