@@ -165,6 +165,8 @@ nav:
       - The Gift: module-7/the-gift.md
       - Of No Paradigm: module-7/no-paradigm.md
       - Is Perfection: module-7/perfection.md
+  - Koans:
+    - Wander: koans/index.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
