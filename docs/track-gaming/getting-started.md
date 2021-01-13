@@ -28,15 +28,15 @@ After each module in the **Learn Track**, we will share a few more articles that
 
 ## 📖 Learning Modules
 
-Learn Track Module | Gaming Track Module | Fireside Schedule | 
+Learn Track Module |  | Fireside Schedule | 
 ----- | --------        | -------      | 
-🌠 [Introduction to KERNEL](../../module-0)       | [Module 0](../module-0/core) | January 20, 2021 |
-🌍 [Ethereum's History and State](../../module-1) | [Module 1](../module-1/core) | January 27, 2021 |
-💰 [A Global Financial System](../../module-2)    | [Module 2](../module-2/core) | February 3, 2021 |
-🌐 [Take Back The Web](../../module-3)            | [Module 3](../module-3/core) | February 10, 2021 |
-ℹ️ [Internet Age Institutions](../../module-4)      | [Module 4](../module-4/core) | February 17, 2021 |
-📈 [Tokens and Mechanism Design](../../module-5)  | [Module 5](../module-5/core) | February 24, 2021 |
-⚖️  [Scaling Principled Games](../../module-6)    | [Module 6](../module-6/core) | March 3, 2021 |
+🌠 [Introduction to KERNEL](../../module-0)       |  | January 20, 2021 |
+🌍 [Ethereum's History and State](../../module-1) |  | January 27, 2021 |
+💰 [A Global Financial System](../../module-2)    |  | February 3, 2021 |
+🌐 [Take Back The Web](../../module-3)            |  | February 10, 2021 |
+ℹ️ [Internet Age Institutions](../../module-4)      |  | February 17, 2021 |
+📈 [Tokens and Mechanism Design](../../module-5)  |  | February 24, 2021 |
+⚖️  [Scaling Principled Games](../../module-6)    |  | March 3, 2021 |
 
 ## 🙏 A Word of Thanks, A Game Each Week 🎮
 
