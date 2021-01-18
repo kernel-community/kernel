@@ -15,19 +15,19 @@ Pattern recognition is not just the core of cognition, it's also one of the main
 
 ![Pattern Games](./img/patterngames.png)
 
-[The connection between psychology and games are well-understood today](./crafted.md#engines-of-play). A decade or so ago though, games were designed more as a craft than as a science.
+[The connection between psychology and games are well-understood today](./crafted.md#engines-of-play). However, a decade or so ago, games were designed more as a craft than as a science.
 
 Daniel Cook is one of the earliest and most insightful explorers of this space. His [Chemistry of Game Design](./crafted.md#chemistry-of-game-design) was one of the earlier game design essays that recognized the biological impulses that lead us to play. He writes:
 
 > Play is instinctual. In low stimulation environments where we are not actively pursuing activities related to food and shelter, people will begin playing by default. Strong feedback mechanisms in the form of boredom or frustration prod us into action. Given a spare moment, we throw ourselves into playing with blocks or dolls as children and more intricate hobbies as adults.
 
-Now, moving into the attention economy age, game designers know more than ever about the drives of humans. Through the years of harvesting analytics, they now have so much training data on player behavior, [and are able to reliably make players take an incentivized action](./curated.md#deconstructor-of-fun), like watching an ad.
+Now, moving into the attention economy age, game designers know more than ever about various innate human drives. After years of harvesting analytics, they have a great deal of training data on player behavior, [and are able to reliably make players take an incentivized action](./curated.md#deconstructor-of-fun), like watching an ad.
 
 [We now have god-like technology to control the paleolithic brains of our users](./curated.md#two-millon-years-in-two-hours-a-conversation-with-yuval-noah-harari).
 
 ## Humility
 
-This has always been a pattern of technology: the startups working on then-esoteric technologies will be the ones defining the thought patterns of future generations.
+This has always been a pattern of technology: the startups working on seemingly esoteric technologies will be the ones who define the thought patterns of future generations.
 
 Similar to how Web 2 merged games and psychology, Web 3 will bring about deeper integration of finance, economics, and games. 
 
@@ -51,7 +51,7 @@ Web 3 is a powerful movement, and it's easy to fall into the common pattern of t
 
 [Some interesting questions to ask are](./crafted.md#stuffed-blocks): Are NFTs really the future of virtual items? Do they make our games more fun to play? Do we really want our games to have open in-game economies? 
 
-Another exercise we can do is to immerse ourselves in the centralized game or platform we're trying to disrupt. If we want to be able to build a game that can  compete with what gamers are playing right now, [we have to look at these games objectively, as a player, and recognize what makes them compelling.](./crafted.md#web3-game-counterparts)
+Another exercise we can do is to immerse ourselves in the centralized game or platform we're trying to disrupt. If we want to be able to build a game that can compete with what gamers are playing right now, [we have to look at these games objectively, as a player, and recognize what makes them compelling.](./crafted.md#web3-game-counterparts)
 
 
 # 🤺 Trust
@@ -62,20 +62,18 @@ Another exercise we can do is to immerse ourselves in the centralized game or pl
 
 > **What the game is, defines what the players do.**
 
-As observed in [virtual economies of sufficient size](./curated.md#virtual-economies-design-and-analysis), agents will always take the rational choice. Players will behave predictably in a competitive market, and with enough knowledge, we can design for stability. By understanding virtual economies, we can better understand how to design ecosystems for greater trust.
+As observed in [virtual economies of sufficient size](./curated.md#virtual-economies-design-and-analysis), agents will always take the rational choice. Players will behave predictably in a competitive market and, with enough knowledge, we can design for stability. By understanding virtual economies, we can better understand how to design ecosystems for greater trust.
 
 Trust is important between players, but as our game designs become more democratic, we need to start considering trust in other relationships as well, such as between players and developers.
 
-[How can we create an environment of greater trust between game developers and players? Do we want them to be able to govern and influence game design, or are the incentives between developers and players just too different?](./crafted.md#ttvdrandoks-review-of-eve-online)
+How can we create an environment of greater trust between game developers and players? Do we want them to be able to govern and influence game design, or are [the incentives between developers and players](./crafted.md#ttvdrandoks-review-of-eve-online) just too different?
 
 # 🎮 A Game Each Week
 
-[![Kakuro](./img/kakuro.png)](https://play.google.com/store/apps/details?id=com.pinkpointer.kakuro
-)
+<a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.pinkpointer.kakuro"><img src="../img/kakuro.png" class="center-img" alt="Kakuro" /></a>
 
-[Kakuro](https://play.google.com/store/apps/details?id=com.pinkpointer.kakuro
-) - Kakuro or Cross Sums, is a variant of Sudoku. A great game for more pattern recognition fun.
+<a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.pinkpointer.kakuro">Kakuro</a> - or Cross Sums, is a variant of Sudoku. A great game for more pattern recognition fun.
 
-[![Among Us](./img/amongus.png)](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US)
+<a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US"><img src="../img/amongus.png" class="center-img" alt="Among Us" /></a>
 
-[Among Us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US) - A fun exploration of Trust among players, and one of the most successful games of 2020. Which one is the impostor?!
+<a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US">Among Us</a> - a fun exploration of trust among players, and one of the most successful games of 2020. Which one is the impostor?!

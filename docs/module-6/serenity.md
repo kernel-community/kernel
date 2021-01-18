@@ -1,6 +1,6 @@
 ---
 title: Serenity
-description: A summary of the Ethereum 2.0 Design Rationale as ideological heir to the cypherpunk spirit of "defender's advantage" and a discussion of why Proof of Stake eliminates various critical conflicts of interests, allowing us to build and maintain a planetary-scale incentive machine anyone can use and no-one owns.
+description: A summary of the Ethereum 2.0 Design Rationale as ideological heir to the cypherpunk spirit of defender's advantage and a discussion of why Proof of Stake eliminates various critical conflicts of interests, allowing us to build and maintain a planetary-scale incentive machine anyone can use and no-one owns.
 ---
 
 # 🦋 Serenity

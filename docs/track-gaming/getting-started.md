@@ -46,6 +46,6 @@ We look forward to having [meaningful conversations](../../module-0#cultured-con
 
 Here's a relevant quote (and a game!) from one of my favorite game designers:
 
-> [Your interpretation of the game is more important than my intentions.](http://hcsoftware.sourceforge.net/passage/statement.html)
+> <a href="http://hcsoftware.sourceforge.net/passage/statement.html" target="_blank" rel="noopener noreferrer">Your interpretation of the game is more important than my intentions.</a>
 
 [![Passage](./img/passage.png)](http://hcsoftware.sourceforge.net/passage/statement.html)
