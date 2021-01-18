@@ -169,10 +169,10 @@ nav:
     - Wander: koans/index.md
   - Gaming:
     - Getting Started: track-gaming/getting-started.md
-#    - Module 0: 
-#      - Core Learning: track-gaming/module-0/core.md
-#      - Crafted Reading: track-gaming/module-0/crafted.md
-#      - Curated Material: track-gaming/module-0/curated.md
+    - Module 0: 
+      - Core Learning: track-gaming/module-0/core.md
+      - Crafted Reading: track-gaming/module-0/crafted.md
+      - Curated Material: track-gaming/module-0/curated.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
