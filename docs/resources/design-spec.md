@@ -13,22 +13,6 @@ Before recommendeing tools, our mentors have provided some great resources to fa
 
 <div markdown="1" class="card third sidebar gemoji tool">
 
-**Sprint**
-
-<div markdown="2" class="tool-image">
-![Sprint](/assets/images/sprint.png)
-</div>
-
-The best book, recommended by our design mentors Katie and Zach, for getting started with design practices which will produce useful products.
-
-<div markdown="3" class="tool-link">
-<a href="https://static1.squarespace.com/static/5ba7b499755be22c410b1cae/t/5d6f0bc352f19700014eb6b9/1567558622480/Sprint+-+How+to+Solve+Big+Problems+and+Test+(Jake+Knapp).pdf" target="_blank" rel="noopener noreferre">Read</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card third sidebar gemoji tool">
-
 **Deep Work**
 
 <div markdown="2" class="tool-image">
@@ -59,8 +43,6 @@ This will introduce you to Miro - an online collaborative whiteboard platform - 
 
 </div>
 
-<div markdown="1" class="clear"></div>
-
 <div markdown="1" class="card third sidebar gemoji tool">
 
 **Remote Design Sprint Cheatsheet**
@@ -81,6 +63,22 @@ _Made by Zach Herring_.
 
 <div markdown="1" class="card third sidebar gemoji tool">
 
+**Creative Confidence**
+
+<div markdown="2" class="tool-image">
+![Creative Confidence](/assets/images/creative_confidence.jpeg)
+</div>
+
+Written by the founders of IDEO: unleash the creativity within!
+
+<div markdown="3" class="tool-link">
+<a href="https://b-ok.africa/book/2203621/6bf7e9" target="_blank" rel="noopener noreferre">Read</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
 **Qualitative vs Quantitative**
 
 <div markdown="2" class="tool-image">
@@ -91,6 +89,22 @@ An insightful article on the do's and don'ts of user testing, which will lead yo
 
 <div markdown="3" class="tool-link">
 <a href="https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/" target="_blank" rel="noopener noreferre">Understand</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Sprint**
+
+<div markdown="2" class="tool-image">
+![Sprint](/assets/images/sprint.png)
+</div>
+
+A great book, recommended by our design mentors Katie and Zach, for getting started with design practices which will produce useful products.
+
+<div markdown="3" class="tool-link">
+<a href="https://static1.squarespace.com/static/5ba7b499755be22c410b1cae/t/5d6f0bc352f19700014eb6b9/1567558622480/Sprint+-+How+to+Solve+Big+Problems+and+Test+(Jake+Knapp).pdf" target="_blank" rel="noopener noreferre">Read</a>
 </div>
 
 </div>
