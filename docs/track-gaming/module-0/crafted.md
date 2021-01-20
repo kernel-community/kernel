@@ -7,7 +7,7 @@ description:
 
 ## <a href="https://www.gdcvault.com/play/1023329/Engines-of-Play-How-Player" target="_blank" rel="noopener noreferrer">Engines of Play: How Player Motivation Changes Over Time</a>
 
-This GDC talk by <a href="https://twitter.com/the_darklorde" target="_blank" rel="noopener noreferrer">Jason VandenBeghe</a>, designer of Ubisoft's _For Honor_, is a great primer on how psychology affects game design. 
+This GDC talk by <a href="https://twitter.com/the_darklorde" target="_blank" rel="noopener noreferrer">Jason VandenBerghe</a>, designer of Ubisoft's _For Honor_, is a great primer on how psychology affects game design. 
 
 It's an engaging watch and a dense presentation. One powerful takeaway is that the reasons we start playing a game and the reasons we continue playing have to do with very different personal motivations.
 
