@@ -51,7 +51,7 @@ Web 3 is a powerful movement, and it's easy to fall into the common pattern of t
 
 [Some interesting questions to ask are](./crafted.md#stuffed-blocks): Are NFTs really the future of virtual items? Do they make our games more fun to play? Do we really want our games to have open in-game economies? 
 
-Another exercise we can do is to immerse ourselves in the centralized game or platform we're trying to disrupt. If we want to be able to build a game that can compete with what gamers are playing right now, [we have to look at these games objectively, as a player, and recognize what makes them compelling.](./crafted.md#web3-game-counterparts)
+Another exercise we can do is to immerse ourselves in the centralized game or platform we're trying to disrupt. If we want to be able to build a game that can compete with what gamers are playing right now, [we have to look at these games objectively, as a player, and recognize what makes them compelling.](./crafted.md#web-3-game-counterparts)
 
 
 # 🤺 Trust

@@ -33,7 +33,7 @@ After each module in the **Learn Track**, we will share a few more articles that
 Learn Track Module | Gaming Track Module  | Fireside Schedule | 
 ----- | --------        | -------      | 
 🌠 [Introduction to KERNEL](../../module-0)       | [Patterns and Trust](../module-0/core) | January 20, 2021 |
-🌍 [Ethereum's History and State](../../module-1) | ... | January 27, 2021 |
+🌍 [Ethereum's History and State](../../module-1) | [Jamming on Value](../module-1/core) | January 27, 2021 |
 💰 [A Global Financial System](../../module-2)    | ... | February 3, 2021 |
 🌐 [Take Back The Web](../../module-3)            | ... | February 10, 2021 |
 ℹ️ [Internet Age Institutions](../../module-4)      | ... | February 17, 2021 |
