@@ -167,6 +167,7 @@ nav:
       - Is Perfection: module-7/perfection.md
   - Koans:
     - Wander: koans/index.md
+    - Week 1: koans/week-1.md
   - Gaming:
     - Getting Started: track-gaming/index.md
     - Module 0: 
