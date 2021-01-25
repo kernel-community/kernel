@@ -17,9 +17,7 @@ We've previously defined *value* in the context of [**consensus**](../../../modu
 
 ## In a Virtual World
 
-**Scarcity** of **goods** is a central concept of economics. It drives economic processes such as trade, production, and consumption. These processes in turn affect social behavior, determining how trust is built in our communities. 
-
-Consider though that:
+**Scarcity** of **goods** is a central concept of economics. It drives economic processes such as trade, production, and consumption. These processes in turn affect social behavior, determining how trust is built in our communities. However,
 
 <div class="lightbulb">
 🌍 In a virtual world, the cost of production of a virtual good is effectively ZERO.
@@ -27,30 +25,29 @@ Consider though that:
 
 Before computer games introduced the concept of virtual goods, this was unheard of. Physical goods ALWAYS had a production cost. With virtual goods, all it takes is a few processing cycles in a computer to create an item.
 
-If there's no cost to produce a good then, *how can it be scarce*?
+If there's no cost to produce a good, then *how can it be scarce*?
 
 <div class="lightbulb">
-💡 Therefore, the scarcity of virtual goods is merely shared fiction.
+💡 The scarcity of virtual goods is merely shared fiction.
 </div>
 
-This foundational change necessitated a rethink of our economics. What happens to our well-balanced equations when a variable suddenly disappears? How will market forces adapt when supply is infinite?
+This foundational change necessitates rethinking our economics. What happens to our well-balanced equations when a variable suddenly disappears? How will market forces adapt when supply is infinite?
 
 Fortunately, Lehdonvirta and Castranova dig deep into these concepts in [ Virtual Economies: Design and Analysis](../module-0/curated.md#virtual-economies-design-and-analysis). The whole book is a rich space for understanding value, and should be required reading for any web 3 builder. 
 
 ![Virtual Goods](./img/virtualgoods.png)
 
-One of the important takeaways in the book that circles back to the attention economy:
+The important points the book mostly circle back to the attention economy:
 
-> But today, at least in the world of online games and digital services, the scarcest resources are no longer food and shelter but human attention. In the pursuit of this resource, even the economy itself needs to be fashioned into a consumable good.
+> Today, at least in the world of online games and digital services, the scarcest resources are no longer food and shelter, but human attention. In the pursuit of this resource, even the economy itself needs to be fashioned into a consumable good.
 
 ## Of Metaverses
 
-The quote ends with a salient point: with human attention being so finite, even just participating in virtual economies have to be compelling.
+The quote ends with a salient point: with human attention being so finite, any participation in virtual economies has to be compelling.
 
-The most successful game developers recognize this. They are the ones leading in the race to become the realized vision of the [Metaverse / Mirrorworld](./crafted.md#of-mirrorworlds-and-metaverses) -- the one platform that will capture the most value. 
+The most successful game developers recognize this. They are the ones leading the race to realize the [Metaverse / Mirrorworld](./crafted.md#of-mirrorworlds-and-metaverses) vision -- one platform that will capture the most value. 
 
-Each one has their own strategy: Fortnite does massive cross-overs with music and film, Roblox banks on user-generated content, and Minecraft relies on AR and cross-licensing to other games. Their attempts have been largely successful, generating billions of dollars in revenue and creating a similarly massive economy of their virtual goods.
-
+Each developer has their own strategy: Fortnite does massive cross-overs with music and film; Roblox banks on user-generated content; and Minecraft relies on AR and cross-licensing to other games. Their attempts have been largely successful, generating billions of dollars in revenue and creating a similarly massive economy of their virtual goods.
 
 ![Metaverse](./img/metaverse.png)
 
@@ -58,7 +55,7 @@ Each one has their own strategy: Fortnite does massive cross-overs with music an
 👀 More importantly, these games have become part of popular culture, commanding the attention of hundreds of millions of players.
 </div>
 
-As Web 3 game developers, we need to realize that [these are just some of the forces](./crafted.md#industry-references) shaping the Metaverse right now. If human attention is the most valuable resource, how will we fare against these meticulously designed games ? If the only use-case for an NFT is for speculation, and we're competing against virtual goods that provide so much utility and network effects, how relevant will our NFTs be in future iterations of the Metaverse?
+As Web 3 game developers, we need to realize that [these are just some of the forces](./crafted.md#industry-references) shaping the Metaverse right now. If human attention is the most valuable resource, how will we fare against these meticulously designed games? If the only use-case for an NFT is for speculation, and we're competing against virtual goods with established utility and network effects, how relevant will our NFTs be in future iterations of the Metaverse?
 
 ## And NFTs
 
@@ -76,16 +73,15 @@ It's these primitives that will allow Web 3 games to compete asymmetrically agai
 
 ## Let's Jam
 
-Web 3 fortunately follows an open-source ethos, and we can refer to [several great game developers](./curated.md#web-3-game-developers-to-follow) in the space from which we can take inspiration from.
+Web 3 fortunately follows an open-source ethos, and we can refer to [several great game developers](./curated.md#web-3-game-developers-to-follow) in the space from whom we can draw inspiration.
 
 Another way is by bringing people of different backgrounds and skillsets together, via game jams and hackathons. [Cryptokitties](./curated.md#cryptokitties-origin-story) was famously the product of one in ETHWaterloo.
 
-These events are optimized towards finding the beginnings of a great idea-- It's a focused unit of time where we start of with the promise of a blank slate, but constrained just enough with a theme and a deadline to focus our efforts.
+These events are optimized towards finding the beginnings of a great idea. Each one is a focused unit of time, which starts with the promise of a blank slate, but is constrained just enough - by a theme and a deadline - to focus our efforts.
 
 In these environments, where we have to agree on a narrative with a diverse group of people, we are driven to create.
 
-> Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement. - [Kevin Kelly](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
-)
+> Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement. - <a target="_blank" rel="noopener noreferrer" href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">Kevin Kelly</a>
 
 # 🎮 A Game Each Week
 

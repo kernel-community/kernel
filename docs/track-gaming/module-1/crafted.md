@@ -17,7 +17,7 @@ Call it Mirrorworld or Metaverse, but it has always been a long time coming, wit
 
 ## <a href="https://www.wired.co.uk/article/metaverse" target="_blank" rel="noopener noreferrer">The Metaverse is Coming 2</a>
 
- This second article is written by David Baszucki-- he's the CEO of Roblox, one of the gaming platforms aiming to become the Metaverse.
+ This second article is written by David Baszucki: the CEO of Roblox, one of the gaming platforms aiming to become the Metaverse.
 
 ## <a href="https://medium.com/the-challenge/state-of-the-metaverse-2021-9f032fed655b" target="_blank" rel="noopener noreferrer">State of the Metaverse 2021</a>
 
@@ -25,7 +25,7 @@ This is a helpful primer on the current technologies and standards that might he
 
 ## <a href="https://tonysheng.substack.com/p/the-virtual-worlds-future-is-already" target="_blank" rel="noopener noreferrer">The Virtual Worlds Future is Already Here</a>
 
-Or perhaps the Metaverse is already here, and it's just not evenly distributed? Tony Sheng once again gives us a helpful complementary opposite view.
+Or perhaps the Metaverse is already here, and it's just not evenly distributed? Tony Sheng once again gives us a helpful, complementary opposite view.
 
 ## 📋 Industry References
 
@@ -45,8 +45,8 @@ For this weekend, we're inviting the KERNEL Gaming Track fellows to participate 
 
 Please register at the link below:
 
-[KERNEL Gaming Track Global Game Jam Registration](https://globalgamejam.org/2021/jam-sites/kernel-gaming-guild-game-jam-2021)
+<a href="https://globalgamejam.org/2021/jam-sites/kernel-gaming-guild-game-jam-2021" target="_blank" rel="noopener noreferrer">KERNEL Gaming Track Global Game Jam Registration</a>
 
 Fellows will create a game over the weekend based on an announced theme. The theme will be announced at the start of the jam (Friday) and will be shared on Slack.
 
-Games don't have to be video games-- they can be any form of game like a board game or a card game, as long as it adheres to the theme. It might also be a good exercise to design a game that explores Web 3 concepts.
+Games don't _have_ to be video games; they can be anything from a board game or a card game, as long as it adheres to the theme. It might also be a good exercise to design a game that explores Web 3 concepts.
