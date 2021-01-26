@@ -182,5 +182,6 @@ nav:
     - Connect: resources/index.md
     - Create: resources/design-spec.md
     - Code: resources/smart-contracts.md
+    - Caution: resources/security.md
     - Cogitate: resources/read.md
     - Conceal: resources/zero-knowledge.md

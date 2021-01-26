@@ -92,7 +92,23 @@ A great YouTube channel for getting started with blockchain development.
 Another YouTube channel community recommendation which will help you hone your web3 skillz.
 
 <div markdown="3" class="tool-link">
-[]<a href="https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Smart Contract Programmer**
+
+<div markdown="2" class="tool-image">
+![Smart Contract Programmer](/assets/images/sol.jpeg)
+</div>
+
+A good resource for Solidity 0.6.0 exploits and better patterns for your latest contracts.
+
+<div markdown="3" class="tool-link">
+<a href="https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos " target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -317,77 +333,6 @@ _H/T val_
 
 <div markdown="1" class="clear"></div>
 
-### Security
-
-<div markdown="1" class="card third sidebar gemoji tool tool">
-
-**Trail of Bits Toolbox**
-
-<div markdown="2" class="tool-image">
-![Trail of Bits](/assets/images/cryic.png)
-</div>
-
-One of the most well-established and respected audit firm's very own toolbox for ensuring high security standards.
-
-_H/T Matt Solomon. Check out <a href="https://medium.com/coinmonks/ethereum-security-analysis-tools-an-introduction-and-comparison-1096194e64d5" target="_blank" rel="noopener noreferrer">his article</a> for more._
-
-<div markdown="3" class="tool-link">
-<a href="https://github.com/crytic/eth-security-toolbox" target="_blank" rel="noopener noreferrer">Secure</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card third sidebar gemoji tool tool">
-
-**MythX**
-
-<div markdown="2" class="tool-image">
-![MythX](/assets/images/mythx.svg)
-</div>
-
-Another usedul Consensys tool that's easy to integrate with frameworks like Truffle especially.
-
-<div markdown="3" class="tool-link">
-<a href="https://mythx.io/" target="_blank" rel="noopener noreferrer">Analyse</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card third sidebar gemoji tool tool">
-
-**SecBit Token Libs**
-
-<div markdown="2" class="tool-image">
-![SecBit](/assets/images/sec-bit.png)
-</div>
-
-A really useful set of token libraries, with proofs!
-
-_H/T val_
-
-<div markdown="3" class="tool-link">
-<a href="https://github.com/sec-bit/tokenlibs-with-proofs" target="_blank" rel="noopener noreferrer">Analyse</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card third sidebar gemoji tool tool">
-
-**samczsun**
-
-<div markdown="2" class="tool-image">
-![samczsun](/assets/images/samczsun.png)
-</div>
-
-The best blog to see how not to write smart contracts and learn about all the different ways your code could fall over in production.
-
-<div markdown="3" class="tool-link">
-<a href="https://samczsun.com/" target="_blank" rel="noopener noreferrer">Tremble</a>
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
 
 ## More cryptic than crypto?
 
