@@ -11,7 +11,7 @@ A curated timeline of articles from Gamasutra showing each year's relevant techn
 
 ## <a href="https://medium.com/@polats/3-disruptive-game-design-trends-to-look-forward-to-in-2020-23c22aa4b6be" target="_blank" rel="noopener noreferrer">3 Disruptive Game Design Trends To Look Forward To In 2020</a>
 
-A slightly outdated year-old introspective for 2020. Begins with a look into the top mobile games of 2019, which has stayed the same for the past 4 years.
+A slightly dated introspective of 2020. Begins with a look into the top mobile games of 2019, which has stayed the same for the past 4 years.
 
 
 ## <a href="https://www.flashgamehistory.com/" target="_blank" rel="noopener noreferrer">Flash Game History</a>

@@ -7,7 +7,7 @@ description:
 
 > Too often, the people disrupting any industry don't understand deeply what it is they're disrupting. This is definitely the case with cryptocurrencies and the current financial system. It really is well worth your time to stop and become familiar with more history so that you can understand why we are where we are, what led us here, and - only then - what solutions might actually benefit you and those you care about.
 
-The Learn Track's [**A Global Financial System**](../../../module-2) has taught us about the history of debt, and introduced new perspectives on money and speech.
+The Learn Track's module on [**The Global Financial System**](../../../module-2) revolves around the history of debt, introducing new perspectives on [money and speech](../../../module-2/money-speech).
 
 The origins of systems are usually surprising, as exemplified by these three points from  [**David Graeber's talk**](../../../module-2/debt):
 
@@ -15,11 +15,11 @@ The origins of systems are usually surprising, as exemplified by these three poi
 2. Physical currency was invented to pay soldiers.
 3. World religions start up as peace movements against materialism due to money.
 
-The financial system is archaic, and is a product of long periods of innovation with changing historical contexts. We should look at games in a similar light, ask why things are the way they are, and see where we can change them for the better.
+Our financial systems represent the accumulation of centuries spent moralising about violent inequality. They are often archaic, and ill-suited to contemporary needs. That they take the form we now see them in is not the result of some inevitable, divine dictat: they are products of their history, which is why understanding it deeply provides fresh and new insights into what "improvement" actually looks like. We should look at games in a similar light, ask why things are the way they are, and see where we can change them for the better.
 
 ## The March of Technology
 
-If we're looking to disrupt games, we also need to know its history. Below is a <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@polats/game-industry-timeline-from-1997-2018-4b5adfa76ecc">curated timeline of articles</a> from [Gamasutra](../module-1/crafted.md#industry-references) that I feel gives a good snapshot of where the game industry was at the time. 
+If we're looking to disrupt games, we also need to know the deep background. Below is a <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@polats/game-industry-timeline-from-1997-2018-4b5adfa76ecc">curated timeline of articles</a> from [Gamasutra](../../module-1/crafted/#industry-references) that gives a good overview of how the game industry evolved between 1997 and 2018. 
 
 Mouse-over / tap on the circles to see a relevant quote from each article, along with their amusingly anachronistic titles such as *"Internet Game Design"* and *"What's the ROI on my Wireless 3G Game?"*
 
@@ -27,7 +27,7 @@ Mouse-over / tap on the circles to see a relevant quote from each article, along
 
 The articles are colored <span style="color:red">red</span> if they mention a market contraction, <span style="color:green">green</span> if it signals market growth, and <span style="color:blue">blue</span> if it's informational.
 
- [The history of video games goes back way farther than this](./crafted/#the-video-game-crash-of-1983), but we can look back just until 1997 to start identifying some patterns. For one, we see that the video game industry is greatly affected by technology, more so than most industries. In its journey to become the [$140 billion juggernaut](./crafted/#superdatas-2020-year-in-review) it is today, it ebbs and flows during game console transitions.
+[The history of video games goes back way farther than this](../crafted/#the-video-game-crash-of-1983), but we can look back just until 1997 to start identifying some patterns. For one, we see that the video game industry is greatly affected by technology, more so than most industries. In its journey to become the [$140 billion juggernaut](../crafted/#superdatas-2020-year-in-review) it is today, it ebbs and flows during game console transitions.
 
 More importantly, we see how it's greatly affected by peripheral technologies. In 2006, we see analysts starting to predict how game revenues will double due to mobile devices, a year before the iPhone releases. In 2009, we start seeing the success of social games as they surge in popularity along with Facebook. 
 
@@ -35,15 +35,15 @@ Perhaps 5 years from now, in 2026, we'll look back to today and see how Web 3 wa
 
 ## 🏄‍♂️ Riding The Wave 
 
-Or maybe we'll look back and see that Web 3 was the next big wipeout. There's no shortage of these in the timeline as well: [The PSP Mini](./crafted/#psp-mini-falls), the Star Wars: The Old Republic MMO, the [ill-fated Ouya](./crafted/#the-ouya-kickstarter).
+Or maybe we'll look back and see that Web 3 was the next big wipeout. There's no shortage of these in the timeline as well: [The PSP Mini](../crafted/#psp-mini-falls), the _Star Wars: The Old Republic MMO_, the [ill-fated Ouya](../crafted/#the-ouya-kickstarter).
 
 It could also be something in between, a blip of momentary success like Habbo Hotel, Neopets, or The [Toys-to-Life genre](./crafted/#the-toys-to-life-bubble) popularized by Skylanders.
 
-A common thread through these successes is when a game becomes, to use another outdated term, the *killer app*. What Angry Birds was for the iPhone, Farmville was for Social Games, and Pokemon Go was for AR. These games were the perfect conflux of platform and game, when the content was so suited for the medium that it affected the platform's trajectory.
+Another way to identify important patterns is to ask how and why a game becomes, to use another outdated term, the *killer app*. What Angry Birds was for the iPhone, Farmville was for Social Games, and Pokemon Go was for AR. These games were the perfect conflux of platform and game, when the content was so suited for the medium that it affected the platform's trajectory.
 
 ## On Platforms and Meaningful Change
 
-One last pattern to point out is even as game developers are able to become massively successful with one game, the industry will eventually consolidate value around aggregators and platforms. As each technology cycle matures, it's the publishers like Tencent and the platforms like the App Store which become the arbiters of success. We can see this in the App Store rankings, which [for more than 4 years](./curated/#3-disruptive-game-design-trends-to-look-forward-to-in-2020) have largely stayed the same.
+One last pattern to point out is that, even as game developers are able to become massively successful with one game, the industry will eventually consolidate value around aggregators and platforms. As each technology cycle matures, it's the publishers like Tencent and the platforms like the App Store which become the arbiters of success. We can see this in the App Store rankings, which [for more than 4 years](../curated/#3-disruptive-game-design-trends-to-look-forward-to-in-2020) have largely stayed the same.
 
 <div class="lightbulb">
 💡 Meaningful change comes from how technologies or start ups change the power dynamics of the industry itself. 
@@ -53,9 +53,9 @@ Fortunately this has also happened a few times in our timeline. We saw it when c
 
 ## Web 3's Legacy
 
-New technology has the power to both decentralize and consolidate, and it's in the vast historical context of the video game industry that we need to be making our web 3 games in.
+New technology has the power to both decentralize and consolidate, and it's the vast historical context of the video game industry that we need to be aware of when making our Web 3 games.
 
-As Web 3 builders we have a unique opportunity to enact meaningful change more so than others before us. Our industry has brought together game developers, economists, artists, and open-source thinkers. We have new radical economic tools such as [quadratic funding](./crafted/#wtf-is-qf) to help us redesign the very foundations of value.
+As Web 3 builders, we have a unique opportunity to enact meaningful change more; so than others before us. Our industry has brought together game developers, economists, artists, and open-source thinkers. We have new radical economic tools such as [quadratic funding](../crafted/#wtf-is-qf) to help us redesign the very foundations of value.
 
 The legacy of Web 3 will be up to us.
 
