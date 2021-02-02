@@ -84,6 +84,10 @@ Watch <a href="https://www.youtube.com/watch?v=PyTGohPHqy0&list=PLmtuEaMvhDZZh6z
 
 If you've got this far, you should just watch the whole course in your own time. I learned a lot from the videos starting <a href="https://www.youtube.com/watch?v=5oriNHybOsc&list=PLmtuEaMvhDZaBnW0RhzOOk6FO91MdsSEc&index=2" target="_blank">here</a> - Dealers and Liquid Security Markets.
 
+If you like more dynamic maps of the modern money pyramid, treat yourself to Holly Grimm's wonderful rendition:
+
+<img alt="Dynamic Modern Money Pyramid" src="../img/modern_money_pyramid.gif" class="center-img" />
+
 ---
 
 <div markdown="1" class="card half sidebar center gemoji center-content center">
