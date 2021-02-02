@@ -178,6 +178,10 @@ nav:
       - Core Learning: track-gaming/module-1/core.md
       - Crafted Reading: track-gaming/module-1/crafted.md
       - Curated Material: track-gaming/module-1/curated.md
+    - Module 2: 
+      - Core Learning: track-gaming/module-2/core.md
+      - Crafted Reading: track-gaming/module-2/crafted.md
+      - Curated Material: track-gaming/module-2/curated.md
   - Resources: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
