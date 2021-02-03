@@ -23,16 +23,16 @@ _H/T Matt Solomon. Check out <a href="https://medium.com/coinmonks/ethereum-secu
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
-**Smashing Smart Contracts for Fun and Profit**
+**Detecting Not So SMart Contracts**
 
 <div markdown="2" class="tool-image">
-![Trail of Bits](/assets/images/consensys.svg)
+![Trail of Bits](/assets/images/cryic.png)
 </div>
 
-The original paper by Bernhard on profitting from fun and the security anlysis tool Mythril.
+Two useful repos for understanding the vulnerable patterns used by not-so-smart contracts, and for <a href="https://github.com/crytic/slither/tree/master/tests/detectors" target="_blank" rel="noopener noreferrer">detecting various potential vulnerabilities</a>.
 
 <div markdown="3" class="tool-link">
-<a href="https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf" target="_blank" rel="noopener noreferrer">Symbolise</a>
+<a href="https://github.com/crytic/not-so-smart-contracts" target="_blank" rel="noopener noreferrer">Detect</a>
 </div>
 
 </div>
@@ -65,6 +65,38 @@ An introduction to mutation testing from Security Track mentor Joran Honig. You 
 
 <div markdown="3" class="tool-link">
 <a href="https://joranhonig.nl/introduction-into-mutation/" target="_blank" rel="noopener noreferrer">Mutate</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**Smashing Smart Contracts for Fun and Profit**
+
+<div markdown="2" class="tool-image">
+![Trail of Bits](/assets/images/consensys.svg)
+</div>
+
+The original paper by Bernhard on profitting from fun and the security anlysis tool Mythril.
+
+<div markdown="3" class="tool-link">
+<a href="https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf" target="_blank" rel="noopener noreferrer">Symbolise</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool tool">
+
+**VS Code Solidity Auditor**
+
+<div markdown="2" class="tool-image">
+![Consensys](/assets/images/consensys.svg)
+</div>
+
+A convenient and useful VS Code plugin to audit your smart contracts as you work.
+
+<div markdown="3" class="tool-link">
+<a href="https://github.com/ConsenSys/vscode-solidity-auditor" target="_blank" rel="noopener noreferrer">Audit</a>
 </div>
 
 </div>
