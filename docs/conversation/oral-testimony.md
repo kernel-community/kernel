@@ -5,7 +5,7 @@ description: Witnessing a old way of being born anew in this world wide web of l
 
 # Oral Testimony
 
-This page collects important talks which can help frame our return to indigineous, sustainable protocols for peace, based on a more accurate understanding of our shared, human history.
+This page collects important talks which can help frame our return to indigenous, sustainable protocols for peace, based on a more accurate understanding of our shared, human history.
 
 ### Akala
 
