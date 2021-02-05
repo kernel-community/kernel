@@ -55,11 +55,11 @@ Or Justin B:
 
 > I feel that knowledge of the specific, e.g. computer science, translates directly into intuition around the general.
 
-The mechanic or scientist's skill does grow more nuanced through acquisition of knowledge and skill by the exercise of discipline, and this does lead to more _specific_ questions about utility. In this way, honing a skill makes you good at asking questions about that specific discipline (which is a good thing). So, let us add an 8th point:
+The mechanic or scientist's skill does grow more nuanced through acquisition of knowledge and skill by the exercise of discipline, and this does lead to more _specific_ questions about utility. In this way, honing a skill makes you good at asking questions about that particular discipline, which is a good thing. So, let us add an 8th point:
 
 - Asking good questions requires a deep appreciation of context.
 
-However, "beginner's mind" is not opposed to rational inquiry and the honing of skill: it is, in fact, the pinnacle of such discipline. Consider to the <a href="https://en.wikipedia.org/wiki/Socratic_method#Questioning_methods_in_Socratic_Circles" target="_blank" rel="noopener noreferrer">Socratic method</a> more closely:
+However, "beginner's mind" is not opposed to rational inquiry and the honing of skill: it is, in fact, the pinnacle of such discipline. Consider the <a href="https://en.wikipedia.org/wiki/Socratic_method#Questioning_methods_in_Socratic_Circles" target="_blank" rel="noopener noreferrer">Socratic method</a> more closely:
 
 > Socratic Circles are based upon the interaction of peers. The focus is to explore multiple perspectives on a given issue or topic. The pedagogy of Socratic questions is open-ended, focusing on broad, general ideas rather than specific, factual information. The technique emphasizes a level of questioning and thinking where there is no single right answer.
 
