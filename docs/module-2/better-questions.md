@@ -25,9 +25,7 @@ How do you develop a willingness to learn? It begins with clarity and honesty ab
 
 In so doing, you can begin to experience the benefits of beginner's mind yourself, not conceptually, but in the actual course of your life. Beginner's mind is about starting now, trying for yourself, being frustrated by your lack of expertise, and letting your heart show your mind how to celebrate this fecund state of not-knowing - for therein lies both truth and liberation.
 
----
-
-## Further References
+## 68 Life Lessons
 
 <div markdown="1" class="card half sidebar center gemoji center-content center">
 
@@ -46,3 +44,23 @@ We highly recommend you treat yourself to these unsolicited life lessons from Ke
 </div>
 
 <div markdown="1" class="clear"></div>
+
+## Questioning "Better" Questions
+
+<a href="https://thebitcoinpodcast.com/" target="_blank" rel="noopener noreferrer">Corey Petty</a> and Justin B question the claim made in point 3 above. The debate boils down to whether asking good questions in general is an ability best developed through disciplined exercise of rational skill, or the cultivation of "beginner's mind". In particular, techniques like <a href="https://en.wikipedia.org/wiki/Socratic_method" target="_blank" rel="noopener noreferrer">the Socratic Method</a> develop rational inquiry in order to fuel deeper, more intuitive understanding of a given topic. Corey writes:
+
+> Experience and reflection, learning from our mistakes, and developing understanding all provide nuance. A mechanic doesn't develop his ability to diagnose a problem solely from introspection. It is through the combination of knowledge and understanding that intuition arises. I've spent most of my life honing skills that give me broad and deep understanding for the _specific purpose_ of being able to ask good questions in any context.
+
+Or Justin B:
+
+> I feel that knowledge of the specific, e.g. computer science, translates directly into intuition around the general.
+
+The mechanic or scientist's skill does grow more nuanced through acquisition of knowledge and skill by the exercise of discipline, and this does lead to more _specific_ questions about utility. In this way, honing a skill makes you good at asking questions about that specific discipline (which is a good thing). So, let us add an 8th point:
+
+- Asking good questions requires a deep appreciation of context.
+
+However, "beginner's mind" is not opposed to rational inquiry and the honing of skill: it is, in fact, the pinnacle of such discipline. Consider to the <a href="https://en.wikipedia.org/wiki/Socratic_method#Questioning_methods_in_Socratic_Circles" target="_blank" rel="noopener noreferrer">Socratic method</a> more closely:
+
+> Socratic Circles are based upon the interaction of peers. The focus is to explore multiple perspectives on a given issue or topic. The pedagogy of Socratic questions is open-ended, focusing on broad, general ideas rather than specific, factual information. The technique emphasizes a level of questioning and thinking where there is no single right answer.
+
+Rational inquiry demands a diagnosis; a solution; and end to a process which had its beginning in the mind. What can such a mind do in the face of "no single right answer"? It can develop <a href="https://en.wikipedia.org/wiki/Negative_capability" target="_blank" rel="noopener noreferrer">negative capability</a>, but even this is insufficient, because we're not after skillful intellectual understanding: we seek harmonious and clear _ways of living_. To achieve this, rational inquiry must not be denied, but _taken to its own end_ in order to see, not that it does not currently know, but that it **cannot know** in principle. Honest acceptance of the limitation of mind is the most effective method for cultivating the humble emptiness necessary for genuine curiosity and an interest which asks from the heart, and so goes to the heart of the subject being questioned. It is, as [Paul Myburgh](../../module-0/conversation/#old-gifts-anew) says, perceptual rather than conceptual: simple knowledge of things-as-they-are, not our own complex understanding.
