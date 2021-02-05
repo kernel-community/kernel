@@ -40,26 +40,100 @@ include them in global revolutionary alliances, as well as local resistance and 
 
 Of course, the best way to understand any protocol is to _experience_ it by talking with us. However, we also provide here the basic meaning of some key words to begin painting the picture.
 
+> First, as my mother taught me, the Mohawk man—or any man—is supposed
+> to stand when facing women, or anyone else, when he speaks. He is not
+> supposed to sit; otherwise people cannot decode his body language. If
+> this man sits, he could lie. What my mother also taught me about
+> Kaianerahse’rakó:wa, the Great Law of Peace and Understanding, is that
+> I always have to identify myself. I am Katsitenserio, which means
+> “Pretty bird”. This is the name that my mother gave me. I also
+> identify my mother by her name: Kahawenontie, which means “She carries
+> the grapes." 
+
+> When she was alive, she carried the sacred title of Female Chief into
+> the Kaianerahse’rakó:wa in the Longhouse. My mother taught me that
+> every man, before getting up and talking, must remember where he comes
+> from. So I begin by thanking the first being of all Creation:
+> Ieronhiakaiehronon, the Sky Woman. I thank her, but I do not settle
+> for simply thanking her, I ask her to watch what I say, because when I
+> speak, I stand before her. I ask her to listen to my words. I also ask
+> her to help me and guide me, so that my words are not lies, but are
+> the truth. 
+
+> I also thank the beating heart of our Mother Earth: our
+> Grandmother Moon, whom we all know, especially women, since the Moon
+> visits them thirteen times a year and unites women with Mother Earth
+> and Grandmother Moon—all forming one. 5 Grandmother Moon moves the
+> blood of life, not only in our bodies, but also in the body of our
+> Mother Earth. Grandmother Moon is the beating heart of Mother Earth,
+> the same way that we have a heart that beats in our own bodies. The
+> function of our physical heart is exactly the same as the heart of
+> Mother Earth. Also, I thank our Mother Earth, because she is mother of
+> us all; she is the mother of all that exists. We all come from the
+> Earth, so we have to thank her. 
+
+> And as I mentioned about Sky Woman,
+> whom I ask to guide my words, I also ask Grandmother Moon and Mother
+> Earth to be with me and to watch my words. Thus, no bad word, or lie
+> can be expressed. Now, I thank all women, from the newest born baby
+> girl to the eldest grandmother, since they are all mothers of our
+> nations. If you carry a little girl in your womb right now, she has
+> perhaps not yet arrived in this world and perhaps she has not given
+> birth, but she is a woman, which makes her the mother of our nation.
+> She must therefore be treated with great respect. Whether they come
+> from the other side of the world, are white, black or yellow: All
+> women are our mothers—and even the youngest girls are our mothers and
+> should be treated as such. We thank all life givers, in all strains of
+> life, as they are our purpose & direction in this world. The true 
+> managers of our societies. We ask our ancestors of the Good Mind 
+> to help us restore them to their rightful seats of power. 
+
+> Also, I want to thank all our
+> ancestors who came before us and who carry the Good Mind. This does
+> not exclude the fact that we all have ancestors who were stupid, who
+> did bad things in this world, but we do not condemn them. In
+> evolution, we reject what is bad and we build upon only what is good.
+> So when we speak and we evolve, we identify what is bad and we know
+> that we have nothing to do with it. We, therefore, ask our ancestors
+> who bear wisdom to help us return to Atonhetsera, Spirit/ True Power,
+> and the real power of women: not the power that you want as women, but
+> the real one. There are men who covet the power, but it is not the
+> real power of man. Some men are wrong. Some women also may go astray
+> from the right path, even if they are women.
+
+> We therefore ask our
+> ancestors to help us bring the real power of Atonhetsera, the
+> Tekenitehio hate, the Two Row Wampum, and the True Spirit of Asen
+> nikatarake from the three Universal Clans: Turtle, Wolf and Bear,
+> which are those of the Kanienke’ha’ka, the People of the Flint.
+
+— [Words of Peace in Native Land](https://a.co/9nnyt8e): Mohawk culture, values
+and traditions by Katsitenserio(Stuart jr Myiow), Wolf Clan Speaker/Representative & Guylaine Cliche 
+
 ### Chief
 Is more a position of _responsibility_ rather than power, as most modern people imagine that word. If someone wants to be chief, they are likely ill-suited for the role. The original word actually translates more accurately to "the best of us", and this is a position which can be occupied by men or women. However, it is always chosen by women title-holders and requires 100% consensus. These same women have the power to "dehorn" the chief at any stage if they feel that there is any possibility of corruption entering the office.
 
 ### Hereditary structure
-Is always based on your clan, not your immediate blood or family. Parents cannot pass down titles to their children, as in a monarchy. Introductions are made, before any discussion is started, on the basis of your hereditary clan: it is how we meet the deeper aspects of our humanity in one another. By consciously tracing and communicating the lines which lead to us, here and now, we can protect against nepotism and ensure those who represent us are truly the best of any clan, which act as containers for certain responsibilities and ways of knowing or being in our shared world. Your clan is passed down through your mother.
+Is always based on your clan, not necessarily your immediate blood or family. Parents cannot pass down titles to their children, as in a monarchy. While Katsitenserio is a legal title-holder today, as his mother has a clan, he also states the emergency ceremony embedded into native protocols to make it legal & official under Five Nation's constitutional law --Kaianerahse’rakó:wa, The Great Law of Peace. This is a rare protocol, reducing to the smallest surface area for attack possible in dire of circumstances--to prevent complete genocide. Nations can be rebuilt even if it is a single individual remaining with knowledge of the protocols. This would otherwise always be illegal, as Katsitenserio's mother was Wolf Clan Mother "the best of us" in the Longhouse. 
+Introductions are made, before any discussion is started, on the basis of your hereditary clan: it is how we meet the deeper aspects of our humanity in one another. By consciously tracing and communicating the lines which lead to us, here and now, we can protect against nepotism and ensure those who represent us are truly the best of any clan, which act as containers for certain responsibilities and ways of knowing or being in our shared world. Your clan is passed down through your mother.
 
 ### Justice
-To jail or imprison a human being in Longhouse oral documentation has always been illegal. It follows that anything even closely resembling chattel-style slavery - including modern wage slavery - is unjust. Indigenous cultures across the world speak of "bringing into the heart fire" any person who has done wrong. This is consistent with other matrilineal justice mechanisms in Africa, such as those mentioned by the polymath Cheikh Anta Diop. Diop describes precolonial west African nations having intricate protocols for bringing local/regional rule benders into the family for a determined period of time — after which it was then illegal to disparage the person by mentioning the crime or that time of the person’s life. This last nuance actually points to elaborate cultural protections against free labor.
+To jail or imprison a human being in Longhouse oral documentation has always been illegal. It follows that anything even closely resembling chattel-style slavery - including modern wage slavery - is unjust. Indigenous cultures across the world speak of "bringing into the heart fire" any person who has done wrong. This is consistent with other matrilineal justice mechanisms in Africa, such as those mentioned by the polymath Cheikh Anta Diop. Diop describes precolonial west African nations having intricate protocols for bringing local/regional rule benders into the family for a determined period of time — after which it was then illegal to disparage the person by mentioning the crime or that time of the person’s life. This last nuance actually points to elaborate cultural protections against free labor across social strata.
 
 ### Guardianship
 Is best exemplified by the Māori word [kaitiaki](https://en.wikipedia.org/wiki/Kaitiaki), which was greatly misinterpreted in the Treaty of Waitangi. It does not mean ownership or the ability to rule as the British claimed, but a kind of conscious stewardship, a _being with_ the land and sea and sky. It is an expression of interdependence which still calls for specific roles to be fulfilled by those most able to do so. Other indigenous people capture this same idea in the notion of [The Children's Fire](https://vimeo.com/20278227).
 
 ### Minding the peace
-The League of Peace formed 2,500 years ago as a response to the social climate in North America. The commodification of wampum shells at the time led to the outbreak of war. War meant it simply wasn’t safe to collect these shells from the lakes. In the tradition, war is the result of - and perpetuates - a **corrupted mind** which is content to have others work for it via control and commodification. This mind was successfully transformed by the matrilineal council that protected long term peace, right up until total colonization.
+The League of Peace formed 2,500 years ago as a response to the social climate in Easternn Seaboard of North America. Starting after Wampum shells began to be commodified as result of the outbreak of war between the Five Nations (East->West-- Mohawk, Oneida, Onadoga, Cayuga, Seneca). War meant it simply wasn’t safe to collect these shells from the lakes. In the tradition, war is the result of - and perpetuates - a **corrupted mind** which is content to have others work for it via control and commodification of first the wampum shells, then everything else. This mind was successfully transformed by the matrilineal council that protected long term peace, right up until total colonization.
 
 ### Violent commodification
-Oral testimony stands witness to the intricate relationship between violence and commodification. This suggests that collective decision making processes for peaceful diplomacy, protected by matrilineal heritage, ought to be embedded into any long-term sustainable system. Without this protection, everything is at risk of commodification. Violence creates artificial scarcity that bleeds into every aspect of our socio-ecological-economic organization. Commodification is enhanced by the means with which we track the morphology of long-term value dynamics. What is ultimately a tool for tracking the collective health of our mother's body (Earth) becomes a tool for her brutalization.
+Oral testimony stands witness to the intricate relationship between violence and commodification. This suggests that collective decision making processes for peaceful diplomacy, protected by matrilineal heritage, ought to be embedded into any long-term sustainable system. Without this protection, everything is at risk of commodification. Violence creates artificial scarcity that bleeds into every aspect of our socio-ecological-economic organization. Without matriineal protections, commodification is in turn enhanced by the means with which we track the morphology of long-term value dynamics. What is ultimately supposed to be a tool for tracking the collective health of our mother's body (Earth) becomes a tool for her brutalization instead.
 
-### Balance always has to come from where there is more
-Which makes quantifying the value of goods less relevant than the mechanism by which we keep record. Indigenous modes of tracking transactions are less about valuation and more about ensuring balance is maintained within complex communities. If the means of valuation are static, they will be gamed by those who can exercise greater coercive power and organising around regenerative abundance is replaced by organisations premised on scarcity. Without dynamic consensus protocols for arriving at value, our entire regenerative heritage is made invisible and then easily exploited, from the smallest levels to the largest levels of Sky Woman's spiral design. This is identified in the oral documentation very clearly.   
+### "..Balance always has to come from where there is more"
+
+— Katsitenserio
+
+Which makes quantifying the value of goods less relevant than the mechanism by which we keep record. Indigenous modes of tracking transactions are less about valuation and more about ensuring balance is maintained within complex communities. If the means of valuation are static, they will be gamed by those who can exercise greater coercive power; and organising around regenerative abundance is replaced by organisations premised on scarcity. Without dynamic consensus protocols for arriving at value, our entire regenerative heritage is made invisible and then easily exploited, from the smallest levels to the largest levels of Sky Woman's spiral design. This is identified in the oral documentation very clearly.   
 
 ## Buds
 
