@@ -15,10 +15,11 @@ The transformative power of indigenous dialogue resides largely in the protocols
 
 What is required now, more than ever, is the expression and lived realisation of beautiful social resilience in diversity. That said, we also humbly acknowledge that we can never fully express our gratitude to the women of the Longhouse in _Kahnawake_, who have kept these peace protocols alive for us to learn from today.
 
-Before discussing the work done so far, and in order to establish some common ground, we have to start with a new theory of value, rooted in accurate anthropology. Enter [David Graeber](../../module-2/debt):
+The Five Nations Longhouse Confederacy and the Two Row Wampum Peace Treaty present a fascinating means of interrogating the concept of nationhood. The Longhouse flag can be flown <a href="https://www.seashepherd.org.uk/news-and-commentary/news/sea-shepherd-receives-the-flag-of-the-five-nations-of-the-iroquois-confederacy.html" target="_blank" rel="noopener noreferrer">on all seas</a>, as it represents an indigenous American sovereign nation.
 
->It would also help explain the extraordinary importance of indigenous people’s struggles in the new movement: such people tend to be simultaneously the very least alienated and most oppressed people on earth. Now that new communication technologies have made it possible to
-include them in global revolutionary alliances, as well as local resistance and revolt, it is well-nigh inevitable that they should play a profoundly inspirational role."
+In order to understand more deeply the revolutionary implications of this kind of nationhood, combined with shared, ownerless, global ledgers, we must start with a new theory of value, rooted in accurate anthropology. Enter [David Graeber](../../module-2/debt):
+
+>It would also help explain the extraordinary importance of indigenous people’s struggles in the new movement: such people tend to be simultaneously the very least alienated and most oppressed people on earth. Now that new communication technologies have made it possible to include them in global revolutionary alliances, as well as local resistance and revolt, it is well-nigh inevitable that they should play a profoundly inspirational role."
 
 <div markdown="1" class="card half sidebar center gemoji center-content center">
 
