@@ -36,9 +36,7 @@ include them in global revolutionary alliances, as well as local resistance and 
 
 <div markdown="1" class="clear"></div>
 
-## Branches
-
-Of course, the best way to understand any protocol is to _experience_ it by talking with us. However, we provide here a brief introduction and some key words to begin painting the picture.
+## Trunk
 
 > First, as my mother taught me, the Mohawk man — or any man — is supposed to stand when facing women, or anyone else, when he speaks. He is not supposed to sit; otherwise people cannot decode his body language. If this man sits, he could lie. What my mother also taught me about Kaianerahse’rakó:wa, the Great Law of Peace and Understanding, is that I always have to identify myself. I am Katsitenserio, which means “Pretty bird”. This is the name that my mother gave me. I also identify my mother by her name: Kahawenontie, which means “She carries the grapes." 
 
@@ -55,6 +53,10 @@ Of course, the best way to understand any protocol is to _experience_ it by talk
 > We therefore ask our ancestors to help us bring the real power of Atonhetsera, the Tekenitehio hate, the Two Row Wampum, and the True Spirit of Asen nikatarake from the three Universal Clans: Turtle, Wolf and Bear, which are those of the Kanienke’ha’ka, the People of the Flint.
 
 — <a href="https://a.co/9nnyt8e" target="_blank" rel="noopener noreferrer">Words of Peace in Native Land</a>: Mohawk culture, values and traditions by Katsitenserio (Stuart jr Myiow), Wolf Clan Speaker/Representative & Guylaine Cliche.
+
+## Branches
+
+Of course, the best way to understand any protocol is to _experience_ it by talking with us. However, we provide here a brief overview of some key words to begin painting the picture.
 
 ### Chief
 Is more a position of _responsibility_ rather than power, as most modern people imagine that word. If someone wants to be chief, they are likely ill-suited for the role. The original word actually translates more accurately to "the best of us", and this is a position which can be occupied by men or women. However, it is always chosen by women title-holders and requires 100% consensus. These same women have the power to "dehorn" the chief at any stage if they feel that there is any possibility of corruption entering the office.
