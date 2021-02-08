@@ -17,25 +17,9 @@ What is required now, more than ever, is the expression and lived realisation of
 
 The Five Nations Longhouse Confederacy and the Two Row Wampum Peace Treaty present a fascinating means of interrogating the concept of nationhood. The Longhouse flag can be flown <a href="https://www.seashepherd.org.uk/news-and-commentary/news/sea-shepherd-receives-the-flag-of-the-five-nations-of-the-iroquois-confederacy.html" target="_blank" rel="noopener noreferrer">on all seas</a>, as it represents an indigenous American sovereign nation.
 
-In order to understand more deeply the revolutionary implications of this kind of nationhood, combined with shared, ownerless, global ledgers, we must start with a new theory of value, rooted in accurate anthropology. Enter [David Graeber](../../module-2/debt):
+In order to understand more deeply the revolutionary implications of this kind of nationhood, combined with shared, ownerless, global ledgers, we must start with a new theory of value, rooted in accurate anthropology. Enter <a href="https://www.researchgate.net/publication/27224530_Toward_an_Anthropological_Theory_of_Value_The_False_Coin_of_Our_Own_Dreams" target="_blank" rel="noopener noreferrer">David Graeber</a>:
 
 >It would also help explain the extraordinary importance of indigenous people’s struggles in the new movement: such people tend to be simultaneously the very least alienated and most oppressed people on earth. Now that new communication technologies have made it possible to include them in global revolutionary alliances, as well as local resistance and revolt, it is well-nigh inevitable that they should play a profoundly inspirational role."
-
-<div markdown="1" class="card half sidebar center gemoji center-content center">
-
-**A Theory of Value**
-
-<div markdown="2">
-![The New Anarchists](/assets/images/new_anarchists.png)
-</div>
-
-<div markdown="3" class="curated-link">
-<a href="https://www.researchgate.net/publication/27224530_Toward_an_Anthropological_Theory_of_Value_The_False_Coin_of_Our_Own_Dreams" target="_blank">Read It</a>
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
 
 ## Trunk
 

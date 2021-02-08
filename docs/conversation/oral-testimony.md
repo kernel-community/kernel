@@ -9,6 +9,8 @@ This page provides a small experience of a recitation of the Great Law of Peace,
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/feFwTOUIHkc?start=957" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/HUlibsjmF2I?start=264" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Relevant History and Anthropology
 
 Akala's address at the Oxford Union and David Gareber and David Wengrow's discussion at the University of Amsterdam both provide important intellectual background for those less able to follow what is being transmitted in the oral testimony above.
