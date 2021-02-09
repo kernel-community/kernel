@@ -41,11 +41,11 @@ To those trying to enact [meaningful change](../../module-2/core/#on-platforms-a
 
 > So, no matter where you are in the system – a voter or senator, an inventor or consumer, a buyer or seller, an artist or audience – you can, you must, play a part in changing the world.
 
-Even though change comes slowly though, they will only ever happen if we start them. And we are not alone, Web 3 itself is an evolution of a movement that started with the Internet, and carried on by Open Source.
+Even though evolution revolves slowly, the cultural aspects of it can only begin if you and I start them. And we are not alone: Web 3 itself is an evolution of a movement that started with the Internet, and was carried on by Free and Open Source Software.
 
 <img src="../img/opensourceloopy.gif" class="center-img" alt="Loopy Interconnected Systems" />
 
-We must also always remember that even though what we're working on doesn't seem to be moving the needle, each of these systems are actually comprised of smaller subsystems themselves. By focusing on the ones that we can currently affect, we can cascade these small changes into a mass movement.
+We must always remember that, even though what we're working on doesn't always seem to move the needle now, each of these systems are themselves comprised of smaller subsystems. By focusing on the ones that we can currently affect, we can cascade these small changes into a mass movement.
 
 <iframe width="100%" height="450" frameborder="0" src="https://ncase.me/loopy/v1/?embed=1&data=[[[3,987,448,0.16,%22Ad%2520money%22,3],[5,666,426,0.5,%22TRUST%22,2],[6,500,318,0.16,%22Web%25203%2520Game%22,5],[7,816,312,0.16,%22Clickbait%2520Games%22,1],[8,808,529,0.5,%22Social%2520reach%22,1],[9,518,526,0.5,%22Social%2520reach%22,5],[10,359,449,0.16,%22Radical%2520Markets%22,3],[11,661,263,0,%22%255Bclick%2520to%2520start%255D%22,3]],[[7,5,-11,-1,0],[6,5,16,1,0],[7,8,16,1,0],[8,3,-53,1,0],[7,8,48,1,0],[6,9,-14,1,0],[9,10,49,1,0],[11,7,17,1,0],[11,6,-16,1,0],[8,9,8,-1,0],[9,8,-48,-1,0],[10,6,55,1,0],[3,7,-73,1,0],[7,8,81,1,0]],[[659,628,%22attention%2520economy%250Ais%2520zero-sum%22],[1000,583,%22clickbait%2520games%250Afund%2520themselves%2520more%22],[346,581,%22web%25203%2520games%250Afund%2520themselves%2520a%2520bit%22]],13%5D"></iframe>
 
@@ -64,12 +64,12 @@ We need [research studies](../curated/#the-open-metaverse-os) to help us get a c
 
 Finally, we also need to look back and realize that this is a movement that started before us. 
 
-Before Web 3, Freedom was also a core tenet of the Internet before it changed to what it is today. We are standing on the shoulders of giants like [John Perry Barlow](../crafted/#a-declaration-of-the-independence-of-cyberspace-by-john-perry-barlow), [Lawrence Lessig](../crafted/#code-and-other-laws-of-cyberspace-by-lawrence-lessig) and [Sir Tim Berners-Lee](../crafted/#solid-by-sir-tim-berners-lee). 
+Before Web 3, Freedom was also a core tenet of the Internet as we initially imagined it. We are standing on the shoulders of giants like [John Perry Barlow](../crafted/#a-declaration-of-the-independence-of-cyberspace-by-john-perry-barlow), [Lawrence Lessig](../crafted/#code-and-other-laws-of-cyberspace-by-lawrence-lessig) and [Sir Tim Berners-Lee](../crafted/#solid-by-sir-tim-berners-lee). 
 
-In the face of these loopy ecosystems we should press on, mindful of the paths these giants have tread. 
+In the face of these loopy ecosystems we should press on, mindful of the paths these giants have trod. 
 
 # 🎮 A Game Each Week
 
 <a target="_blank" rel="noopener noreferrer" href="https://lichess.org"><img src="../img/lichess.jpg" class="center-img" alt="lichess.org" /></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://lichess.org">Lichess</a> - Started in 2010 by Thibault Duplessis, Lichess is an inspiring masterclass on how to build a sustainable, open-source web game. Lichess.org is a fully-featured service made all the more impressive by its massive scale: the game's servers can support more than a million games played each day! 
+<a target="_blank" rel="noopener noreferrer" href="https://lichess.org">Lichess</a> - Started in 2010 by Thibault Duplessis, Lichess is an inspiring masterclass on how to build a sustainable, open-source, web game. Lichess.org is a fully-featured service made all the more impressive by its massive scale: the game's servers can support more than a million games played each day! 
