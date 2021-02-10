@@ -51,9 +51,13 @@ extra:
       link: https://kernel-community.slack.com
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gitcoin
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/bootstrap.min.css
 
 # Extensions
 markdown_extensions:
+  - meta
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
   - markdown.extensions.codehilite:
@@ -88,87 +92,84 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started: getting-started.md
-  - Module 0:
-    - Intro to KERNEL: module-0/index.md
-    - Crafted Reading:
-      - The Play of Pattern: module-0/play-of-pattern.md
-      - Trust: module-0/trust.md
-    - Curated Material:
-      - Money Talks: module-0/money-language.md
-      - Conversation: module-0/conversation.md
-      - Purpose: module-0/purpose.md
-  - Module 1:
-    - Ethereum's History & State: module-1/index.md
-    - Crafted Reading:
-      - Meaning: module-1/meaning.md
-      - Value: module-1/value.md
-    - Curated Material:
-      - Playdough Protocols: module-1/playdough-protocols.md
-      - Promises, Promises: module-1/promise-blockchains.md
-      - Understanding Ethereum: module-1/understanding-ethereum.md
-      - Joyful Subversion: module-1/joyful-subversion.md
-  - Module 2:
-    - A Global Financial System: module-2/index.md
-    - Crafted Reading:
-      - Better Questions: module-2/better-questions.md
-      - Money & Speech: module-2/money-speech.md
-    - Curated Materials:
-      - Shells: module-2/shelling-out.md
-      - Debt: module-2/debt.md
-      - Banking: module-2/banking.md
-      - Engineering: module-2/engineering.md
-  - Module 3:
-    - Take Back the Web: module-3/index.md
-    - Crafted Reading:
-      - Intention: module-3/intention.md
-      - Freedom: module-3/freedom.md
-    - Curated Materials:
-      - Remember: module-3/remember.md
-      - Time: module-3/time.md
-      - Lock It Open: module-3/lock-it-open.md
-      - With Humility: module-3/humility.md
-  - Module 4:
-    - Internet Age Institutions: module-4/index.md
-    - Crafted Reading:
-      - Governance: module-4/governance.md
-      - Liberally Radical: module-4/liberal-radical.md
-    - Curated Materials:
-      - Art: module-4/art.md
-      - Self Enquiry: module-4/self-enquiry.md
-      - Consensus: module-4/consensus.md
-      - The Garden: module-4/the-garden.md
-  - Module 5:
-    - Tokens & Mechanism Design: module-5/index.md
-    - Crafted Reading:
-      - Listening & Stories: module-5/listening-stories.md
-      - Incentives: module-5/incentives.md
-    - Curated Materials:
-      - Unbounded Search: module-5/amazon-unbounded-search.md
-      - Through Narrative: module-5/the-peoples-narrative.md
-      - Reveals Universes: module-5/reveal-the-universe.md
-      - Of Prosocial Value: module-5/prosocial-value.md
-  - Module 6:
-    - Staking and Scaling: module-6/index.md
-    - Crafted Reading:
-      - Learn How To Learn: module-6/learn.md
-      - Censorship Resistance: module-6/censorship-resistance.md
-    - Curated Material:
-      - Serenely: module-6/serenity.md
-      - Principled: module-6/inventing-on-principle.md
-  - Module 7:
-    - The Gift: module-7/index.md
-    - Crafted Reading:
-      - Giving: module-7/giving.md
-      - Scale-ability: module-7/scale-ability.md
-    - Curated Material:
-      - The Gift: module-7/the-gift.md
-      - Of No Paradigm: module-7/no-paradigm.md
-      - Is Perfection: module-7/perfection.md
-  - Koans:
-    - Wander: koans/index.md
-    - Week 1: koans/week-1.md
-  - Gaming:
+  - Learn:
+    - Module 0:
+      - Intro to KERNEL: module-0/index.md
+      - Crafted Reading:
+        - The Play of Pattern: module-0/play-of-pattern.md
+        - Trust: module-0/trust.md
+      - Curated Material:
+        - Money Talks: module-0/money-language.md
+        - Conversation: module-0/conversation.md
+        - Purpose: module-0/purpose.md
+    - Module 1:
+      - Ethereum's History & State: module-1/index.md
+      - Crafted Reading:
+        - Meaning: module-1/meaning.md
+        - Value: module-1/value.md
+      - Curated Material:
+        - Playdough Protocols: module-1/playdough-protocols.md
+        - Promises, Promises: module-1/promise-blockchains.md
+        - Understanding Ethereum: module-1/understanding-ethereum.md
+        - Joyful Subversion: module-1/joyful-subversion.md
+    - Module 2:
+      - A Global Financial System: module-2/index.md
+      - Crafted Reading:
+        - Better Questions: module-2/better-questions.md
+        - Money & Speech: module-2/money-speech.md
+      - Curated Materials:
+        - Shells: module-2/shelling-out.md
+        - Debt: module-2/debt.md
+        - Banking: module-2/banking.md
+        - Engineering: module-2/engineering.md
+    - Module 3:
+      - Take Back the Web: module-3/index.md
+      - Crafted Reading:
+        - Intention: module-3/intention.md
+        - Freedom: module-3/freedom.md
+      - Curated Materials:
+        - Remember: module-3/remember.md
+        - Time: module-3/time.md
+        - Lock It Open: module-3/lock-it-open.md
+        - With Humility: module-3/humility.md
+    - Module 4:
+      - Internet Age Institutions: module-4/index.md
+      - Crafted Reading:
+        - Governance: module-4/governance.md
+        - Liberally Radical: module-4/liberal-radical.md
+      - Curated Materials:
+        - Art: module-4/art.md
+        - Self Enquiry: module-4/self-enquiry.md
+        - Consensus: module-4/consensus.md
+        - The Garden: module-4/the-garden.md
+    - Module 5:
+      - Tokens & Mechanism Design: module-5/index.md
+      - Crafted Reading:
+        - Listening & Stories: module-5/listening-stories.md
+        - Incentives: module-5/incentives.md
+      - Curated Materials:
+        - Unbounded Search: module-5/amazon-unbounded-search.md
+        - Through Narrative: module-5/the-peoples-narrative.md
+        - Reveals Universes: module-5/reveal-the-universe.md
+        - Of Prosocial Value: module-5/prosocial-value.md
+    - Module 6:
+      - Staking and Scaling: module-6/index.md
+      - Crafted Reading:
+        - Learn How To Learn: module-6/learn.md
+        - Censorship Resistance: module-6/censorship-resistance.md
+      - Curated Material:
+        - Serenely: module-6/serenity.md
+        - Principled: module-6/inventing-on-principle.md
+    - Module 7:
+      - The Gift: module-7/index.md
+      - Crafted Reading:
+        - Giving: module-7/giving.md
+        - Scale-ability: module-7/scale-ability.md
+      - Curated Material:
+        - The Gift: module-7/the-gift.md
+        - Of No Paradigm: module-7/no-paradigm.md
+        - Is Perfection: module-7/perfection.md
+  - Gaming track:
     - Getting Started: track-gaming/index.md
     - Module 0: 
       - Core Learning: track-gaming/module-0/core.md
@@ -186,6 +187,9 @@ nav:
       - Core Learning: track-gaming/module-3/core.md
       - Crafted Reading: track-gaming/module-3/crafted.md
       - Curated Material: track-gaming/module-3/curated.md
+  - Koans:
+    - Wander: koans/index.md
+    - Week 1: koans/week-1.md
   - Conversation:
     - Protocols for Peace: conversation/index.md
     - Oral Testimony: conversation/oral-testimony.md
