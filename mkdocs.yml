@@ -166,8 +166,9 @@ nav:
       - Of No Paradigm: module-7/no-paradigm.md
       - Is Perfection: module-7/perfection.md
   - Koans:
-    - Wander: koans/index.md
-    - Week 1: koans/week-1.md
+    - Meander: koans/index.md
+    - Module 1: koans/module-1.md
+    - Module 3: koans/module-3.md
   - Gaming:
     - Getting Started: track-gaming/index.md
     - Module 0: 

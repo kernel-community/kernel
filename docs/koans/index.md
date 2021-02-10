@@ -32,13 +32,13 @@ _Docere et delectare_: to teach and delight. That is our goal. And, strange thou
 
 ## Week 0 - Conversation
 
-### Changing
+### Changing (Solved)
 
 We'll start simply. Anyone who is able to <a href="https://libraryofbabel.info/bookmark.cgi?truthseeds" target="_blank" rel="noopener noreferrer">solve our series of riddles</a> - based on the content from [week 0](../module-0) - will become the steward of <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/43060612980525300798945617690241154227807202326827270128619443670706517180417" target="_blank" rel="noopener noreferrer">this one-of-a-kind NFT</a>, which blends the _I Ching_ hexagrams with a circular representation of our genetic code. All further instructions are to be found in the Library itself.
 
 <img src="/assets/images/i_ching_genetic_code.jpeg" class="center-img" alt="Random Mutations?" />
 
-### Sparking
+### Sparking (Unsolved)
 
 It seems we started too simply, and the first koan was <a href="https://twitter.com/youjustwin42/status/1348825535812571136" target="_blank" rel="noopener noreferrer">solved</a> within a day of being made public. Which is wonderful, because now we get to make more. Here is <a href="https://libraryofbabel.info/bookmark.cgi?truthsparks" target="_blank" rel="noopener noreferrer">the next series of riddles</a> for you intrepid explorers of the infinite. This time, <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/43060612980525300798945617690241154227807202326827270128619443671806028808193" target="_blank" rel="noopener noreferrer">the reward</a> is an unpublished poem-as-NFT which will guide you to the beginning of a rabbit hole about The Land of Nowhere.
 
