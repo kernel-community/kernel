@@ -93,6 +93,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Learn:
+    - Getting Started: getting-started.md
     - Module 0:
       - Intro to KERNEL: module-0/index.md
       - Crafted Reading:
@@ -169,7 +170,7 @@ nav:
         - The Gift: module-7/the-gift.md
         - Of No Paradigm: module-7/no-paradigm.md
         - Is Perfection: module-7/perfection.md
-  - Gaming track:
+  - Play:
     - Getting Started: track-gaming/index.md
     - Module 0: 
       - Core Learning: track-gaming/module-0/core.md
@@ -189,7 +190,8 @@ nav:
       - Curated Material: track-gaming/module-3/curated.md
   - Koans:
     - Wander: koans/index.md
-    - Week 1: koans/week-1.md
+    - Module 1: koans/module-1.md
+    - Module 3: koans/module-3.md
   - Conversation:
     - Protocols for Peace: conversation/index.md
     - Oral Testimony: conversation/oral-testimony.md
