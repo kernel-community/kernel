@@ -8,46 +8,36 @@
     .md-header{position:initial}
     .md-main__inner{margin:0}
     .md-content{display:none}
-    .tx-container{padding-top:1rem;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: white' /></svg>") no-repeat bottom,linear-gradient(to bottom,#212145,#74C9AC 99%,#fff 99%)}
-    .tx-hero{margin:0 .8rem;color:#fff}
-    .tx-hero h1{margin-bottom:1rem;color:#E5BB98;font-weight:700}
-    .tx-hero__content{padding-bottom:6rem}
-    .tx-hero .md-button{margin-top:.5rem;margin-right:.5rem;color:#000}
-    .tx-hero .md-button--primary{background-color:var(primary-fg-color);border-color:#E5BB98}
-    .tx-hero .md-button:focus,.tx-hero .md-button:hover{border-color:#E5BB98;color:#000;background-color:#74C9AC;}
-    @media screen and (max-width:30em){
-      .tx-hero h1{font-size:1.4rem}
-    }
     @media screen and (min-width:60em){
       .md-sidebar--secondary{display:none}
-      .tx-hero{display:flex;align-items:stretch}
-      .tx-hero__content{max-width:19rem;margin-top:3.5rem;padding-bottom:14vw}
-      .tx-hero__image{width:34rem;order:1;transform:translateX(4rem);margin-bottom:0;}
     }
     @media screen and (min-width:76.25em){
       .md-sidebar--primary{display:none}
-      .tx-hero__image{transform:translateX(8rem);padding-bottom:2%;}
+    }
+    body {
+      background-color: black;
     }
   </style>
-  <section class="tx-container">
-    <div class="md-grid md-typeset">
-      <div class="tx-hero">
-        <div class="tx-hero__image">
-          <img src="assets/images/learning.png" alt="" width="1659" height="1200" draggable="false">
-        </div>
-        <div class="tx-hero__content">
-          <h1>Seeding a better web</h1>
-          <p>Learn how to think about and build open systems that benefit the world.</p>
-          <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
-            Start Now
-          </a>
-          <a href="https://apply.kernel.community" title="Chat" class="md-button md-button--primary">
-            Apply
-          </a>
-        </div>
+  <section class="landing">
+    <div class="section">
+      <img src="assets/images/kernel-logo.png">
+      <div class="subtitle">a curated community of brilliance in web3</div>
+      <div class="hero-content">
+        We are building an open, peer-to-peer, lifelong network of the most talented indiviudals in the blockchain space, one block at a time. Each block comprising of 250 individuals, 8 weeks, 16 firesides and 16 modules - combining to form a unique experience. <br/><br/>
+        Together, we are joyfully subverting the status quo. <br/><br/>
+      </div>
+      <div class = "grid">
+        <a class="typeform-share button" href="https://form.typeform.com/to/hUtbQHGs?typeform-medium=embed-snippet" data-mode="drawer_right" style="display:inline-block;text-decoration:none;background-color:#9090F1;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:17px;line-height:42.5px;text-align:center;margin:0 0 0 0;height:42.5px;padding:0px 28px;border-radius:9px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-hide-headers="true" data-hide-footer="true" data-submit-close-delay="0" target="_blank">Curious?</a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+        <a class="typeform-share button" href="https://form.typeform.com/to/Sy0qlDwu?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#01DE6F;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:17px;line-height:42.5px;text-align:center;margin:0 0 0 10px;height:42.5px;padding:0px 28px;border-radius:9px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="70" data-submit-close-delay="0" target="_blank">Apply</a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+      
+      </div>
+      <div class="hero-content-small">
+        Already applied? dig in to the Learn modules <a href="/getting-started/" target="_blank">here</a>.
       </div>
     </div>
   </section>
+  
 {% endblock %}
 {% block content %}{% endblock %}
 {% block footer %}{% endblock %}

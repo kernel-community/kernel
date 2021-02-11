@@ -1,4 +1,7 @@
 ---
 template: overrides/home.html
-title: Kernel Community
+title: KERNEL
+hide:
+  - navigation # Hide navigation
+  - toc
 ---
