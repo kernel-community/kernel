@@ -188,14 +188,14 @@ nav:
       - Core Learning: track-gaming/module-3/core.md
       - Crafted Reading: track-gaming/module-3/crafted.md
       - Curated Material: track-gaming/module-3/curated.md
-  - Koans:
+  - Question:
     - Wander: koans/index.md
     - Module 1: koans/module-1.md
     - Module 3: koans/module-3.md
-  - Conversation:
+  - Converse:
     - Protocols for Peace: conversation/index.md
     - Oral Testimony: conversation/oral-testimony.md
-  - Resources: 
+  - Find: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
     - Code: resources/smart-contracts.md
