@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&family=Libre+Franklin:ital,wght@0,100;0,400;1,100;1,400&family=Miriam+Libre:wght@400;700&display=swap');
+
+body, input {
+  font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
+}
+.landing {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("./dark-bg.png");
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-items: center;
+}
+
+.section {
+  height: 100vh;
+}
+.landing h1 {
+  font-size: 3em;
+}
+.landing .subtitle {
+  font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif;
+  font-size: 5.5em;
+  font-weight: 300;
+}
+.section img {
+  margin-top: 50px;
+  width: 400px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.section .hero-content {
+  margin-top: 15px;
+  /* margin-bottom: 15px; */
+  font-size: 2em;
+  font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif;
+}
+.section .hero-content-small {
+  margin-top: 15px;
+  /* margin-bottom: 15px; */
+  font-size: 1.7em;
+  font-weight: 100;
+  font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif;
+}
+.section a {
+  color: #79F1B5;
+}
+
+.section {
+  padding: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+@media screen and (max-width: 940px) {
+  .section {
+    /* padding: 30px; */
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .section img {
+    width: 150px;
+  }
+}
