@@ -92,8 +92,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Start:
+    - What Is KERNEL?: start/getting-started.md
+    - How To Use This Website: start/how-to-use.md
+    - Structure: start/structure.md
   - Learn:
-    - Getting Started: getting-started.md
     - Module 0:
       - Intro to KERNEL: module-0/index.md
       - Crafted Reading:
@@ -188,13 +191,13 @@ nav:
       - Core Learning: track-gaming/module-3/core.md
       - Crafted Reading: track-gaming/module-3/crafted.md
       - Curated Material: track-gaming/module-3/curated.md
+  - Converse:
+    - Protocols for Peace: conversation/index.md
+    - Oral Testimony: conversation/oral-testimony.md
   - Question:
     - Wander: koans/index.md
     - Module 1: koans/module-1.md
     - Module 3: koans/module-3.md
-  - Converse:
-    - Protocols for Peace: conversation/index.md
-    - Oral Testimony: conversation/oral-testimony.md
   - Find: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
