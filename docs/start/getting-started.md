@@ -10,7 +10,7 @@ Ultimately, KERNEL is a community dedicated to the journey towards a better unde
 
 Our syllabus aims to build *long-term thinking skills*, provide *context and technical history*, and introduce you to the *patterns* and *modes* required to flourish in decentralized, open communities like Web 3.
 
-This website hosts the Core Syllabus. It is free and open source and always will be. You can go through whenever you like, with whomever you like, at whatever pace you like: you do not need any further permission. However, we learn best together, especially in a couse like this which is fundamentally about presenting better questions, rather than packaging together superficial answers.
+This website hosts the Core Syllabus. It is free and open source and always will be. You can go through it whenever you like, with whomever you like, at whatever pace you like: you do not need any further permission. However, we learn best together, especially in a couse like this which is fundamentally about asking better questions, rather than parroting back superficial answers.
 
 The KERNEL Fellowship is an 8 week program we run ~3 times a year, which introduces 200 new Fellows to the KERNEL, a peer-to-peer community focused on building lifelong relationships and long-term projects utilizing Web 3. 
 

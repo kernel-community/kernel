@@ -8,14 +8,14 @@ title: Structure
 
 Title | Personal Lesson | Web 3 Lesson | 
 ----- | --------        | -------      | 
-🌠 [Introduction to KERNEL](../module-0)       | [The Play of Pattern](../module-0/play-of-pattern) | [Trust](../module-0/trust) |
-🌍 [Ethereum's History and State](../module-1) | [Meaning](../module-1/meaning) | [Value](../module-1/value) |
-💰 [A Global Financial System](../module-2)    | [Better Questions](../module-2/better-questions) | [Money and Speech](../module-2/money-speech) |
-🌐 [Take Back The Web](../module-3)            | [Intention](../module-3/intention) | [Freedom](../module-3/freedom) |
-ℹ️ [Internet Age Institutions](../module-4)    | [Governance](../module-4/governance) | [Liberal Radicalism](../module-4/liberal-radical) |
-📈 [Tokens and Mechanism Design](../module-5)  | [Listening and Stories](../module-5/listening-stories) | [Incentives](../module-5/incentives) |
-⚖️  [Scaling Principled Games](../module-6)     | [Learn How To Learn](../module-6/learn) | [Censorship Resistance](../module-6/censorship-resistance) |
-🎁 [The Gift](../module-7)                     | [Giving](../module-7/giving) | [Scale-ability](../module-7/scale-ability) |
+🌠 [Introduction to KERNEL](../../module-0)       | [The Play of Pattern](../../module-0/play-of-pattern) | [Trust](../../module-0/trust) |
+🌍 [Ethereum's History and State](../../module-1) | [Meaning](../../module-1/meaning) | [Value](../../module-1/value) |
+💰 [A Global Financial System](../../module-2)    | [Better Questions](../../module-2/better-questions) | [Money and Speech](../../module-2/money-speech) |
+🌐 [Take Back The Web](../../module-3)            | [Intention](../../module-3/intention) | [Freedom](../../module-3/freedom) |
+ℹ️ [Internet Age Institutions](../../module-4)    | [Governance](../../module-4/governance) | [Liberal Radicalism](../../module-4/liberal-radical) |
+📈 [Tokens and Mechanism Design](../../module-5)  | [Listening and Stories](../../module-5/listening-stories) | [Incentives](../../module-5/incentives) |
+⚖️  [Scaling Principled Games](../../module-6)     | [Learn How To Learn](../../module-6/learn) | [Censorship Resistance](../../module-6/censorship-resistance) |
+🎁 [The Gift](../../module-7)                     | [Giving](../../module-7/giving) | [Scale-ability](../../module-7/scale-ability) |
 
 ## Internal Setup
 
