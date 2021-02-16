@@ -15,6 +15,10 @@ body, input {
   justify-items: center;
 }
 
+.blog-link {
+  color: #79F1B5;
+}
+
 .section {
   height: 100vh;
 }
