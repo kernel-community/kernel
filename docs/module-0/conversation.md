@@ -42,6 +42,8 @@ How comfortable are you with silence? Is this actually not the measure of compan
 
 > "Modern conversation doesn't give space for the words to settle in the listener \[...\] I have a lot of respect for people who think as they speak, and who pause to think and to attach **the meaning that matters**."
 
+### The Thirst For Truth
+
 How can you cultivate the space within yourself required to listen well? What does it really mean to attach conscious meaning to the words you say or write? How is this amplified when those words are executable code?
 
 > "One's speaking must be shaped by the quality of the listener. So, when you're listening to me I am compelled to speak more sense. I am compelled to speak more truth. In a lot of modern conversations, no-one is listening, so no-one cares what they say [...] The quality of listening informs the quality of speaking."
