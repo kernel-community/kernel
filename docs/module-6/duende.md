@@ -28,7 +28,7 @@ However, we know by now that we cannot have serenity without its complement; it 
 **The Same State of Being**
 
 <div markdown="2" class="tool-image">
-![Liesel Mueller](./img/liesel_mueller.jpg)
+<a href="https://www.poetryfoundation.org/poems/52577/monet-refuses-the-operation-56d231289e6db" target="_blank"><img alt="Liesel Mueller" src="../img/liesel_mueller.jpg" /></a>
 </div>
 
 <div markdown="3" class="tool-link">
@@ -93,7 +93,7 @@ are to drink from;
 the bad thing  
 is to not know what thirst is for.
 
-We start with what we can learn, test and know: glasses may be used for drinking. This familiar kind of conceptual knowledge comes first, capturing attention and anchoring us firmly in one world and way of looking. Then there is a movement into _something else_. The lens through which we look suddenly becomes apparent, and the waking mind catches a glimpse of an unsuspected reality, far outside its normal boundaries and perceptions. It sees that [thirst is to take you to opposite](../../module-0/conversation/#the-thirst-for-truth) so that they may both dissolve in the pure and luminous fact of water.
+We start with what we can learn, test and know: glasses may be used for drinking. This familiar kind of conceptual knowledge comes first, capturing attention and anchoring us firmly in one world and way of looking. Then there is a movement into _something else_. The lens through which we look suddenly becomes apparent, and the waking mind catches a glimpse of an unsuspected reality, far outside its normal boundaries and perceptions. It sees that [thirst is to take you to its opposite](../../module-0/conversation/#the-thirst-for-truth) so that they may both dissolve in the pure and luminous fact of water.
 
 Tracy concludes by saying, "It’s a struggle, literally, not to disappear [...] The _duende_ stirs as a way of saying: you will only stay whole by moving — day after day, note after note, poem after poem — from one world to the next.
 
