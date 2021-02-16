@@ -1,6 +1,6 @@
 ---
 title: Duende and Deep Song
-description: Serene principles must exist in balance. They too have their complementary opposite - in this case, the duende; the mystery, the roots fastened in the mire that we all know and all ignore.
+description: Serene principles must exist in balance. They too have their complementary opposite - in this case, duende; the mystery, the roots fastened in the mire that we all know and all ignore.
 ---
 
 # 🐉 Duende and Deep Song
@@ -72,7 +72,7 @@ Let's be honest then; what we're working for is a miracle. Many of us harbour th
 
 ### Deep Song
 
-Lorca’s main point of reference in elaborating his concept of _duende_ was the Gypsy tradition of the "Deep Song," a predecessor to Flamenco. And Tracy Smith writes:
+<a href="https://www.youtube.com/watch?v=gtTpIj2xRcM" target="_blank" rel="noopener noreferrer">Lorca’s main point</a> of reference in elaborating his concept of _duende_ was the Gypsy tradition of the "Deep Song," a predecessor to Flamenco. And Tracy Smith writes:
 
 > You’ll get your miracle, but only if you can decipher the music of the battle, only if you’re willing to take risk after risk. Only, in other words, if you survive the effort. For a poet, this kind of survival is tantamount to walking, <a href="https://living.thebluebook.co.za/love/promised_matter.html" target="_blank" rel="noopener noreferrer">word by word, onto a ledge of your own making</a>. You must use the tools you brought with you, but in decidedly different and dangerous ways.
 
@@ -106,3 +106,5 @@ if only you could see
 how heaven pulls earth into its arms  
 and how infinitely the heart expands  
 to claim this world, blue vapor without end.  
+
+<i>H/T <a href="" tagret="_blank" rel="noopener noreferrer">JJ van de Vyver</a> for reminding me of this magic word.</a></i>
