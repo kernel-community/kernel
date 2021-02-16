@@ -101,7 +101,7 @@ Practically speaking, the search for the perfect language has yielded some truly
 
 ### Many Worlds
 
-<div markdown="1" class="card half sidebar center gemoji center-content center">
+<div markdown="1" class="card half sidebar gemoji">
 
 **Pay Attention**
 
@@ -111,6 +111,20 @@ Practically speaking, the search for the perfect language has yielded some truly
 
 <div markdown="3" class="curated-link">
 <a href="http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_thesummerday.html" target="_blank">Pray</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card half sidebar gemoji">
+
+**The Perfection of Wisdom**
+
+<div markdown="2">
+<a href="https://www.youtube.com/watch?v=FZ0w4B80uZA" target="_blank" rel="noopener noreferrer"><img alt="Form is Emptiness, Emptiness Form" src="../img/heart_sutra.jpg" style="width: 68%; margin: 0 15%" /></a>
+</div>
+
+<div markdown="3" class="curated-link">
+<a href="https://www.sacred-texts.com/bud/tib/hrt.htm" target="_blank">To Empty Form</a>
 </div>
 
 </div>

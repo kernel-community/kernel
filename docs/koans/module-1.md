@@ -2,7 +2,7 @@
 title: There Will Be Buds
 ---
 
-# There Will Be Buds (Unsolved)
+# There Will Be Buds (Solved)
 
 > "For how many aeons have secret blossoms been budding and falling?"
 

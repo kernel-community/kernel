@@ -403,14 +403,22 @@ img[align="right"]{ padding-left:10px }
     padding: 5px;
     text-align: center;
 }
-.curated-link p:hover, .tool-link p:hover {
+.apply-link p {
+  background:#fff;
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid #E5BB98;
+    padding: 5px;
+    text-align: center;
+}
+.curated-link p:hover, .tool-link p:hover, .apply-link p:hover {
   background: #74C9AC;
 }
-.curated-link a, .tool-link a {
+.curated-link a, .tool-link a, .apply-link a {
   color: #212145;
   font-weight: bold;
 }
-.curated-link a:hover, .tool-link a:hover {
+.curated-link a:hover, .tool-link a:hover, .apply-link a:hover {
   color:#212145;
 }
 .video-frame {
