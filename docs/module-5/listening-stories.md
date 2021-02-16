@@ -23,7 +23,7 @@ When you're ready to listen, walk in here and leave your opinions at the door. D
 
 Listening is the thread that ties together [this whole way of thought](../../module-0/play-of-pattern/). It is premised on [trust](../../module-0/trust/), and is at the heart of how we arrive at shared truths from which we generate [value](../../module-1/value/). We listen to one another's fictions, consider all the possible futures each one implies, pick one, and then pull the present forward to meet it. 
 
-[Valuable speech](../../module-2/money-speech/) is not possible without those who listen to and accept it. Who we listen to and how we listen informs deeply the incentive structures in our society. Building censorship resistant tools allows us to ensure that anybody can potentially be listened to, especially if we can more objectively measure the value of what they're saying. 
+[Valuable speech](../../module-2/money-speech/) is not possible without those who listen to and accept it. Who we listen to and how we listen informs deeply the incentive structures in our society. Building censorship resistant tools allows us to ensure that anybody can potentially be listened to, especially if we express more holistically the value of what they're saying. 
 
 Listening deeply is how we develop the [art](../../module-4/art/) of attention, which leads to [asking better questions](../../module-2/better-questions/). Being available for, and present with, others is how we start to learn how to listen to our own heart and [see more clearly the intentions](../../module-3/intention/) behind each of our actions in every single moment.
 
