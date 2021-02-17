@@ -94,8 +94,9 @@ nav:
   - Home: index.md
   - Start:
     - What Is KERNEL?: start/getting-started.md
-    - How To Use This Website: start/how-to-use.md
+    - Guide: start/how-to-use.md
     - Structure: start/structure.md
+    - FAQ: start/faq.md
   - Learn:
     - Module 0:
       - Intro to KERNEL: module-0/index.md

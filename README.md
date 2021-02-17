@@ -27,7 +27,7 @@ The glue which binds all the tracks together is the **people** in each cohort. B
 7. Resist censorship economically.
 8. Scale ability.
 
-### ⚙️ Personal Principles
+### 🌈 Personal Principles
 
 1. Play with pattern.
 2. Develop the means to mean.

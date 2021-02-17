@@ -23,7 +23,7 @@ _H/T Matt Solomon. Check out <a href="https://medium.com/coinmonks/ethereum-secu
 
 <div markdown="1" class="card third sidebar gemoji tool tool">
 
-**Detecting Not So SMart Contracts**
+**Detecting Not So Smart Contracts**
 
 <div markdown="2" class="tool-image">
 ![Trail of Bits](/assets/images/cryic.png)
@@ -151,7 +151,7 @@ _H/T val_
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool sm-height">
 
 **Rekt**
 
