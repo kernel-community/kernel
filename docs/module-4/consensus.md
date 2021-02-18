@@ -118,7 +118,7 @@ EIP-1559 points at something deeper, which is also the reason that the previous 
 
 If the ways in which we signal preference leads to an economic consensus that is strong enough to fund a given project, then we should not build governance systems that stand in the way. It sounds great to "address all technical objections" but - in practice - there are often so many variables at play that doing so in a truly neutral manner is impossible. Cost, however, is a single variable we can all reason about to at least a first approximation.
 
-Rough consensus is just "exception processing" for people. When your running code already establishes economic consensus, you can leverage this to fund multiple different working groups with multiple approaches, removing the need to handle exceptions at the initial stage because you know it will be decided by actual use later on.
+Rough consensus is just "exception processing" for people. When your running code already establishes economic consensus, you can leverage this to fund multiple different working groups with multiple approaches, removing the need to handle exceptions at the initial stage because you know it will be decided by actual use later on. This is not to say you don't <a href="https://www.patreon.com/posts/online-community-47388851" target="_blank" rel="noopener noreferrer">need principles</a>, just that you should think about ways by which you can encode those principles as economic incentives.
 
 > "In other words, true north in software is often the direction that combines ambiguity and evidence of fertility in the most alluring way: the direction of maximal interestingness."
 

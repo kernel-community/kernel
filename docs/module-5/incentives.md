@@ -27,7 +27,7 @@ Used well, Jupyter notebooks become environments for transformative thought. The
 
 ## Programming crowds
 
-You must think computationally about the economic games your contracts incentivize. Ironically, the best place to go looking for clear thinking and research in this domain is neither economics, nor psychology. It is computer game design.
+You must <a href="https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca" target="_blank" rel="noopener noreferrer">think like an engineer</a> about the <a href="https://www.youtube.com/channel/UC-o87lCF9HaEuj0R-3VT1yg" target="_blank" rel="noopener noreferrer">economic games</a> your contracts incentivize. Ironically, the best place to go looking for clear thinking and research in this domain is neither economics, nor psychology. It is computer game design.
 
 The reason for this is that contractual economic code on a shared, public ledger actually programs crowd behaviour. Don't get too excited by this, for with great power comes great responsibility - which is why the thinking patterns we outlined at the start of these modules have fundamentally to do with **[humility](../../module-3/humility/)**. You cannot, as an individual, know what the second and third order effects of such code will be. But you can be deeply aware that such effects exist, and you can use your awareness to inform the intention with which you write and deploy contracts.
 
