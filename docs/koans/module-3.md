@@ -2,7 +2,7 @@
 title: Meaning Full Truth
 ---
 
-# Meaning Full Truth
+# Meaning Full Truth (Solved)
 
 _nothing which we are to perceive in this world equals_  
 _the power of your intense fragility:whose texture_  
