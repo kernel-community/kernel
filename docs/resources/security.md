@@ -3,7 +3,7 @@ title: Security Best Practices
 description: A highly curated collection of the best smart contract security tools currently available.
 ---
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **Trail of Bits Toolbox**
 
@@ -21,7 +21,23 @@ _H/T Matt Solomon. Check out <a href="https://medium.com/coinmonks/ethereum-secu
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
+
+**Secureum Checklist**
+
+<div markdown="2" class="tool-image">
+![Secureum](/assets/images/secureum.jpg)
+</div>
+
+A clear and concise checklist any serious devevloper or audit _needs_ for their work. Written by our own Rajeev Gopalakrishna.
+
+<div markdown="3" class="tool-link">
+<a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">Check</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **Detecting Not So Smart Contracts**
 
@@ -37,7 +53,7 @@ Two useful repos for understanding the vulnerable patterns used by not-so-smart 
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **MythX**
 
@@ -53,7 +69,7 @@ Another useful Consensys tool that's easy to integrate with frameworks like Truf
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **Mutation Testing**
 
@@ -69,7 +85,7 @@ An introduction to mutation testing from Security Track mentor Joran Honig. You 
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **Smashing Smart Contracts for Fun and Profit**
 
@@ -85,7 +101,7 @@ The original paper by Bernhard on profitting from fun and the security anlysis t
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **VS Code Solidity Auditor**
 
@@ -101,7 +117,7 @@ A convenient and useful VS Code plugin to audit your smart contracts as you work
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **samczsun**
 
@@ -117,7 +133,7 @@ The best blog to see how not to write smart contracts and learn about all the di
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool">
 
 **BlockThreat**
 
@@ -133,7 +149,7 @@ The latest in blockchain and cryptocurrency threat intelligence, vulnerabilities
 
 </div>
 
-<div markdown="1" class="card third sidebar gemoji tool tool">
+<div markdown="1" class="card third sidebar gemoji tool sm-height">
 
 **SecBit Token Libs**
 
@@ -141,7 +157,7 @@ The latest in blockchain and cryptocurrency threat intelligence, vulnerabilities
 ![SecBit](/assets/images/sec-bit.png)
 </div>
 
-A really useful set of token libraries, with proofs!
+A useful set of token libraries, with proofs!
 
 _H/T val_
 
