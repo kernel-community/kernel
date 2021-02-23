@@ -16,7 +16,7 @@ description: A summary of the Project Horseshoe economic paper on building expli
 </div>
 
 <div markdown="3" class="curated-link">
-<a href="https://lostgarden.home.blog/" target="_blank">Read it</a>
+<a href="https://lostgarden.home.blog/2020/01/11/prosocial-economics-for-game-design-%ef%bb%bf/" target="_blank">Read it</a>
 </div>
 
 </div>

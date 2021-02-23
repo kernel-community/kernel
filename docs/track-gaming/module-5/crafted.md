@@ -42,16 +42,16 @@ For this week, we'll use the 5 Domains of Play framework to try and identify who
 
 <img src="../img/5domains.jpg" class="center-img" alt="5 Domains" />
 
-The above image is an example game with bars marking where it falls in each domain. What does our game's 5 Domains of Play profile look like? Create a similar one for our own game and move the bars around accordingly.
+The above image is an example game with bars marking where it falls in each domain. What does your game's 5 Domains of Play profile look like? Create a similar one for your own game and move the bars around accordingly.
 
-Once we've created our 5 Domains of Play profile, we can then use it to help us know more about our users. Based on our games' profile, Is there an archetype player for our game? 
+Once we've created our 5 Domains of Play profile, we can then use it to help us know more about our users. Based on your games' profile, is there an archetypal player for our game? 
 
-The diagram below shows the imaginary archetypes that fall under each domain. Which ones of these are the types of players that we cater to? Perhaps we can also identify not just archetypes but actual users that we can look at as references.
+The diagram below shows the archetypes that fall within each domain. Which ones of these are the types of players that we cater to? Perhaps we can also identify not just archetypes but actual users that we can look at as references.
 
 <img src="../img/archetype.jpg" class="center-img" alt="Archetypes" />
 
 Hopefully the breakout activity will help us see if our game currently has product market fit and inform our strategies for discoverability.
 
-If there doesn't seem to be a good fit, we can try and see which parts of the app we can adjust to better satisfy our selected player archetype's needs. Alternatively, we can also retarget our game to a different archetype if we realize that there's a more appropriate audience.
+If there doesn't seem to be a good fit, we can try and see which parts of the app we can adjust to better satisfy our selected players archetypal needs. Alternatively, we can also retarget our game to a different archetype if we realize that there's a more appropriate audience.
 
 A good follow-up to this exercise is to rewatch [Engines of Play](../module-0/crafted.md#engines-of-play), and see how Jason's framework has changed since his Domains of Play talk.
