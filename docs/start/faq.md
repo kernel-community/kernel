@@ -8,21 +8,21 @@ title: Frequently Asked Questions
 
 **Does it take up a whole lot of time & can I combine it with a full or part time job?**
 
-You can absolutely combine KERNEL with full time work. It is meant to complement the many exciting and engaging projects already happening all over the world. We have designed the course such that it will take as little or as much of your time as you are willing to give. 
+You can absolutely combine Kernel with full time work. It is meant to complement the many exciting and engaging projects already happening all over the world. We have designed the course such that it will take as little or as much of your time as you are willing to give. 
 
 Each week only contains two **Crafted Readings**, which will take you no longer than 10 minutes to read in total. This is the only requirement for participation. Each Thursday, we host a Fireside talk with an industry expert, which generally takes another 1h30 of your time and each track has a weekly call with their own focus, which is also around 1hr or 1h30 long. In total, this comes to around 3h30 per week.
 
 Then, there are three or four **Curated Materials**, which are summaries of talks, podcasts, or longer essays from various parts of the intarwebz. Reading these briefs should take around an hour in total (could be more or less depending on how you read and whether English is your first language). This is the next level of possible engagement, which will lead you to ask better questions in Slack and on the weekly track-specific and Fireside calls.
 
-If you watch the embedded videos, listen to the podcasts, and read the full essays, this can take up to 3-6 hours, depending on the module. This is not expected, but it will help you gain a full perspective. It will help you host your own _juntos_ (conversations for mutual improvement which anyone in KERNEL can host at any time on any topic they like) and lead discussions in Slack.
+If you watch the embedded videos, listen to the podcasts, and read the full essays, this can take up to 3-6 hours, depending on the module. This is not expected, but it will help you gain a full perspective. It will help you host your own _juntos_ (conversations for mutual improvement which anyone in Kernel can host at any time on any topic they like) and lead discussions in Slack.
 
-Essentially, we have tried to make sure that those who have full time jobs need not spend more than a few hours a week in order to participate in and benefit from the course, while those with more time can use KERNEL as if it were a full time job. It's up to you and the context you're currently in to decide where you fit best.
+Essentially, we have tried to make sure that those who have full time jobs need not spend more than a few hours a week in order to participate in and benefit from the course, while those with more time can use Kernel as if it were a full time job. It's up to you and the context you're currently in to decide where you fit best.
 
 ### Experience
 
 **I have no experience in crypto but I really want to learn, I don't even have a Gitcoin account. Should I even bother?**
 
-Yes! Absolutely. The split between **Crafted Readings** and **Curated Materials** is not just to cater for the variety of time commitments different people in KERNEL have made, but also to make sure that those who have no experience in Web 3 can find interesting and novel ways to understand this new way of relating and transacting on the web, while those with more experience can find perspectives and insights they may not have come across elsewhere in their own work. 
+Yes! Absolutely. The split between **Crafted Readings** and **Curated Materials** is not just to cater for the variety of time commitments different people in Kernel have made, but also to make sure that those who have no experience in Web 3 can find interesting and novel ways to understand this new way of relating and transacting on the web, while those with more experience can find perspectives and insights they may not have come across elsewhere in their own work. 
 
 **I'm not technical or a dev, will I be able to follow?**
 
@@ -36,11 +36,11 @@ We also provide a range of specifically-curated [resources](../../resources) we 
 
 **What's the cost?**
 
-It is free to apply, and $400 (~$1200 for teams) to join the Fellowship for accepted those to KERNEL.
+It is free to apply, and $400 (~$1200 for teams) to join the Fellowship for accepted those to Kernel.
 
 **Are their reductions in fees possible for students or minority groups?**
 
-<a href="https://gitcoin.co/blog/t-kernel-scholarship/" target="_blank" rel="noopener noreferrer">KERNEL scholarships</a> are available for students and underrepresented communities.
+<a href="https://gitcoin.co/blog/t-kernel-scholarship/" target="_blank" rel="noopener noreferrer">Kernel scholarships</a> are available for students and underrepresented communities.
 
 ### Contact
 

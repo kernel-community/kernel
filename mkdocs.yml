@@ -1,5 +1,5 @@
 # Project information
-site_name: KERNEL
+site_name: Kernel
 site_url: https://kernel.community
 site_author: Andy Tudhope
 site_description: Learn how to take part in building a better web
@@ -93,13 +93,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Start:
-    - What Is KERNEL?: start/getting-started.md
+    - What Is Kernel?: start/getting-started.md
     - Guide: start/how-to-use.md
     - Structure: start/structure.md
     - FAQ: start/faq.md
   - Learn:
     - Module 0:
-      - Intro to KERNEL: module-0/index.md
+      - Intro to Kernel: module-0/index.md
       - Crafted Reading:
         - The Play of Pattern: module-0/play-of-pattern.md
         - Trust: module-0/trust.md

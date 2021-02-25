@@ -1,6 +1,7 @@
 ---
 title: Scale-ability
 description: We now have the opportunity to build digital economic spaces which are not owned by anyone; in the same way that no-one owns the meaning of words. What will you use this technology to say?
+image: /assets/shares/scale-ability.png
 ---
 
 # 🏊 Scale-ability

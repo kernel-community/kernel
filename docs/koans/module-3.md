@@ -1,5 +1,6 @@
 ---
 title: Meaning Full Truth
+image: /assets/images/candid_syzygy.png
 ---
 
 # Meaning Full Truth (Solved)

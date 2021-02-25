@@ -1,6 +1,7 @@
 ---
 title: Value
 description: What is value? This is, in a sense, the ultimate question. It seems like trust in clearly shared truths lies at its core, so how might we generate more valuable interactions between people?
+image: /assets/shares/value.png
 ---
 
 # 💯 Value

@@ -1,9 +1,10 @@
 ---
 title: New Old Dialogues
 description: Building horizontal conversations, indigenous to a better web.
+image: /assets/shares/giving.png
 ---
 
-KERNEL emphasises honest, open, and [sincere conversation](../../module-0/conversation) between peers. It is only through ongoing, care-full dialogue with a great diversity of people that we can nurture the kind of ecosystem which might be described as a "[better web](../../module-3)". Whatever your own goals, know that there is nothing more [valuable](../../module-1/value) in this world than True Voice.
+Kernel emphasises honest, open, and [sincere conversation](../../module-0/conversation) between peers. It is only through ongoing, care-full dialogue with a great diversity of people that we can nurture the kind of ecosystem which might be described as a "[better web](../../module-3)". Whatever your own goals, know that there is nothing more [valuable](../../module-1/value) in this world than True Voice.
 
 > The gunfire around us makes it hard to hear. But the human voice is different from other sounds. It can be heard over noises that bury everything else. Even when it's not shouting. Even when it's just a whisper. Even the lowest whisper can be heard over armies... when it's telling the truth. 
 
@@ -76,7 +77,7 @@ Which makes quantifying the value of goods less relevant than the mechanism by w
 
 > Dialogue can be considered as a free flow of meaning between people in communication, in the sense of a stream that flows between banks.
 
-Establishing the shared patterns of a peaceful mind is a **critical** aspect of KERNEL. Though we cannot easily quantify it, indigenous protocols for honest, clear, and open dialogue are about _restoring our social consciousness_, which is the only way to bring about reliable peace between the diverse branches of the human family. This is not a new idea, and is [hinted at across the syllabus](../../module-0/conversation/#old-gifts-anew). David Bohm (a English theoretical physicist) and Juddu Krishnamurti (an Indian sage) also understood the importance of honest dialogue between diverse participants. The stakes are nothing less than the reconstituion of a **common coherent consciousness**, which is the only kind of mind capable of using a shared, ownerless, global state and history for the benefit of all who participate therein.
+Establishing the shared patterns of a peaceful mind is a **critical** aspect of Kernel. Though we cannot easily quantify it, indigenous protocols for honest, clear, and open dialogue are about _restoring our social consciousness_, which is the only way to bring about reliable peace between the diverse branches of the human family. This is not a new idea, and is [hinted at across the syllabus](../../module-0/conversation/#old-gifts-anew). David Bohm (a English theoretical physicist) and Juddu Krishnamurti (an Indian sage) also understood the importance of honest dialogue between diverse participants. The stakes are nothing less than the reconstituion of a **common coherent consciousness**, which is the only kind of mind capable of using a shared, ownerless, global state and history for the benefit of all who participate therein.
 
 > The spirit of dialogue is, in short, the ability to hold many points of view in suspension, along with a primary interest in the creation of a common meaning.
 

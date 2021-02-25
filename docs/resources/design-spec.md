@@ -1,6 +1,7 @@
 ---
 title: Design & Spec
 description: A highly curated list of design and specification tools recommended by our community.
+image: /assets/shares/listening-stories.png
 ---
 
 # Design and Specification Tools

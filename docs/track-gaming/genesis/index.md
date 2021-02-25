@@ -2,14 +2,14 @@
 template: overrides/main.html
 ---
 
-# The KERNEL Gaming Track
+# The Kernel Gaming Track
 
 ## 💡 Week 0 - Brainstorm
 
 ![Week 0 Syllabus](/assets/images/gaming/week-0-syllabus-brianstorm.png)
 
 
-In Week 0 of the **KERNEL Genesis Block**, the participants of the Gaming Guild started mapping out topics that we'll both learn and build on during the 8 week program. This is a draft syllabus based on the brainstorm. 
+In Week 0 of the **Kernel Genesis Block**, the participants of the Gaming Guild started mapping out topics that we'll both learn and build on during the 8 week program. This is a draft syllabus based on the brainstorm. 
 
 We envision this being a participatory community where different guild members sign up to learn about and then present on topics that interest them. Below is the format of what you need to do when you sign up for a topic:
 

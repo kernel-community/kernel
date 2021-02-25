@@ -1,6 +1,7 @@
 ---
 title: Trust
-description:
+description: The meanings of words are arrived at without trusting intemediaries. Blockchains instantiate this same phenomenon for any programmable transaction. We all know what 'love' signifies, but it takes real relationship to experience its deeper meaning. Exploring these kind of new 'trust spaces' is what Kernel is all about.
+image: /assets/shares/trust.png
 ---
 
 # ✍️ Trust
@@ -79,7 +80,7 @@ about game theory. Enjoy!
 
 ---
 
-*We aim for KERNEL to be a high trust, give first community among highly talented, like-minded peers. Some of the key learnings from the game define how we think about the program, as well as the Web 3 space more generally.*
+*We aim for Kernel to be a high trust, give first community among highly talented, like-minded peers. Some of the key learnings from the game define how we think about the program, as well as the Web 3 space more generally.*
 
 ![Trust 1](./img/trust1.png)
 

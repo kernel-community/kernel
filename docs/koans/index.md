@@ -1,7 +1,7 @@
 ---
 title: Kernel Koans
 description: Seemingly simple questions which make no sense and so short-circuit our map-making habit in the hope we may arrive at a fuller experience of reality. If you can find your way through the universal library in which they live, you will become the steward of some rare and highly prized NFTs.
-image:
+image: /assets/images/i_ching_genetic_code.jpeg
 ---
 
 _Boundless wind and moon--the eye within eyes,_   

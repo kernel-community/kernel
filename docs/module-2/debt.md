@@ -1,6 +1,7 @@
 ---
 title: Debt - the first 5000 years
-description:
+description: David Graeber describes the history of debt and provides a more accurate anthropological perspective of the intersection of morality and money.
+image: /assets/shares/giving.png
 ---
 
 # 🕋 Debt
@@ -14,7 +15,7 @@ This is a long video, but it has been selected nonetheless for two important rea
 
 We'll provide you with a highly summarized version of the talk below, but recommend that you set aside some time and watch it in full.
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 We're trying to provide as broad a perspective as possible on money, speech, value and trust: the core ideas which lie at the heart of building global, borderless, ownerless and decentralized products, services and protocols. 
 

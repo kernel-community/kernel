@@ -1,6 +1,7 @@
 ---
 title: Understanding Ethereum
 description: A short summary of one of Vitalik Buterin's first public talks on Ethereum, taken from DevCon 1 in London.
+image: /assets/shares/giving.png
 ---
 
 # 💡 The idea

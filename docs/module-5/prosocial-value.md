@@ -1,6 +1,7 @@
 ---
 title: Prosocial Value
 description: A summary of the Project Horseshoe economic paper on building explicitly prosocial values into our games and societal mechanisms.
+image: /assets/shares/giving.png
 ---
 
 # 👨‍👩‍👧‍👦 Prosocial Value
@@ -23,7 +24,7 @@ description: A summary of the Project Horseshoe economic paper on building expli
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 The incentives which support power are primarily based on narratives and we can influence these structures by establishing common knowledge and playing the players. We know we can program incentive structures at the kinds of scale required to influence the behaviour of large groups of humans; we know how to design these such that they reveal valuable truths with very little contrivance. Now the question is: how can we best research, understand and model the kinds of behaviour which will lead to sustainable societies? What happens when the common knowledge we establish is fundamentally prosocial?
 

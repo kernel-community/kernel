@@ -1,6 +1,7 @@
 ---
 title: Duende and Deep Song
 description: Serene principles must exist in balance. They too have their complementary opposite - in this case, duende; the mystery, the roots fastened in the mire that we all know and all ignore.
+image: /assets/shares/giving.png
 ---
 
 # 🐉 Duende and Deep Song
@@ -39,7 +40,7 @@ However, we know by now that we cannot have serenity without its complement; it 
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 This is about the **value** of struggle. About what it can mean to suffer blindness and see it as the ultimate **gift**. It will take us back into the thirst Paul Myburgh first mentioned, and explore the price which must be paid to realise a dream, a price which can only be paid in "the coin of another realm". It is about the connection between principles and suffering and that old quote: **the price of freedom is eternal vigilance**. In it's original form:
 

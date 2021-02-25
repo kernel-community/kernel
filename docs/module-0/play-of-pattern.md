@@ -1,11 +1,12 @@
 ---
 title: The Play of Pattern
-description:
+description: This describes how we think in Kernel. See both ends of the spectrum and the infinite possibilities between; be humbled by your inability to know; learn how to make trade-offs consciously.
+image: /assets/shares/play-of-pattern.png
 ---
 
 # 🌈 The play of pattern
 
->None of the KERNEL Core Learning Objectives have concrete answers. 
+>None of the Kernel Core Learning Objectives have concrete answers. 
 
 >This is because there are no simple, one-size-fits-all answers to the questions we're interested in learning about and teaching. That is what makes them good questions.
 
@@ -13,17 +14,17 @@ description:
 
 ![Banner](/assets/images/banner.jpg)
 
-KERNEL Fellows will separate themselves by their ability to **identify patterns**. 
+Kernel Fellows will separate themselves by their ability to **identify patterns**. 
 
 Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist, as well as how you choose to interact with those in your local environment, is the single best thing you can do to improve your critical thinking skills.
 
-In particular, we hope KERNEL Fellows begin thinking in terms of **complementary opposites.**  
+In particular, we hope Kernel Fellows begin thinking in terms of **complementary opposites.**  
 
 Rather than using dualities like 'decentralization good, centralization bad'; or 'DeFi is innovative, fiat is boring', this style of thinking recognizes that there is no good without evil; no attraction without repulsion, no North with South, no up without down. 
 
 We could describe this as "quantum thought" - being able to contemplate **both** 0 and 1 simultaneously, **and** the spectrum of probability between. If you can hold this all in a superposition without any grasping after certainty, you can process significantly more information per qubit, and so make more effective decisions, because the lack of certainty humbles you. 
 
-KERNEL Fellows **should have humility.** We cannot be sure what the effect of our actions will be, we can only cultivate an acute observational awareness which will guide us toward making the right *trade-offs*. 
+Kernel Fellows **should have humility.** We cannot be sure what the effect of our actions will be, we can only cultivate an acute observational awareness which will guide us toward making the right *trade-offs*. 
 
 If you want to change the world, the world will inevitably act back and change you. The results of Web 2 applications have made this clear. The greater our collective humility, the more gentle this exchange will be as Web 3 comes to life.
 

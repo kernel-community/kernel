@@ -2,4 +2,4 @@
 template: overrides/main.html
 ---
 
-# KERNEL Security Track
+# Kernel Security Track

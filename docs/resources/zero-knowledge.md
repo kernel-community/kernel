@@ -1,6 +1,7 @@
 ---
 title: Zero Knowledge Tools & Resources
 description: A highly curated selection of the best zkSNARK tools and explainers. 
+image: /assets/shares/better-questions.png
 ---
 
 # Zero-knowledge

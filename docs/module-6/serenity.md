@@ -1,6 +1,7 @@
 ---
 title: Serenity
 description: A summary of the Ethereum 2.0 Design Rationale as ideological heir to the cypherpunk spirit of defender's advantage and a discussion of why Proof of Stake eliminates various critical conflicts of interests, allowing us to build and maintain a planetary-scale incentive machine anyone can use and no-one owns.
+image: /assets/shares/giving.png
 ---
 
 # 🦋 Serenity
@@ -23,9 +24,9 @@ You've finally reached the tranquil waters of Eth2 - congratulations! Like the n
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
-In a way, this is what KERNEL has been preparing you for: what Vinay Gupta called ["unimaginable strangeness"](../../module-1/promise-blockchains/#the-2010s-satoshis-vision), wherein we deploy a global, public, decentralized and censorship-resistant computing surface which anyone can use and no-one owns. 
+In a way, this is what Kernel has been preparing you for: what Vinay Gupta called ["unimaginable strangeness"](../../module-1/promise-blockchains/#the-2010s-satoshis-vision), wherein we deploy a global, public, decentralized and censorship-resistant computing surface which anyone can use and no-one owns. 
 
 What this [*means*](../../module-1/meaning/) for our networked species remains an open [question](../../module-2/better-questions/). One thing seems clear: it is an upgrade the likes of which is only seen once in a generation at most. You'll need to recall the arguments made in [value](../../module-1/value/) and [incentives](../../module-5/incentives) to understand the design rationale for these next few scenes of the [human](../../module-0/conversation/) [story](../../module-5/listening-stories/).
 
@@ -35,7 +36,7 @@ In particular, [we claimed that](../../module-2/money-speech/#regulation-vs-expe
 
 ### Principled Layers
 
-Just as [we did for KERNEL](../../getting-started/#kernel-principles), Vitalik begins Eth2's design rational with a series of core principles:
+Just as [we did for Kernel](../../getting-started/#kernel-principles), Vitalik begins Eth2's design rational with a series of core principles:
 
 - **Simplicity**: given the inherent complexity of such networks, this (i) minimizes development costs, (ii) reduces the risk of unforeseen security issues, and (iii) helps protocol designers to more easily convince users that parameter choices are legitimate. When complexity is unavoidable to achieve a given level of functionality, the preference order for where the complexity goes is: layer 2 protocols → client implementations → protocol spec.
 - **Long-term stability**: the low levels of the protocol should ideally be built so that there is no need to change them for a decade or longer.

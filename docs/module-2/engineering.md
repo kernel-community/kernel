@@ -1,6 +1,7 @@
 ---
 title: Engineering Money
-description:
+description: Andreas Antonopolous describes the three features of money - store of value, unit of account, medium of exchange - making the point that we have moved from having to compromise based on what we find in the world around to an ability to engineer the medium itself to meet our preconceived needs, such as a universal ledger of transactions and who can guess what else.
+image: /assets/shares/giving.png
 ---
 
 # 💎 Engineering money
@@ -11,9 +12,9 @@ This Andreas Antonopoulos talk goes into more detail about the critical features
 
 We've now covered the collectible story of money, the links it has to reciprocal altruism and the influence this has had on our evolution as a species, and the importance of closed loops of circulation and lowered transaction costs. We've looked at the alternative story of debt, the deep mythic and religious roots money and morality have in our human story, the link between physical currency and violence, and ancient virtual monies and global trade networks. Now it's time to get down to engineering truly beneficial protocols for the creation and distribution of value.
 
-## **How does this fit into KERNEL?**
+## **How does this fit into Kernel?**
 
-This has been chosen for KERNEL, in particular, because it speaks directly to:
+This has been chosen for Kernel, in particular, because it speaks directly to:
 
 1. **Value** and how we can use technology to engineer its creation and distribution.
 2. What **money** as a protocol really means for engineers capable of writing economic code.

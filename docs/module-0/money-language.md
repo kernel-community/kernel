@@ -1,6 +1,7 @@
 ---
 title: Money Talks
-description:
+description: Andreas Antonopolous describes the shift from closed organizations to open platforms to ownerless protocols and describes the historical appearance nad uses of money.
+image: /assets/shares/giving.png
 ---
 
 # 💵 Money Talks
@@ -9,9 +10,9 @@ description:
 
 This slightly older [Andreas Antonopoulos talk](https://www.youtube.com/watch?v=n-EpKQ6xIJs&list=PLPQwGV1aLnTvCuQXCZ3RBvdlCnqstTirl&index=2) is part of a playlist which is enormously valuable for setting the scene in our current study. Andreas was one of the first, and remains perhaps the most famous, presenter of Bitcoin and the ideas which inform it. Many of his talks and presentations have already become cultural artifacts. 
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
-This talk provides an historical context for money and outlines why Bitcoin is important within that context. It has been chosen for KERNEL, in particular, because it speaks directly to:
+This talk provides an historical context for money and outlines why Bitcoin is important within that context. It has been chosen for Kernel, in particular, because it speaks directly to:
 
 1. **Money** and **speech**, and how closely interwoven these two have always been.
 2. **Value** in the broadest and most historical sense, with many pertinent examples provided.
@@ -71,7 +72,7 @@ The bank-customer relationship is an earlier form of the same client-server arch
 
 > "Bitcoin is totally different, because you don't owe anyone anything, nor does anyone owe you anything. It is not a system based on debt. It is a system based on absolute ownership of an abstract token. In Bitcoin, possession is 10/10ths of the law. Bitcoin is a **fundamental transformation** because it changes radically the architecture of money into one where every participant is equal and where a transaction has no state or context other than that required to obey the rules of a network no-one controls. Your money is yours; no-one can censor, sieze, or freeze it. No-one can tell you what to say with your money."
 
-The point about architecture is critical to understanding the deeper intentions of this KERNEL course: we want to teach you how to see the underlying patterns in things so that you can more efficiently process all the information coming at you and pick the most relevant bits, based on a firm grasp of the fundamentals, which will help you transform your knowledge and skills to those required to overhaul the web now that we have protocols for money.
+The point about architecture is critical to understanding the deeper intentions of this Kernel course: we want to teach you how to see the underlying patterns in things so that you can more efficiently process all the information coming at you and pick the most relevant bits, based on a firm grasp of the fundamentals, which will help you transform your knowledge and skills to those required to overhaul the web now that we have protocols for money.
 
 > "Rather than focussing on intrinsic value, we should be thinking about **intrinsic utility**. Bitcoin represents a moment of immense intrinsic utility: it is software-as-money, money-as-a-content-type, money-as-a-service. Programmable money provides utility which makes it much more than just money for the internet: **it turns it into the internet of money**.
 

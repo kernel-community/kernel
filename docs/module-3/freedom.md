@@ -1,6 +1,7 @@
 ---
 title: 🦄 Freedom
 description: What is freedom, really? Everybody seems to value it, but few can describe what it actually is in practical terms. Let's change that.
+image: /assets/shares/freedom.png
 ---
 
 # 🦄 Freedom

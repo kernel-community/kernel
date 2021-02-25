@@ -1,6 +1,7 @@
 ---
 title: Asking Better Questions
 description: The quality of questions, much like the quality of listening, is one of the main determinants of the quality of any conversation. Here are some basic steps to asking better questions.
+image: /assets/shares/better-questions.png
 ---
 
 # ⁉️ Asking Better Questions

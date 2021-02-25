@@ -1,6 +1,6 @@
 ---
 template: overrides/home.html
-title: KERNEL
+title: Kernel
 hide:
   - navigation # Hide navigation
   - toc

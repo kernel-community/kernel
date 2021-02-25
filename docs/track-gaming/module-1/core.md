@@ -1,6 +1,7 @@
 ---
 title: Module 1 - Jamming On Value
-description:
+description: The scarcity of virtual goods is just a shared fiction. This foundational change necessitates rethinking our economics. What happens to our well-balanced equations when a variable suddenly disappears? How will market forces adapt when supply is infinite?
+image: /assets/shares/value.png
 ---
 
 # ⚖ Jamming On Value
@@ -28,7 +29,7 @@ Before computer games introduced the concept of virtual goods, this was unheard 
 If there's no cost to produce a good, then *how can it be scarce*?
 
 <div class="lightbulb">
-💡 The scarcity of virtual goods is merely shared fiction.
+💡 The scarcity of virtual goods is just a shared fiction.
 </div>
 
 This foundational change necessitates rethinking our economics. What happens to our well-balanced equations when a variable suddenly disappears? How will market forces adapt when supply is infinite?

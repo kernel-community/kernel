@@ -1,6 +1,6 @@
 ---
 title: Module 2 - Crafted Reading
-description:
+image: /assets/shares/giving.png
 ---
 
 # Crafted Reading - The Business of Games

@@ -1,6 +1,6 @@
 ---
 title: Module 3 - Freedom and Open Source
-description:
+image: /assets/shares/giving.png
 ---
 
 # Curated Material - Freedom and Open Source

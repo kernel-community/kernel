@@ -1,6 +1,6 @@
 ---
 title: Crafted Reading
-description:
+image: /assets/shares/giving.png
 ---
 
 # ⌛ Coming Soon!

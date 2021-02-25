@@ -1,6 +1,7 @@
 ---
 title: Intention
 description: How can you hope to improve the world if you do not know how to improve yourself? We'll take a moment to understand our own motivations before considering what taking back the web really means.
+image: /assets/shares/intention.png
 ---
 
 # 🔍 Intention

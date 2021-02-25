@@ -23,6 +23,11 @@
       {% elif page.canonical_url %}
         <link rel="canonical" href="{{ page.canonical_url }}">
       {% endif %}
+      {% if page and page.meta and page.meta.image %}
+        {% set image = config.site_url ~ page.meta.image %}
+        <meta property="og:image" content="{{ image }}">
+        <meta name="twitter:image" content="{{ image }}">
+      {% endif %}
       {% if page and page.meta and page.meta.author %}
         <meta name="author" content="{{ page.meta.author }}">
       {% elif config.site_author %}

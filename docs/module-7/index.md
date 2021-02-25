@@ -1,6 +1,7 @@
 ---
 title: Module 7 - The Gift
-description: Week 7 of the KERNEL Learn Track, which explores the idea of gift-giving and its relationship to interplanetary-scale principled games played in languages which approach the perfect.
+description: Week 7 of the Kernel Learn Track, which explores the idea of gift-giving and its relationship to interplanetary-scale principled games played in languages which approach the perfect.
+image: /assets/shares/giving.png
 ---
 
 # 🎁 The Gift

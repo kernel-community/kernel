@@ -1,6 +1,7 @@
 ---
 title: Remember
 description: The first part of taking back the web is augmenting our ability to think for ourselves. This brief combines two famous essays - one from 1945, one from 2019 - to explain what this really means.
+image: /assets/shares/giving.png
 ---
 
 # Remember
@@ -45,7 +46,7 @@ To establish our first pillar, we'll mix a Vannevar Bush essay from 1945 and a 2
 
 <div markdown="1" class="clear"></div>
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 We must be clear on what "taking back the web" means. The internet came with grand dreams, though we're mostly stuck with artificial social spaces, overwhelming algorithms, and extractive **incentives** which are mining our attention as a means of propping up a failing economy.
 

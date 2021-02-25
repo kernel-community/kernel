@@ -1,6 +1,7 @@
 ---
 title: Reveal the Universe
 description: A summary of an IndieCade talk given by Jonathan Blow and Marc Ten Bosch about designing computer games to reveal the truth at the core of their universe.
+image: /assets/shares/giving.png
 ---
 
 # 🧩 Revealing the universe
@@ -11,7 +12,7 @@ Andy Matuschak and Michael Nielsen suggested that [transformative tools - especi
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/OGSeLSmOALU?start=91" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### How does the fit into KERNEL?
+### How does the fit into Kernel?
 
 You may be asking what computer games have to do with token design. Though the universe of games is fictional, the whole point of this talk is to demonstrate how the truths you will learn in a valuable game apply in general. So the real question is: what universe do blockchains instantiate?
 

@@ -11,11 +11,11 @@ We have covered the two major stories about the development of money, global tra
 
 The best resource we know, which is able to take both a long, historical perspective, but then ground it in the day-to-day realities of money and banking as they actually work in our era, is this course from Perry Mehrling and the Institute for New Economic Thinking. Some videos initially included in this course are no longer public, but you can find most of the MOOC if you look through the new playlists on the INET youtube channel linked above.
 
-## How this fits into KERNEL
+## How this fits into Kernel
 
 1. You cannot ask better questions unless you understand something deeply. You cannot understand how to disrupt banks and the current financial system unless you know how we got here and what it actually is.
 2. This series grounds value, money, speech, and incentives in very real-world, practical terms. Literally the entire course is aimed at teaching you how to read the Financial Times and translate it into everyday language for your friends.
-3. While not a core learning objective for KERNEL, Mehrling approaches money and banking through the issue of **liquidity**, rather than solvency, and this is particularly relevant for anyone working on DeFi.
+3. While not a core learning objective for Kernel, Mehrling approaches money and banking through the issue of **liquidity**, rather than solvency, and this is particularly relevant for anyone working on DeFi.
 
 ## Brief
 

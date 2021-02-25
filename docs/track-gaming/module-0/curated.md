@@ -1,6 +1,6 @@
 ---
 title: Module 0 - Curated Material
-description:
+image: /assets/shares/giving.png
 ---
 
 # Curated Material - Patterns and Trust

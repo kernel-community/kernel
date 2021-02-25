@@ -1,6 +1,7 @@
 ---
 title: Transform the Internet
 description: We look at some fascinating artwork which could not be done without the internet and discuss what art in our hyperconnected, light-speed world might come to mean.
+image: /assets/shares/giving.png
 ---
 
 # 🖌️ Transform the internet
@@ -9,7 +10,7 @@ This short video essay starts off our curated materials because we need to shift
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/783hwpJTjlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 Art is that which gets us to question value and meaning most deeply. This video - itself a series of artful expressions cut together with digital tools - describes a number of interesting pieces which would not be possible without the internet. It reveals what we can craft with careful intention, attention, and a deep appreciation for the meaning of our media environments.
 

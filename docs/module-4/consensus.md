@@ -1,6 +1,7 @@
 ---
 title: Illegible Consensus
 description: We mix an old IETF governance document about rough consensus and running code with some thoughts on legibility from James Scott and Venkatesh Rao in order to decipher what governance actually means on the internet.
+image: /assets/shares/giving.png
 ---
 
 # Illegible Consensus
@@ -39,7 +40,7 @@ Following on from [last week's essay mixer](../../module-3/remember/), we'll bot
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 *"It is easier to comprehend the whole by walking among the trees and becoming a holographic, fractal part of the forest, than by hovering above it."*
 

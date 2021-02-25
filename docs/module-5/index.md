@@ -1,6 +1,7 @@
 ---
 title: Module 5 - Tokens & Mechanism Design
-description: Week 5 of the KERNEL Learn Track, which explores the vast space of tokens and mechanism design enabled within a digital universe of distributed trust.
+description: Week 5 of the Kernel Learn Track, which explores the vast space of tokens and mechanism design enabled within a digital universe of distributed trust.
+image: /assets/shares/listening-stories.png
 ---
 
 # 📈 Module 5 - Tokens & Mechanism Design

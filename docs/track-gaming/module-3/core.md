@@ -1,6 +1,7 @@
 ---
 title: Module 3 - Freedom and Open Source
-description:
+description: Even though evolution revolves slowly, the cultural aspects of it can only begin if you and I start them. And we are not alone - Web 3 itself is an evolution of a movement that started with the internet, and was carried on by Free and Open Source Software.
+image: /assets/shares/freedom.png
 ---
 
 # 🕊 Freedom and Open Source
@@ -54,7 +55,7 @@ We must always remember that, even though what we're working on doesn't always s
 
 > Humility is the knowledge we don't have that much knowledge. We're all too stupid to completely overhaul a complex political/economic/cultural system. We can't build a world from scratch, so we have to use what's already there. We can't find a silver bullet, so we've got to evolve all the parts simultaneously. We can't let hubris get the better of us, so we should go slow and steady and sustainably.
 
-It all circles back to how KERNEL fellows need to practice humility in the face of these complex systems. Do we know enough? If we were to build our own metaverses, what will stop them from being co-opted by our collective hunger for attention? If we remove governance and moderation in these metaverses, would they not quickly devolve into corrupt societies only focused on revenue?
+It all circles back to how Kernel fellows need to practice humility in the face of these complex systems. Do we know enough? If we were to build our own metaverses, what will stop them from being co-opted by our collective hunger for attention? If we remove governance and moderation in these metaverses, would they not quickly devolve into corrupt societies only focused on revenue?
 
 We need [research studies](../curated/#the-open-metaverse-os) to help us get a clearer view. If we can identify the pieces that make up our systems, we'll be able to more reliably create the outcomes we envision.
 

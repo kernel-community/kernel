@@ -1,6 +1,7 @@
 ---
 title: Who Are You?
 description: We summarize a classic Vinay Gupta essay on identity and the technical problems we'll face over the next 50 years as we try and figure out how to reveal only what we absolutely must in order to relate valuably with others.
+image: /assets/shares/better-questions.png
 ---
 
 # Who are you?
@@ -29,7 +30,7 @@ Almost everything we've discussed so far - [trust](../../module-0/trust/), [valu
 
 <div markdown="1" class="clear"></div>
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 This essay has been chosen because it identifies a critical practice of the internet age: personal identity. In particular, it will help you deepen your own approach to 
 

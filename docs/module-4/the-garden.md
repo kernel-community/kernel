@@ -1,6 +1,7 @@
 ---
 title: Finding lost paradises
 description: Using the writing of Aaron Lewis as a springboard, we suggest the most fertile direction for individuals and the software they create in a world with no more authoritarian routines - memetic gardening.
+image: /assets/shares/govern.png
 ---
 
 # 👩‍🌾 Finding lost paradises
@@ -29,7 +30,7 @@ Whatever will happen next?
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 Aaron Lewis asks a most fascinating set of questions which will hopefully inform your own approach to thinking about the time we live in, and why an intentional approach to what we do and how we interact online really matters:
 

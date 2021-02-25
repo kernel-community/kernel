@@ -1,6 +1,7 @@
 ---
 title: The Art of Conversation
-description:
+description: Paul Myburgh describes how to find what was old community in future form through horizontal conversation, deep listening and a fundamental approach to relationship.
+image: /assets/shares/giving.png
 ---
 
 # 💬 There are no short answers
@@ -9,9 +10,9 @@ description:
 
 This documentary features Paul Myburgh, author of *The Bushmen Winter Has Come*, who spent seven years living with the !Gwi Kalahari Bushmen, exploring ancient conversation and being. 
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
-There are many important takeaways here for the conversations we will be having in KERNEL and beyond. 
+There are many important takeaways here for the conversations we will be having in Kernel and beyond. 
 
 1. **"The quality of listening determines the quality of speaking."**
     - "When people are listening, I'm compelled to speak more truth."

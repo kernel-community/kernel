@@ -1,6 +1,7 @@
 ---
 title: Module 2 - The Business of Games
-description:
+description: If we're looking to disrupt games, we need to know the deep history of play and finance. Much like any attempt to reimagine global financial systems, we need to ask why things are the way they are, and see where we can change them for the better.
+image: /assets/shares/money-speech.png
 ---
 
 # 📊 The Business of Games

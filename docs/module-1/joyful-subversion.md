@@ -1,6 +1,7 @@
 ---
 title: Joyful Subversion
 description: A short summary of May Li Khoe's wonderful presentation on Joyfully Subverting the Status Quo.
+image: /assets/shares/giving.png
 ---
 
 # 😂 Life is a work of art
@@ -9,7 +10,7 @@ description: A short summary of May Li Khoe's wonderful presentation on Joyfully
 
 We've covered the beginnings of Ethereum, the effects it's likely to have on our capitalist society in the long-term, and the deeper history of data integrity into which this all fits, but the big question still remains: what does it actually *mean*? For that, we must turn away from the men and invite the sparkling character of May Li Khoe onto the stage.
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 This wonderful presentation has been selected to deepen your appreciation of where **meaning** might stem from, how we can literally design our own perceptions and experiences of the world to generate more of it and thereby create **value** both for ourselves and the communities of which we are a part.
 

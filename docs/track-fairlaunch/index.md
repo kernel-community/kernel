@@ -2,4 +2,4 @@
 template: overrides/main.html
 ---
 
-# KERNEL Fairlaunch Track
+# Kernel Fairlaunch Track

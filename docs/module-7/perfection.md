@@ -1,6 +1,7 @@
 ---
 title: Perfection
 description: A summary of Gregory Chaitin's seminal essay on Umberto Eco's book The Search for the Perfect Language and how it relates to universal languages for computing and a more universal outlook on the perfections we can find in incompleteness.
+image: /assets/shares/learn.png
 ---
 
 # 🙊 Perfecting Language
@@ -29,7 +30,7 @@ Is it possible to guard effectively against the inertia of language? Clearly, we
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 The sacred is not perfect. The *source* of what we call "sacred" is beyond any label, including "perfect". When we conflate the two, we propagate violent and oppressive ideologies which are convinced of their own correctness or truth. The sacred as we experience it in every day life is undecidable, irreducible, paradoxical.
 

@@ -1,6 +1,7 @@
 ---
 title: Money & Speech
-description:
+description: Freedom of speech is complex. Blockchains simplify it by ensuring anyone is free to speak AND that the cost of meaningful speech is weel defined everywhere AND that harmful speech costs provably more to the speaker than the community of listeneres. It is a profound shift in how we regulate expression.
+image: /assets/shares/money-speech.png
 ---
 
 # 💸 Money and speech

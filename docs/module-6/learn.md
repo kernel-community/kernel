@@ -1,6 +1,7 @@
 ---
 title: Learn How To Learn
 description: If you can learn how to learn, your life will become one beautifully meaningful lesson after another. This is the holy grail.
+image: /assets/shares/learn.png
 ---
 
 # 🎓 Learn how to learn

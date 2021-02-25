@@ -1,6 +1,7 @@
 ---
 title: The Promise of Blockchains
 description: A short summary of a talk given by Vinay Gupta which looks at the history of computer science and how it intersects with capitalism, particular in the context of blockchain technologies which can ensure that data and network coexist completely.
+image: /assets/shares/giving.png
 ---
 
 # 📜 Unrecognizable capitalism

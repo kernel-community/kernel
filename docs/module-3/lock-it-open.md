@@ -1,6 +1,7 @@
 ---
 title: Lock It Open
 description: Juan Benet traces the history of the internet and the web, shows us what Web 3 is really about, and reminds us that the term has been around since 2004, when Tim Berners-Lee began work on the semantic web.
+image: /assets/shares/giving.png
 ---
 
 # 🔓 Lock the Web Open
@@ -11,7 +12,7 @@ description: Juan Benet traces the history of the internet and the web, shows us
 
 In this video, Juan Benet shows how "Web 3" relates to a larger movement happening across the internet right now, aimed at re-imagining how we share and relate. As such, it forms the third pillar of how we "take back the web" - **cooperation** baked into the very protocols we use for collecting, storing, and consulting the shared record which Vannevar Bush spoke of in 1945. 
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 This week's curated materials have all tried to identify and draw out a particular stream of thought that predates the internet. This is because the internet is just the latest in a long line of attempts to collect and make navigable the sum total of human knowledge. Access to this shared record and the means to move through it meaningfully confer great power. We have a unique opportunity as a generation to ensure both record and means remain open to all.
 

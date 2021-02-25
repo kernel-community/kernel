@@ -1,11 +1,12 @@
 ---
 title: Module 1 - Ethereum's History and State
-description: Week 1 of the KERNEL Learn Track, which will teach you about the ideas behind Ethereum and how they relate to building a better web.
+description: Week 1 of the Kernel Learn Track, which will teach you about the ideas behind Ethereum and how they relate to building a better web.
+image: /assets/shares/value.png
 ---
 
 # 🌍 Ethereum's History and State
 
-In Module 0, we introduced KERNEL and gave you an outline of what this course is aimed at teaching you. We discussed the overall framework for thinking we will develop throughout the 7 remaining weeks and conveniently labelled it "quantum thought". This is the ability to identify patterns both within and out there in the world; to understand the interplay of complementary opposites - 0 and 1 - which is the foundation of all pattern; to see more clearly the infinite spectrum of probabilities between the opposites without any irritable, egotistic grasping after certainty; and to develop the sort of humility required to navigate this complex modern world.
+In Module 0, we introduced Kernel and gave you an outline of what this course is aimed at teaching you. We discussed the overall framework for thinking we will develop throughout the 7 remaining weeks and conveniently labelled it "quantum thought". This is the ability to identify patterns both within and out there in the world; to understand the interplay of complementary opposites - 0 and 1 - which is the foundation of all pattern; to see more clearly the infinite spectrum of probabilities between the opposites without any irritable, egotistic grasping after certainty; and to develop the sort of humility required to navigate this complex modern world.
 
 We then grounded this abstract framework through the example of [trust](../module-0/trust). Once we can define in executable language all of the ways in which it is possible to cheat that we can develop "trustless" protocols which, in turn, allow us to explore new kinds of interpersonal, trust-full spaces between the actual people on either end of any given transaction. It is always both-and, then beyond.
 

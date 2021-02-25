@@ -1,6 +1,7 @@
 ---
 title: Scaling Principled Games
-description: Week 6 of the KERNEL Learn Track, which explores how we might scale censorship resistant technologies across the globe and how we can learn to play principled, infinite games with one another.
+description: Week 6 of the Kernel Learn Track, which explores how we might scale censorship resistant technologies across the globe and how we can learn to play principled, infinite games with one another.
+image: /assets/shares/learn.png
 ---
 
 # ⚖️ Scaling Principled Games
@@ -11,7 +12,7 @@ Last week we asked you what constitutes [persuasion](../module-5/incentives/#per
 
 ## Week 6
 
-This week is an opportunity for simple [reflection](../module-3/humility/). KERNEL is built around "ever-green" content and so, while there is a great deal of information about scaling and staking <a href="https://hackmd.io/@benjaminion/eth2_news" target="_blank">available</a>, we'll only cover the Eth2 Design Rationale and the [promised Bret Victor video from Week 1](../module-1/joyful-subversion/#experiment-with-format), both balanced by an old Spanish poetic idea. 
+This week is an opportunity for simple [reflection](../module-3/humility/). Kernel is built around "ever-green" content and so, while there is a great deal of information about scaling and staking <a href="https://hackmd.io/@benjaminion/eth2_news" target="_blank">available</a>, we'll only cover the Eth2 Design Rationale and the [promised Bret Victor video from Week 1](../module-1/joyful-subversion/#experiment-with-format), both balanced by an old Spanish poetic idea. 
 
 Take your time, enjoy the serene pace, and let's co-create some beautifully principled games to play with one another.
 

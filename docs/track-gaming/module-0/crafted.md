@@ -1,6 +1,6 @@
 ---
 title: Module 0 - Crafted Reading
-description:
+image: /assets/shares/giving.png
 ---
 
 # Crafted Reading - Patterns and Trust

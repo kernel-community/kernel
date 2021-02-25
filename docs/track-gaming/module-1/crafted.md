@@ -1,6 +1,6 @@
 ---
 title: Module 1 - Crafted Reading
-description:
+image: /assets/shares/giving.png
 ---
 
 # Crafted Reading - Jamming On Value
@@ -41,11 +41,11 @@ Please contribute more with a PR! 📝
 
 ## Breakout Activity
 
-For this weekend, we're inviting the KERNEL Gaming Track fellows to participate in Global Game Jam 2021: the largest game creation event taking place around the globe. 
+For this weekend, we're inviting the Kernel Gaming Track fellows to participate in Global Game Jam 2021: the largest game creation event taking place around the globe. 
 
 Please register at the link below:
 
-<a href="https://globalgamejam.org/2021/jam-sites/kernel-gaming-guild-game-jam-2021" target="_blank" rel="noopener noreferrer">KERNEL Gaming Track Global Game Jam Registration</a>
+<a href="https://globalgamejam.org/2021/jam-sites/kernel-gaming-guild-game-jam-2021" target="_blank" rel="noopener noreferrer">Kernel Gaming Track Global Game Jam Registration</a>
 
 Fellows will create a game over the weekend based on an announced theme. The theme will be announced at the start of the jam (Friday) and will be shared on Slack.
 

@@ -1,6 +1,7 @@
 ---
 title: The Playdough Protocols
 description: A short summary of an iconic 2002 article written by Nick Szabo on the history of seals and data integrity, directly applicable to how we understand the value of blockchains today.
+image: /assets/shares/giving.png
 ---
 
 # 🤝 The Playdough Protocols
@@ -23,7 +24,7 @@ description: A short summary of an iconic 2002 article written by Nick Szabo on 
 
 The above essay is about the history of seals and how, using the digital equivalent of seals, we can bring data integrity and unforgeable identities to online commerce. Written by Nick Szabo in 2002, it provides a unique window into understanding why blockchains matter beyond the purely monetary applications.
 
-## **How does this fit into KERNEL?**
+## **How does this fit into Kernel?**
 
 That said, we have chosen this essay specifically because it shows how money and trade led to the development of written language - an idea we began exploring with [Andreas Antonopoulos](../../module-0/money-language) in the previous module. Moreover, it speaks directly to
 
@@ -58,7 +59,7 @@ This is a point we will return to in the final week when we get to Sacred Econom
 
 > "The evolution of writing proceeded from there. A hundred years later reed styluses were being used to mimic the clay token marks. Over the centuries, scribes supplemented or replaced token-derived symbols with pictographs for the objects. The pictographs attempted to depict the object visually. Both kinds of symbols became stylized as wedges, or “cuneiform”, optimized for the reed stylus. Still later, words represented by neither pictographs nor token-derived symbols come to be represented by a rebus."
 
-And that's all she wrote! Well, not quite, but it is one of the more believable stories about the development of the written word and takes us into the very heart of what it is we're really innovating on in KERNEL.
+And that's all she wrote! Well, not quite, but it is one of the more believable stories about the development of the written word and takes us into the very heart of what it is we're really innovating on in Kernel.
 
 ### Sealing the Deal
 

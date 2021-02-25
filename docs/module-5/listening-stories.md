@@ -1,6 +1,7 @@
 ---
 title: Listening and Stories
 description: Before diving into incentives and how to create valuable mechanisms, let's take a moment to retrace some important personal concepts from earlier in the course.
+image: /assets/shares/listening-stories.png
 ---
 
 # 👂 Listening and stories

@@ -1,6 +1,6 @@
 ---
 title: Module 5 - Game Discoverability
-description:
+image: /assets/shares/giving.png
 ---
 
 # Crafted Reading - Game Discoverability

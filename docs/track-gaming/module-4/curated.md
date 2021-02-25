@@ -1,6 +1,6 @@
 ---
 title: Curated Material
-description:
+image: /assets/shares/giving.png
 ---
 
 # ⌛ Coming Soon!

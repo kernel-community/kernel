@@ -1,6 +1,7 @@
 ---
 title: Censorship Resistance
 description: When the incentives which define the structure of power in society can be programmed by anyone, anywhere; censorship resistance becomes an engineering problem, not an ideological one. Can we engineer truth in the face of power?
+image: /assets/shares/censorship-resistant.png
 ---
 
 # 👮 Censorship Resistance

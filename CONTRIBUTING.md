@@ -1,6 +1,6 @@
 # Contributing
 
-Interested in contributing to KERNEL? Want to request a new feature?
+Interested in contributing to Kernel? Want to request a new feature?
 Before you do, please read the following guidelines.
 
 ## Getting Started
@@ -29,7 +29,7 @@ You can run `mkdocs build` to build the production site, but that shouldn't be n
 You can request a new feature by submitting an issue to our GitHub Repository.
 If you would like to implement a new feature, please submit an issue with a
 proposal for your work first, to be sure that it is of use for everyone, as
-KERNEL is highly curated. Please consider what kind of
+Kernel is highly curated. Please consider what kind of
 change it is:
 
 * For a **major feature**, first open an issue and outline your proposal so

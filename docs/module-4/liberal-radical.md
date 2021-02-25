@@ -1,6 +1,7 @@
 ---
 title: Liberally Radical
 description: We look at some mathematical mechanisms designed to help us collective decide what to fund in the most optimal way so that we may more sustainably govern ourselves.
+image: /assets/shares/liberally-radical.png
 ---
 
 # ➕ Liberally radical

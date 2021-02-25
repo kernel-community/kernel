@@ -1,6 +1,6 @@
 ---
 title: Community Reads
-description:
+image: /assets/shares/giving.png
 ---
 
 # Reads

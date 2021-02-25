@@ -1,6 +1,7 @@
 ---
 title: Purpose and doing what you love
-description:
+description: Maria Popova describes a letter sent by Vincent van Gogh about love and purpose. The best way of knowing is to love a great deal.
+image: /assets/shares/giving.png
 ---
 
 # 🎨 Van Gogh: painting, love and purpose

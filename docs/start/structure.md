@@ -1,5 +1,7 @@
 ---
 title: Structure
+description: An overview of how the 8 modules which make up Kernel are structured.
+image: /assets/shares/listening-stories.png
 ---
 
 # 📖 Learn Track Structure
@@ -8,7 +10,7 @@ title: Structure
 
 Title | Personal Lesson | Web 3 Lesson | 
 ----- | --------        | -------      | 
-🌠 [Introduction to KERNEL](../../module-0)       | [The Play of Pattern](../../module-0/play-of-pattern) | [Trust](../../module-0/trust) |
+🌠 [Introduction to Kernel](../../module-0)       | [The Play of Pattern](../../module-0/play-of-pattern) | [Trust](../../module-0/trust) |
 🌍 [Ethereum's History and State](../../module-1) | [Meaning](../../module-1/meaning) | [Value](../../module-1/value) |
 💰 [A Global Financial System](../../module-2)    | [Better Questions](../../module-2/better-questions) | [Money and Speech](../../module-2/money-speech) |
 🌐 [Take Back The Web](../../module-3)            | [Intention](../../module-3/intention) | [Freedom](../../module-3/freedom) |
@@ -30,4 +32,4 @@ It should take you a maximum of 5 minutes to read each piece, so we only expect 
 1. Weeks begin on **Tuesdays**, because part of what we're doing here is breaking down our conditioned, culturally-acquired ways of thinking. What is more conditioning than the days of the week? Free yourself from Julian hegemony! 😉
 2. Our Fireside Chat, which is when we'll bring in esteemed speakers from across the industry and introduce you to the most experienced and brilliant minds we know, will generally occur each Thursday.
 3. Fireside chats revolve specifically around the theme for that week. They will be fairly structured, and broadcast live on YouTube for you to watch, with a live chat to ask questions if there is time.
-4. As you'll see in this module, conversations are critical to KERNEL and the framework for learning which we're presenting here. Throughout the course of each week, we will also have a number of smaller conversations on a variety of themes. These conversations are hosted between you and other members of your cohort, because we learn best from our own peers.
+4. As you'll see in this module, conversations are critical to Kernel and the framework for learning which we're presenting here. Throughout the course of each week, we will also have a number of smaller conversations on a variety of themes. These conversations are hosted between you and other members of your cohort, because we learn best from our own peers.

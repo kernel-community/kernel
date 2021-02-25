@@ -1,6 +1,7 @@
 ---
 title: Amazon's Unbounded Search
 description: This brief describes Amazon - and Walmart - as specific kind of algorithms. In particular, it models Amazon as an unbounded search across the internet for the best sellers to fill its virtual, and therefore infinite, shelf space.
+image: /assets/shares/value.png
 ---
 
 # 🌲 What is Amazon?
@@ -24,7 +25,7 @@ Designing algorithms is nothing new. So, before we get all New Age crypto-econom
 <div markdown="1" class="clear"></div>
 
 
-### How does the fit into KERNEL?
+### How does the fit into Kernel?
 
 This essay has been selected to show how critical incentives are, especially in the age of internet businesses and the unbounded search spaces over which they operate. Before writing effective economic code owned by no-one which benefits everyone, we have to understand the most successful mechanisms designed so far so that we can mimic their best parts and understand where they can actually be improved. Seeing how algorithms, platforms and incentives operate together will allow us to think more carefully about how to program our societies sustainably.
 

@@ -1,6 +1,7 @@
 ---
 title: Govern Yourself
 description: A connected world in which anyone can communicate anything from anywhere requires more dynamic and responsive means of governing ourselves. Though it seems complex, Lao Tzu already had all the answers 27 centuries ago.
+image: /assets/shares/govern.png
 ---
 
 # 👑 Govern yourself

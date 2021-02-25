@@ -1,6 +1,7 @@
 ---
 title: Module 2 - The Global Financial System
-description: Week 2 of the KERNEL Learn Track, which will teach you about the history and make-up of the current global financial system and how we can think about augmenting and improving it with a better web.
+description: Week 2 of the Kernel Learn Track, which will teach you about the history and make-up of the current global financial system and how we can think about augmenting and improving it with a better web.
+image: /assets/shares/money-speech.png
 ---
 
 # 💰 The Global Financial System

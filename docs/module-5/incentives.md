@@ -1,6 +1,7 @@
 ---
 title: Incentives
-description: Economic code on a shared ledger can be used to program crowds. Here we begin the exploration of what kinds of programs we should think about writing anf why.
+description: Economic code on a shared ledger can be used to program crowds. Here we begin the exploration of what kinds of programs we should think about writing and why.
+image: /assets/shares/incentives.png
 ---
 
 # Incentives

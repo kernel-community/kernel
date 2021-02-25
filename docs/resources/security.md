@@ -1,6 +1,7 @@
 ---
 title: Security Best Practices
 description: A highly curated collection of the best smart contract security tools currently available.
+image: /assets/shares/learn.png
 ---
 
 <div markdown="1" class="card third sidebar gemoji tool">

@@ -1,6 +1,7 @@
 ---
 title: Inventing on Principle
 description: A summary of Bret Victor's famous "Inventing on Principle" talk, which explores what it means to find a principle and let it guide your life and lead you to inventions with specific cultural intent.
+image: /assets/shares/learn.png
 ---
 
 # 🏗️ Inventing
@@ -11,9 +12,9 @@ We'll turn to Bret Victor to help us think about how we might meaningfully merge
 
 <iframe class="video-frame" src="https://player.vimeo.com/video/36579366?color=ffffff&byline=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
-This is the kernel of KERNEL. Bret won't teach you about decentralized systems; or money, finance and speech; or about what the web means in the context of a networked species.
+This is the kernel of Kernel. Bret won't teach you about decentralized systems; or money, finance and speech; or about what the web means in the context of a networked species.
 
 > "This is about a way of living your life which most people don't talk about. As you approach your career, you'll hear about 'following your passion', or 'doing something you love'. This is about something different: **finding and following a principle**. Something you believe is important and necessary and right and using that to guide what you do."
 

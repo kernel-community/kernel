@@ -2,12 +2,12 @@
 template: overrides/main.html
 ---
 
-# The KERNEL Gaming Track
+# The Kernel Gaming Track
 
 ![Gaming Track](./img/gaming_track.jpg)
 
 
-The **KERNEL Gaming Track** has the same [Core Learning Objectives](../../getting-started) as the **KERNEL Learn Track**, with a greater focus on those building games and other incentivized systems in Web 3. 
+The **Kernel Gaming Track** has the same [Core Learning Objectives](../../getting-started) as the **Kernel Learn Track**, with a greater focus on those building games and other incentivized systems in Web 3. 
 
 After each module in the **Learn Track**, we will share a few more articles that will hopefully deepen your appreciation of the learnings, this time in a gaming context. We'll supplement these with Firesides with invited guest speakers, plus juntos among our peer mentors.
 
@@ -32,7 +32,7 @@ After each module in the **Learn Track**, we will share a few more articles that
 
 Learn Track Module | Gaming Track Module  | Fireside Schedule | 
 ----- | --------        | -------      | 
-🌠 [Introduction to KERNEL](../../module-0)       | [Patterns and Trust](./module-0/core) | January 20, 2021 |
+🌠 [Introduction to Kernel](../../module-0)       | [Patterns and Trust](./module-0/core) | January 20, 2021 |
 🌍 [Ethereum's History and State](../../module-1) | [Jamming on Value](./module-1/core) | January 27, 2021 |
 💰 [A Global Financial System](../../module-2)    | [The Business of Games](./module-2/core) | February 3, 2021 |
 🌐 [Take Back The Web](../../module-3)            |  [Freedom and Open Source](./module-3/core) | February 10, 2021 |

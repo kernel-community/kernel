@@ -1,6 +1,7 @@
 ---
 title: The Gift
 description: A summary of a coversation between Lewis Hyde and Robin McKenna on The Gift as a phenomena and how we might use traditional interpretations in order to co-create more communal modern spaces based on ancient forms of exchange and relationship.
+image: /assets/shares/giving.png
 ---
 
 # 🎁 The Gift
@@ -11,7 +12,7 @@ description: A summary of a coversation between Lewis Hyde and Robin McKenna on 
 
 Perhaps we can reverse the above by building tools which allow us to present the commercial economy with the same dictum: "You know, logically, you could turn this into a gift economy. If you program reciprocal loops and recursive incentives, it would have the same effect," thereby discovering again what was [old community in new form](../../module-0/conversation/#old-gifts-anew)...
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 There are many types of transactional exchange humans can enter into, and nearly all of them are required in a fully functional and healthy society. This talk has been selected because Lewis Hyde provides a balanced perspective on the place and importance of gift exchange within an economy, emphasizing the kinds of work and contexts in which it is most appropriate.
 

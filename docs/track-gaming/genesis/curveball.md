@@ -5,7 +5,7 @@ description: A Deeper dive into gaming projects and resources.
 
 # ⚾ A Collection of Delightful Links
 
-A curated selection of resources and projects shared by the KERNEL Gaming Guild 🙏
+A curated selection of resources and projects shared by the Kernel Gaming Guild 🙏
 
 ## Gaming Guild Projects
 

@@ -1,6 +1,7 @@
 ---
 title: The People's Narrative
 description: A summary of a Bankless Nation podcast with Dr Ben Hunt which explores Epsilon Theory, the game theory of playing players and how narrative influences the incentive structures which create and support power.
+image: /assets/shares/freedom.png
 ---
 
 # 🎲 The People's Narrative
@@ -19,7 +20,7 @@ description: A summary of a Bankless Nation podcast with Dr Ben Hunt which explo
 
 <div markdown="1" class="clear"></div>
 
-### How does the fit into KERNEL?
+### How does the fit into Kernel?
 
 > "The world is turning into a place which is valued more by narratives than by fundamentals and [Dr Ben Hunt] caught that switch very early. He's got a lot to teach us about how narratives and game theory effect asset prices. This is about the base, social layer of the human experience." 
 

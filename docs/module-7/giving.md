@@ -1,6 +1,7 @@
 ---
 title: Giving
 description: What would it take to align money with a true expression of our gifts? Can we consider engineer ceremonial digital spaces for human transaction that deepen our relationships to one another and the world we share?
+image: /assets/shares/giving.png
 ---
 
 # 💝 Giving

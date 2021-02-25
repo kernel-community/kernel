@@ -1,6 +1,7 @@
 ---
 title: The Present Time
 description: Douglas Rushkoff explains the initial vision of the web as something which would create time, and how we must respond to the attempt to extract and commoditize our attention by being genuinely present.
+image: /assets/shares/giving.png
 ---
 
 # ⌚ The present time

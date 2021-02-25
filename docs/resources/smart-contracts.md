@@ -1,6 +1,7 @@
 ---
 title: Smart Contract Tools and Practices
 description: A highly curated collection of the best smart contract tools currently available.
+image: /assets/shares/trust.png
 ---
 
 # Smart Contracts
@@ -356,7 +357,7 @@ One of the best introductions to cryptography our community knows. Enrol for fre
 
 ## Recordings
 
-We're extremely lucky to have our friends Andrej and Bogdan at Tenderly offering all KERNEL members a free pro membership to what we believe is the slickest Web 3 developer tooling in the industry. Please check the video of their session below to get a sense for everything this can do and then ping them to get access. It'll make writing, debugging, stack tracing, and really developing the guts of your contracts significantly easier.
+We're extremely lucky to have our friends Andrej and Bogdan at Tenderly offering all Kernel members a free pro membership to what we believe is the slickest Web 3 developer tooling in the industry. Please check the video of their session below to get a sense for everything this can do and then ping them to get access. It'll make writing, debugging, stack tracing, and really developing the guts of your contracts significantly easier.
 
 <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/3BgevFiqnXE?start=246" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

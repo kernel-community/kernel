@@ -1,17 +1,18 @@
 ---
 title: Module 5 - Game Discoverability
-description:
+description: Today, discoverability is arguably a game developer's hardest challenge. We look inwards at player psychology, zoom out to a broad virtual economic view, and casually browse the internet and popular culture to find factors that affect how people discover our game.
+image: /assets/shares/better-questions.png
 ---
 
 # 🔍 Game Discoverability
 
 ## Nearing The End
 
-This module is the second to the last one of the KERNEL Gaming Track. As the finish line looms on the horizon, we've hopefully formed long-lasting connections, polished our project MVPs, and crystallized our ideas. Armed with our prototypes and presentations, we set out, ready to release our creations unto the world.
+This module is the second to the last one of the Kernel Gaming Track. As the finish line looms on the horizon, we've hopefully formed long-lasting connections, polished our project MVPs, and crystallized our ideas. Armed with our prototypes and presentations, we set out, ready to release our creations unto the world.
 
 Now comes the hard part: how will our players find our game? 
 
-Today, discoverability is arguably a game developer's hardest challenge, and it's fitting that we discuss it in relation with the Learn Track's [Token and Mechanism Design Module](../../../module-5/). Similar to token engineering, solving discoverability is a rich well of discussion. We can look inwards at player psychology, take a more zoomed out view of virtual economics, or even just casually browse the Internet and popular culture, and we'll be sure to find factors that affect how people discover our game.
+Today, discoverability is arguably a game developer's hardest challenge, and it's fitting that we discuss it in relation with the Learn Track's [Token and Mechanism Design Module](../../../module-5/). Similar to token engineering, discoverability is a rich well of discussion. We can look inwards at player psychology, take a more zoomed out view of virtual economics, or even just casually browse the Internet and popular culture, and we'll be sure to find factors that affect how people discover our game.
 
 How can we make sure that we find the audience that is crucial for us to get product market fit? With so much content being created today, how do we stand out from all the noise and shilling?
 
@@ -48,7 +49,7 @@ As Web 3 developers, we're also in a unique position to be able to remap the inc
 
 With opportunities also come challenges. Web 3 discoverability has unique properties: for one, our apps and games are usually reliant on browser extensions, greatly reducing our capability to reach more casual users. Another is that the cryptocurrency connection leads to tenuous relationships with app stores and other mainstream outlets, thus limiting our channels for exposure.
 
-As we approach the last module of the KERNEL Gaming Track, take heart knowing that you are the ones uniquely poised to break through these barriers.
+As we approach the last module of the Kernel Gaming Track, take heart knowing that you are the ones uniquely poised to break through these barriers.
 
 > Cryptoeconomic mechanism design is all about the interface between value in a digital and "actual" sense - it's about how we can use programmable money to influence the way societies organize and function. We invite you to apply the principles above to build prosocial mechanisms that advance the state of our social arts.
 

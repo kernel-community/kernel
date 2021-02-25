@@ -1,5 +1,6 @@
 ---
 title: There Will Be Buds
+image: /assets/images/bud_of_bud.png
 ---
 
 # There Will Be Buds (Solved)

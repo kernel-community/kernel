@@ -1,6 +1,7 @@
 ---
 title: No Paradigm
 description: A summary of the Marianne Brün's classic 1980 on The Intertia of Language and what it might mean to operate outside of any paradigm if we are able to learn how best to use new kinds of executable economic words.
+image: /assets/shares/value.png
 ---
 
 # ❌ No Paradigm
@@ -44,7 +45,7 @@ What I most want to say here cannot be <a href="https://youtu.be/7xwq1v8OD6s?t=2
 
 <div markdown="1" class="clear"></div>
 
-### How does this fit into KERNEL?
+### How does this fit into Kernel?
 
 We must take great care with the [language](../../module-0/money-language/#for-the-skeptics) we use to describe our [intentions](../../module-3/intention) when working with a global, shared and ownerless platform for computing. This is because the plot of our narratives is actually written in [economic code](../../module-2/money-speech/) and [executed without the context](../../module-0/money-language/#open-protocols-and-a-network-of-value) stories provide. The possibilities for the kinds of transactions we can enter into are therefore endless, but this is neither  a good nor a bad thing. It is simply a (very strange) fact of the time in which we live.  
 

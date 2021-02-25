@@ -1,6 +1,7 @@
 ---
 title: Oral Testimony
-description: Witnessing a old way of being born anew in this world wide web of light
+description: Witnessing a old way of being born anew in this world wide web of light.
+image: /assets/shares/learn.png
 ---
 
 # Oral Testimony

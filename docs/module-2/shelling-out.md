@@ -1,6 +1,7 @@
 ---
 title: Shelling Out
-description:
+description: Nick Szabo discusses the history of collectibles and makes an argument for money as a formal token of delayed reciprocal altruism, which requires closed loops of mutually beneficial trades in order to keep circulating, thereby collecting greater value and amortizing the costs of transport.
+image: /assets/shares/money-speech.png
 ---
 
 # 🔰 Recollecting Our Origins
@@ -23,9 +24,9 @@ description:
 
 This Nick Szabo article, originally published in 2002, has been selected because it provides a detailed historical backdrop which we will both challenge and build upon in the curated materials that follow.
 
-## **How does this fit into KERNEL?**
+## **How does this fit into Kernel?**
 
-This has been chosen for KERNEL, in particular, because it speaks directly to:
+This has been chosen for Kernel, in particular, because it speaks directly to:
 
 1. Reciprocal altruism and the problem of cooperation.
 1. The deep evolutionary links between **money**, mnemonics and genetic, generational memory.

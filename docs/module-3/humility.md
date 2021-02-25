@@ -1,6 +1,7 @@
 ---
 title: 🔎 Humility
 description: A brief look at Vaclav Havel and maria Popova, the idea of politics as morality in practice, and how we all might inculcate a new humility in our increasingly global culture.
+image: /assets/shares/giving.png
 ---
 
 # 🔎 The search for a new humility
@@ -25,7 +26,7 @@ description: A brief look at Vaclav Havel and maria Popova, the idea of politics
 
 We've constructed our three pillar approach to taking back the web, but what is the link between all three that will allow them to function as one, coherent foundation for a more equitably connected society? The answer harks all the way back to the [play of pattern](../../module-0/play-of-pattern): humility.
 
-## How does this fit into KERNEL?
+## How does this fit into Kernel?
 
 We need to turn back to Maria Popova and her careful digital curations in order to search for a new humility; to search for the kind of attitude which will allow a greater degree of clarity in our intentions; more sustainable kinds of personal freedom; and the sort of openness to old-new ideas which can help us realise the original dream of a world wide web of informed light.
 

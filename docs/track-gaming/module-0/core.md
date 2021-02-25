@@ -1,13 +1,14 @@
 ---
 title: Module 0 - Pattern and Trust
-description:
+description: Play is instinctual. What are the implications of a web which integrates more deeply finance, economics, and games?
+image: /assets/shares/trust.png
 ---
 
 # ☯ Patterns
 
 ## Identify Patterns
 
-> KERNEL Fellows will separate themselves by their ability to **identify patterns**.
+> Kernel Fellows will separate themselves by their ability to **identify patterns**.
 
 > Pattern recognition is at the core of cognition. Becoming more conscious of patterns which already exist, as well as how you choose to interact with those in your local environment, is the single best thing you can do to improve your critical thinking skills.
 
@@ -31,9 +32,9 @@ This has always been a pattern of technology: the startups working on seemingly 
 
 Similar to how Web 2 merged games and psychology, Web 3 will bring about deeper integration of finance, economics, and games. 
 
-What will be the implications of this? And, as KERNEL fellows, how should we be building these potentially god-like technologies?
+What will be the implications of this? And, as Kernel fellows, how should we be building these potentially god-like technologies?
 
-> KERNEL Fellows should have humility. We cannot be sure what the effect of our actions will be, we can only cultivate an acute observational awareness which will guide us toward making the right trade-offs.
+> Kernel Fellows should have humility. We cannot be sure what the effect of our actions will be, we can only cultivate an acute observational awareness which will guide us toward making the right trade-offs.
 
 > If you want to change the world, the world will inevitably act back and change you. The results of Web 2 applications have made this clear. The greater our collective humility, the more gentle this exchange will be as Web 3 comes to life.
 
@@ -41,7 +42,7 @@ If the world acts back and changes us, [what happens if the games we make and pl
 
 ## Complementary Opposites
 
-> In particular, we hope KERNEL Fellows begin thinking in terms of **complementary opposites**.
+> In particular, we hope Kernel Fellows begin thinking in terms of **complementary opposites**.
 
 > Rather than using dualities like 'decentralization good, centralization bad'; or 'DeFi is innovative, fiat is boring', this style of thinking recognizes that there is no good without evil; no attraction without repulsion, no North with South, no up without down.
 

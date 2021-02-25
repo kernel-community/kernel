@@ -1,6 +1,7 @@
 ---
 title: Module 3 - Take Back the Web
-description: Week 3 of the KERNEL Learn Track, which explores the long history of ideas for building an open web and ensuring anyone, anywhere can access the stored knowledge of humanity.
+description: Week 3 of the Kernel Learn Track, which explores the long history of ideas for building an open web and ensuring anyone, anywhere can access the stored knowledge of humanity.
+image: /assets/shares/freedom.png
 ---
 
 # 🌐 Take Back the Web

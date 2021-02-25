@@ -1,6 +1,6 @@
 ---
 title: Module 1 - Curated Material
-description:
+image: /assets/shares/giving.png
 ---
 
 # Curated Material - Jamming On Value

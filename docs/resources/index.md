@@ -1,6 +1,7 @@
 ---
 title: Create & Connect
 description: An overview of both the technical and social tools we're using throughout this course to help you on your journey towards a better web.
+image: /assets/shares/learn.png
 ---
 
 # Create and Connect with Better Tools
@@ -9,7 +10,7 @@ When we began this course, this was just a single page with a few of the best to
 
 The idea remains the same: you will only find the most useful, paradigm-shifting tools and resources here that we know of. This is not meant as a comprehensive and never-ending list of every tool available: it is a highly curated collection of things that have genuinely changed our day-to-day lives as developers, designers, product managers, and dreamers.
 
-## KERNEL
+## Kernel
 
 <div markdown="1" class="card half sidebar gemoji tool">
 
@@ -22,7 +23,7 @@ The idea remains the same: you will only find the most useful, paradigm-shifting
 A bespoke Notion page that will help you get to know your cohort 
 and navigate all the different facets of the next 8 weeks. Find people to team up with, learn more about the structure and get access to yet more tools.
 
-*Only visible to those in the KERNEL. 
+*Only visible to those in the Kernel. 
 
 <div markdown="3" class="tool-link">
 <a href="https://bit.ly/kernel0x" target="_blank" rel="noopener noreferrer">Explore</a>

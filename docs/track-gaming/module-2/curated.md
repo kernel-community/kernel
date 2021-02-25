@@ -1,6 +1,6 @@
 ---
 title: Module 2 - Curated Material
-description:
+image: /assets/shares/giving.png
 ---
 
 # Curated Material - The Business of Games
