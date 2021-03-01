@@ -199,7 +199,6 @@ nav:
       - Core Learning: track-gaming/module-5/core.md
       - Crafted Reading: track-gaming/module-5/crafted.md
       - Curated Material: track-gaming/module-5/curated.md
-
   - Converse:
     - Protocols for Peace: conversation/index.md
     - Oral Testimony: conversation/oral-testimony.md
@@ -207,6 +206,7 @@ nav:
     - Wander: koans/index.md
     - Module 1: koans/module-1.md
     - Module 3: koans/module-3.md
+    - Module 7: koans/module-7.md
   - Find: 
     - Connect: resources/index.md
     - Create: resources/design-spec.md
