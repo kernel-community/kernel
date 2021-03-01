@@ -37,8 +37,8 @@ Learn Track Module | Gaming Track Module  | Fireside Schedule |
 💰 [A Global Financial System](../../module-2)    | [The Business of Games](./module-2/core) | February 3, 2021 |
 🌐 [Take Back The Web](../../module-3)            |  [Freedom and Open Source](./module-3/core) | February 10, 2021 |
 ℹ️ [Internet Age Institutions](../../module-4)      | ... | ... |
-📈 [Tokens and Mechanism Design](../../module-5)  | [Game Discoverability](./module-5-core) | February 24, 2021 |
-⚖️  [Scaling Principled Games](../../module-6)    | ... | March 3, 2021 |
+📈 [Tokens and Mechanism Design](../../module-5)  | [Game Discoverability](./module-5/core) | February 24, 2021 |
+⚖️  [Scaling Principled Games](../../module-6) & [The Gift](../../module-7)    | [The Infinite Game](./module-6/core) | March 3, 2021 |
 
 ## 🙏 A Word of Thanks, A Game Each Week 🎮
 
