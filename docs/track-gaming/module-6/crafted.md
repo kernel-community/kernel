@@ -18,7 +18,7 @@ Blockchains and open-source projects flourish because of processes like the EIP,
 
 ## <a href="https://webmonetization.org/" target="_blank" rel="noopener noreferrer">Web Monetization</a>
 
-> A FINITE GAME OCCURS within a world... We are players in search of a world as often as we are world in search of players, and sometimes we are both at once. Some worlds pass quickly into existence, and quickly out of it. Some sustain themselves for longer periods, but no world lasts forever... There is an indefinite number of worlds.
+> A finite game occurs within a world... We are players in search of a world as often as we are world in search of players, and sometimes we are both at once. Some worlds pass quickly into existence, and quickly out of it. Some sustain themselves for longer periods, but no world lasts forever... There is an indefinite number of worlds.
 
 While finite "number go up" games are prominent in Web 3, there are arguably more valuable infinite games going on behind the scenes. One of these is Coil's Web Monetization / Interledger API, a promising open-source effort to lessen our reliance on the attention economy.
 
@@ -26,15 +26,15 @@ While finite "number go up" games are prominent in Web 3, there are arguably mor
 
 <img src="../img/learn.png" class="center-img" alt="Infinite" />
 
-For our last breakout activity, we'll share the gift of knowledge with our KERNEL peers.
+For our last breakout activity, we'll share the gift of knowledge with our Kernel peers.
 
-KERNEL fellows should pair up and discuss with each other what our plans are for after KERNEL, and what finite game that we are playing that we want to win. These finite games are usually the same as our key success metrics, such as reach a daily active user count of X, or reach total value locked for our token of Y.
+Kernel fellows should pair up and discuss with each other what our plans are for after Kernel, and what finite game that we are playing that we want to win. These finite games are usually the same as our key success metrics, such as reach a daily active user count of X, or reach total value locked for our token of Y.
 
-Our partner will then try and identify a corresponding infinite game that we could be playing after our initial finite game ends. Take turns doing this, and we may find that we are playing similar games. Afterwards, try to make plans to keep in touch with each other, and to lend support to each other as KERNEL fellows.
+Our partner will then try and identify a corresponding infinite game that we could be playing after our initial finite game ends. Take turns doing this, and we may find that we are playing similar games. Afterwards, try to make plans to keep in touch with each other, and to lend support to each other as Kernel fellows.
 
 ## A Word of Thanks
 
-Thank you for going on the KERNEL Gaming Track adventure! 
+Thank you for going on the Kernel Gaming Track adventure! 
 
 As we shuffle out the corridors of Airmeet and prepare ourselves for the next chapter, I share this gift of words from James Baldwin. May you find as much truth, value and meaning from it as I have.
 

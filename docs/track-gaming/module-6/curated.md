@@ -11,7 +11,7 @@ An initiative by Coil and Mozilla, the Grant for the Web is playing the seemingl
 
 ## <a href="https://fs.blog/2020/02/finite-and-infinite-games/" target="_blank" rel="noopener noreferrer">FS on Finite and Infinite Games</a>
 
-Farnam Street's take on how to apply James Carse's work in our daily lives. Fs.blog helps us see the world better using these and other mental models, and is a great resource for KERNEL fellows in our journey of continuous learning.
+Farnam Street's take on how to apply James Carse's work in our daily lives. Fs.blog helps us see the world better using these and other mental models, and is a great resource for Kernel fellows in our journey of continuous learning.
 
 ## <a href="https://stratechery.com/" target="_blank" rel="noopener noreferrer">Stratechery</a>
 
