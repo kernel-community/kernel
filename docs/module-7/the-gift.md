@@ -55,7 +55,7 @@ The idea that your work is not confined to the present moment and that you're wo
 
 > "Listening to Guthrie made me feel more like myself than ever before."   
 
-> This is a perplexing statement, because [what is the self](../../module-4/self-enquiry) such that a young person would feel *like himself* in the presence of somebody else's art? It's as if that self is already present, but isn't brought to the surface until the art of some previous generation precipitates it [...] There is a feeling that there is a common Self, that the hyper-individualism we live with today is not a full enough story to explain how an artist becomes an artist and comes to practice with his or her gifts.
+> This is a perplexing statement, because [what is the self](../../module-4/self-enquiry) such that a young person would feel *like himself* in the presence of somebody else's art? It's as if that self is already present, but isn't brought to the surface until the art of some previous generation precipitates it [...] There is a feeling that there is a common <a href="https://www.youtube.com/watch?v=Oohg3LZd898&t=1344s" target="_blank" rel="noopener noreferrer">Self</a>, that the hyper-individualism we live with today is not a full enough story to explain how an artist becomes an artist and comes to practice with his or her gifts.
 
 ### Anonymous and Lively
 
