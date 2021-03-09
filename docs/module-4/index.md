@@ -20,6 +20,8 @@ This is because the internet routes information around slow-moving bureaucracies
 
 > Institutionally, counterpower takes the form of what we would call institutions of direct democracy, consensus and mediation; that is, ways of publicly negotiating and controlling that inevitable internal tumult and transforming it into social states (or if you like, forms of value) that society sees as the most desirable: conviviality, unanimity, fertility, prosperity, beauty, however it may be framed.
 
-## Fireside with Dandelion Mane
+## Firesides with Dandelion Mane and Mariano Conti
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/djQhzNA9bzc?start=938" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/djQhzNA9bzc?start=938" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/dtNvB6D2Emw?start=175" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

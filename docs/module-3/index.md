@@ -18,8 +18,11 @@ Incentives are a technical problem which can be consciously engineered and secur
 
 While the crafted reading explores these abstract concepts, the curated material this week grounds itself in a mix of history and the most cutting-edge thought to make a simple argument about what "taking back the web" means in a practical sense. We'll develop three core pillars, and then bring it back to Week 0, and our original emphasis on humility. Please enjoy.
 
-## Fireside with Juan Benet
+## Firesides with Juan Benet and David Vorick, Manasi Vora
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/WjQ87t2s2y8?start=1257" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/WjQ87t2s2y8?start=1257" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/zNx7_qYdsrE?start=217" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 

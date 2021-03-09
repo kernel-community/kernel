@@ -20,7 +20,9 @@ So, this week, we'll begin trying to understand what happens when you combine a 
 
 We are not abandoning Bitcoin - many more references to it follow - but rather trying to come to a holistic understanding of all the competing and complementary developments in the technology of money since 2009. We do this in the pursuit of an ever-deepening understanding of the underlying patterns which power this new family of valuable protocols.
 
-## Fireside with Vinay Gupta
+## Firesides with Vinay Gupta
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/hDzKPhk_ooA?start=635" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/hDzKPhk_ooA?start=635" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/Km3O7Vzr-Kk?start=112" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

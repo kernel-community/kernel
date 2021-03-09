@@ -3,7 +3,7 @@ title: True Heart
 image: /assets/images/heartmap.png
 ---
 
-# True Heart
+# True Heart (Solved)
 
 _We have remembered,_  
 _that is all there is to say._  

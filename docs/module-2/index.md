@@ -16,6 +16,8 @@ The introduction might make you think this week will continue along the idealist
 
 We'll begin with a short introduction to asking better questions, because it really is worth asking about why systems are the way they currently are before moving straight into a disruptive mindset. From there, we'll take an extended journey - through the links between money and speech - into the very belly of the beast. Buckle up friends: it's gonna be a bumpy ride.
 
-## Fireside with Kevin Owocki
+## Firesides with Kevin Owocki and Tascha Punyaneramitdee
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/1tHQ9K5Oj9s?start=380" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/1tHQ9K5Oj9s?start=380" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/pCHVmUz8maQ?start=199" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

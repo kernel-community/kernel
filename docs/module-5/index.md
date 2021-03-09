@@ -22,7 +22,9 @@ We're interested in the [unassailable facts](../module-1/promise-blockchains/#th
 
 We haven't even scratched the surface of possible mechanisms in such a space. It's that vast. Therefore, we'll take a step back and look at the most successful mechanisms designed at the advent of online commerce; consider the incredible power of narrative and how it is used to both shape and challenge the incentive structures which support power; and then dive into computer game design and the latest research on how to do it in a prosocial manner so as to build better relationships and guard against toxicity and loneliness in our social systems.
 
-## Fireside Chat with Andy Tudhope
+## Firesides with Andy Tudhope and Bea Ramos, Sparrow Reed
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/JVDcfwWkP18?start=361" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/JVDcfwWkP18?start=361" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/NUO86413eD4?start=132" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

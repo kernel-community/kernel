@@ -16,6 +16,8 @@ This week is an opportunity for simple [reflection](../module-3/humility/). Kern
 
 Take your time, enjoy the serene pace, and let's co-create some beautifully principled games to play with one another.
 
-## Fireside with Danny Ryan
+## Firesides with Danny Ryan and Vitalik
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/0WeQ7c-RbwM?start=1007" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/0WeQ7c-RbwM?start=1007" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/xpKEVtjBNYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

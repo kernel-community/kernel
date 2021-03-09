@@ -24,6 +24,8 @@ As he has played so vital a role in many of the currents which flow beneath this
 
 > Economies without markets were not based on calculation, but on a refusal to calculate; they were rooted in an ethical system which consciously rejected most of what we would consider the basic principles of economics. It was not that they had not yet learned to seek profit through the most efficient means. They would have found the very premise that the point of an economic transaction—at least, one with someone who was not your enemy—was to seek the <a href="https://www.brainpickings.org/2014/07/07/buddhist-economics-schumacher/" target="_blank" rel="noopener noreferrer">greatest profit deeply offensive</a>. 
 
-## Fireside with Vitalik
+## Firesides with Vitalik and Andy
 
-<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/6u1xZqOe5pE?start=276" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/6u1xZqOe5pE?start=276" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/XHCv7e4NRAM?start=220" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
