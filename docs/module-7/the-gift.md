@@ -124,3 +124,5 @@ Gift-giving extends deeply into both history and the human psyche. If you enjoye
 </div>
 
 <div markdown="1" class="clear"></div>
+
+<img class="center-img" src="../img/giving_dana_paramita.png" />
