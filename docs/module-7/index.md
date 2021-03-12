@@ -6,13 +6,19 @@ image: /assets/shares/giving.png
 
 # 🎁 The Gift
 
-After describing [Eth2 as our generation's elder game of economic penalties](../module-6/serenity/), it may seem like there is nothing left to say. However, there is one bonus side-mission left; one more extension pack meant to give you a unique means of reading our new interplanetary plays.
+After describing [Eth2 as our generation's elder game of economic penalties](../module-6/serenity/#how-does-this-fit-into-kernel), it may seem like there is nothing left to say. However, there is one bonus side-mission left; one more extension pack meant to give you a unique means of reading our new interplanetary plays.
 
-Vitalik mentioned last week the importance of asymmetric defense as the basic premise required to uphold "the ideology of the cypherpunk spirit". So, let's look more carefully at those two loaded words: **ideology** and **spirit**.
+For eight weeks, we've been discussing the [play of complementary opposites](../module-0/play-of-pattern), extending our awareness of the spectrum of consciousness and examining more intimately the trade-offs we make in every moment. But what, really, are these opposites? What informs their opposite-ness? What is the real nature of their relationship?
+
+> The opposition is, at it were, between container and contained, between the background and the stage, between the field and the players moving on it. The good and the evil play their opposing parts on the field which remains neutral and indifferent and "open" or "empty". It is like rain that falls on the just and the unjust. -- Daisetz Suzuki
+
+> “Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there. When the soul lies down in that grass the world is too full to talk about.” -- Jalāl ad-Dīn Muhammad Rūmī
 
 ## Week 7
 
-We'll begin by highlighting a critical and often-overlooked part of hacker and cypherpunk culture: gift-giving. Once we've traversed this most ancient and storied part of both our shared history and individual psyches, we'll turn to Marianne and Mary to help us understand the inertia of language which makes the above two words so difficult to deal with. Then we'll close the course with a consideration of what a universal language deployed on a shared, transparent, and ownerless global network means when playing increasingly principled multiplayer games.
+Vitalik mentioned last week the importance of asymmetric defense as the basic premise required to uphold "the ideology of the cypherpunk spirit". So, let's look more carefully at those two loaded words: **ideology** and **spirit**.
+
+To do so, we'll consider a critical and often-overlooked part of hacker and cypherpunk culture: gift-giving. Once we've traversed this most ancient and storied part of both our shared history and individual psyches, we'll turn to Marianne and Mary to help us understand the inertia of language which makes the above two words so difficult to deal with. Then we'll close the course with a consideration of what a universal language deployed on a shared, transparent, and ownerless global network means when playing increasingly principled multiplayer games.
 
 Thank you for your kind attention. This has been an amazing exploration, and we wish you so very well as we all adventure together into [new architectures](../module-4/the-garden/#shared-realities) of [time](../module-3/time/) and more numinous digital-economic spaces. 
 
